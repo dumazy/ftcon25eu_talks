@@ -3,18 +3,27 @@
     {
       "name": "Fré Dumazy",
       "bio": "About",
-      "companyName": "",
+      "companyName": "Skystone Apps",
       "companyUrl": "",
       "githubUrlOrHandle": "",
-      "xUrlOrHandle": "",
-      "linkedinUrlOrHandle": "",
+      "xUrlOrHandle": "https://x.com/FresidentDumazy",
+      "linkedinUrlOrHandle": "https://www.linkedin.com/in/dumazy/",
       "webUrl": ""
     }
   ],
   "title": "Add-to-web: Reusing Flutter via multi-view embedding",
   "videoUrl": "",
   "description": "In this talk we'll dive into embedding multi-view Flutter apps within any other web app, using custom initialization logic instead of relying on the standard generated index.html and its associated bootstrap script.\r\n\r\nWe'll explore how multi-view apps allow multiple, independent Flutter components to be initialized at runtime in different parts of an existing web application. These views can share state internally, communicate with the host via JS interop and benefit from deferred imports to reduce startup times.\r\nFurthermore, we'll focus on keeping the feedback loops short during development by enabling stateful hot reload and quick start up flows and go over common pitfalls and good-to-knows.\r\n\r\nThis talk is aimed at Flutter developers who want to get started with adding Flutter to existing web apps and take advantage of the multi-view capabilities.\r\n",
-  "resources": [],
+  "resources": [
+    {
+      "label": "Slides",
+      "url": "https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0LguEu5TDrLOAJEdHUyKRyrY"
+    },
+    {
+      "label": "Code sample",
+      "url": "https://github.com/skystoneapps/multi-view-talk"
+    }
+  ],
   "recommendations": [],
   "day": "Friday",
   "time": "01:15 PM",
