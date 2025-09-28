@@ -128,6 +128,8 @@ Speakers: [list](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md
 | Why "Where" Matters: Exploring the Power of Location-Aware Apps | Jen Merritt | Friday | 02:45 PM |  |
 ## Credits
 
+This repo has been forked from [Andrea Bizzotto's FlutterCon 2024 repo](https://github.com/bizz84/ftcon24eu_talks). I just vibe-coded a scraper to populate the JSON files.
+
 Big thanks to all the FlutterCon speakers and their efforts in creating and delivering these amazing talks.
 
 Special thanks go to [Martin Bertele](https://github.com/martin-bertele) who created all the automations and [Andrii Matkivskyi](https://github.com/amatkivskiy) who helped with much of the data entry on this repo.
