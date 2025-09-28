@@ -6,10 +6,10 @@
 
 ## LinkedIn
 
-
+[Fré Dumazy](https://www.linkedin.com/in/dumazy/)
 ## X
 
-
+[Fré Dumazy](https://x.com/FresidentDumazy)
 ## Personal Web
 
 

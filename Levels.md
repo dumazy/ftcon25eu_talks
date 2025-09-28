@@ -33,7 +33,7 @@
 | ----- | -------- | --------- |
 | AI in Flutter Development: What’s Actually Useful? | [Esra Kadah](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#esra-kadah), [Ivanna Kaceviča](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ivanna-kaceviča) |  |
 | Accelerating the Dev Loop with DCM Lints at Betterment | [Casey Rogers](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#casey-rogers) |  |
-| Add-to-web: Reusing Flutter via multi-view embedding | [Fré Dumazy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#fré-dumazy) |  |
+| Add-to-web: Reusing Flutter via multi-view embedding | [Fré Dumazy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#fré-dumazy) | [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0LguEu5TDrLOAJEdHUyKRyrY), [Code sample](https://github.com/skystoneapps/multi-view-talk) |
 | Adding Google Maps Turn-by-Turn Navigation to Your Flutter App | [Joonas Kerttula](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#joonas-kerttula) |  |
 | AnimatedTo: A Game Changer for Your Moving Animations | [Tsuyoshi Chujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#tsuyoshi-chujo) |  |
 | Automation for Enterprise-Scale Flutter Development | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |

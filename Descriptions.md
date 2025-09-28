@@ -54,6 +54,8 @@ The further into the loop an error gets, the more developer time is wasted and t
 
 Speakers: [Fré Dumazy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#fré-dumazy)
 
+Resources: [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0LguEu5TDrLOAJEdHUyKRyrY), [Code sample](https://github.com/skystoneapps/multi-view-talk)
+
 In this talk we'll dive into embedding multi-view Flutter apps within any other web app, using custom initialization logic instead of relying on the standard generated index.html and its associated bootstrap script.
 
 We'll explore how multi-view apps allow multiple, independent Flutter components to be initialized at runtime in different parts of an existing web application. These views can share state internally, communicate with the host via JS interop and benefit from deferred imports to reduce startup times.
