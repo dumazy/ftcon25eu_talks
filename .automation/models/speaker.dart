@@ -22,15 +22,15 @@ class Speaker {
   });
 
   factory Speaker.fromJson(Map<String, dynamic> json) => Speaker(
-        name: json['name'],
-        bio: json['bio'],
-        companyName: json['companyName'],
-        companyUrl: json['companyUrl'],
-        githubUrlOrHandle: json['githubUrlOrHandle'],
-        xUrlOrHandle: json['xUrlOrHandle'],
-        linkedinUrlOrHandle: json['linkedinUrlOrHandle'],
-        webUrl: json['webUrl'],
-      );
+    name: json['name'],
+    bio: json['bio'],
+    companyName: json['companyName'],
+    companyUrl: json['companyUrl'],
+    githubUrlOrHandle: json['githubUrlOrHandle'],
+    xUrlOrHandle: json['xUrlOrHandle'],
+    linkedinUrlOrHandle: json['linkedinUrlOrHandle'],
+    webUrl: json['webUrl'],
+  );
 
   String? get githubLink => githubUrlOrHandle != null
       ? UrlHelper.toUrl(githubUrlOrHandle!, 'github')
@@ -44,7 +44,7 @@ class Speaker {
       : null;
 
   String get mdLink =>
-      '[${this.name}](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#${this.name.toLowerCase().replaceAll(' ', '-')})';
+      '[${this.name}](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#${this.name.toLowerCase().replaceAll(' ', '-')})';
 
   Speaker copyWith({
     String? name,

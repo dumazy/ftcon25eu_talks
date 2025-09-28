@@ -3,7 +3,7 @@
 
 ## AI in Flutter Development: What’s Actually Useful?
 
-Speakers: [Esra Kadah](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#esra-kadah), [Ivanna Kaceviča](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#ivanna-kaceviča)
+Speakers: [Esra Kadah](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#esra-kadah), [Ivanna Kaceviča](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ivanna-kaceviča)
 
 AI tools are flooding the developer space—but which ones are Flutter developers actually using to build better apps? And where’s the line between hype and real value?
 
@@ -26,7 +26,7 @@ How do you stay current with new AI tools while avoiding productivity drains or 
 
 ## Accelerating the Dev Loop with DCM Lints at Betterment
 
-Speakers: [Casey Rogers](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#casey-rogers)
+Speakers: [Casey Rogers](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#casey-rogers)
 
 In this talk, see how Betterment is leveraging DCM with a few case studies and find out how your team can also accelerate dev time with robust linting.
 
@@ -52,7 +52,7 @@ The further into the loop an error gets, the more developer time is wasted and t
 
 ## Add-to-web: Reusing Flutter via multi-view embedding
 
-Speakers: [Fré Dumazy](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#fré-dumazy)
+Speakers: [Fré Dumazy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#fré-dumazy)
 
 In this talk we'll dive into embedding multi-view Flutter apps within any other web app, using custom initialization logic instead of relying on the standard generated index.html and its associated bootstrap script.
 
@@ -65,7 +65,7 @@ This talk is aimed at Flutter developers who want to get started with adding Flu
 
 ## Adding Google Maps Turn-by-Turn Navigation to Your Flutter App
 
-Speakers: [Joonas Kerttula](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#joonas-kerttula)
+Speakers: [Joonas Kerttula](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#joonas-kerttula)
 
 Unlock real-time, turn-by-turn navigation in your Flutter apps by leveraging the power of the Google Maps Navigation SDK with the google_navigation_flutter package.
 
@@ -79,7 +79,7 @@ Unlock real-time, turn-by-turn navigation in your Flutter apps by leveraging the
 
 ## AnimatedTo: A Game Changer for Your Moving Animations
 
-Speakers: [Tsuyoshi Chujo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#tsuyoshi-chujo)
+Speakers: [Tsuyoshi Chujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#tsuyoshi-chujo)
 
 Have you realized we don’t have a “position” version of the implicitly animating widget, unlike AnimatedContainer or AnimatedOpacity? Now, I’m confident my animated_to package changes the game of the situation. 
 
@@ -92,7 +92,7 @@ This talk will equip you not only with knowledge about one of the animation pack
 
 ## App Audit — Acing Your WCAG Accessibility Audit
 
-Speakers: [Enzo Conty](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#enzo-conty)
+Speakers: [Enzo Conty](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#enzo-conty)
 
 Accessibility isn’t just a checkbox—it’s about making your Flutter app usable for everyone. WCAG (Web Content Accessibility Guidelines) provide the global standard, but applying them in practice—especially in a Flutter UI—can raise tough questions.
 
@@ -103,7 +103,7 @@ Whether you're early in the design phase or preparing for a formal audit, this i
 
 ## Automation for Enterprise-Scale Flutter Development
 
-Speakers: [Anna Leushchenko](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#anna-leushchenko)
+Speakers: [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko)
 
 As Flutter projects grow in size and complexity — especially in enterprise-scale environments — manual processes can quickly become bottlenecks. In this talk, we’ll explore how automation can streamline local development, pull requests, releases, and ongoing maintenance of a large-scale Flutter codebase.
 
@@ -114,7 +114,7 @@ You’ll leave this session equipped with practical, actionable strategies for b
 
 ## Banking on Flutter – The Virgin Money Journey
 
-Speakers: [Łukasz Kosman](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#łukasz-kosman), [Gary Mclellan](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#gary-mclellan)
+Speakers: [Łukasz Kosman](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#łukasz-kosman), [Gary Mclellan](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#gary-mclellan)
 
 Speakers: Gary McLellan (Head of Digital Engineering, Virgin Money) & Łukasz Kosman (CEO, LeanCode)
 
@@ -132,7 +132,7 @@ Whether you’re leading a team, managing a product, or building Flutter apps, t
 
 ## Behind the @ – Dart Annotations in Depth
 
-Speakers: [Anna Leushchenko](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#anna-leushchenko)
+Speakers: [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko)
 
 As Flutter developers, you’ve almost certainly encountered annotations like `@override` and `@deprecated`. But Dart’s annotation system offers much more than just these built-in cases, yet this feature remains underused in the majority of projects.
 
@@ -141,7 +141,7 @@ In this talk, we’ll explore what annotations are, how to create custom ones, a
 
 ## Beyond the widgets: Evaluating Flutter apps with code assessments
 
-Speakers: [Óscar Martín](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#óscar-martín)
+Speakers: [Óscar Martín](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#óscar-martín)
 
 In this talk, we’ll explore how to effectively analyze a Flutter codebase during a code assessment. We'll focus on how to ensure robust, scalable practices that support the long-term success of your team. By highlighting patterns and anti-patterns, you'll learn how certain decisions can either empower your team to move faster and safer or slow things down.
 
@@ -157,7 +157,7 @@ Key Takeaways:
 
 ## Breaking Career Plateaus: What’s Really Holding You Back in Tech?
 
-Speakers: [Sandra-Lorena Bahlmann](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#sandra-lorena-bahlmann)
+Speakers: [Sandra-Lorena Bahlmann](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#sandra-lorena-bahlmann)
 
 Tech professionals often hit invisible ceilings—not because of lack of talent, but because of overlooked habits, mindsets, or patterns that quietly stall progress. In this roundtable, we’ll explore the career blockers that many of us carry without realizing it, and share practical, proven strategies for getting unstuck.
 
@@ -172,7 +172,7 @@ What systems (mentorship, feedback loops, journaling, coaching, etc.) have helpe
 
 ## Build Your Own AI Sidekick with Flutter
 
-Speakers: [Moritz Theis](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#moritz-theis), [Alexander Thiele](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alexander-thiele)
+Speakers: [Moritz Theis](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#moritz-theis), [Alexander Thiele](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alexander-thiele)
 
 In this hands-on workshop, we’ll build a tiny AI assistant that lives inside a Flutter app—think of it as a “mini ChatGPT” tailored to a specific theme like travel, cooking, or even Flutter documentation.
 
@@ -191,7 +191,7 @@ What You’ll Learn:
 
 ## Building Design Tools with Flutter: Challenges and Lessons Learned
 
-Speakers: [Bogdan Hobeanu](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#bogdan-hobeanu)
+Speakers: [Bogdan Hobeanu](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#bogdan-hobeanu)
 
 Can Flutter go beyond typical mobile apps and handle the complexity of full-featured, professional-grade tools?
 
@@ -209,7 +209,7 @@ Key Takeaways:
 
 ## Building Offline AI Agent in your Flutter app
 
-Speakers: [Sasha Denisov](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#sasha-denisov)
+Speakers: [Sasha Denisov](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#sasha-denisov)
 
 Dive into building the next generation of Flutter apps with Offline AI Agents powered by Edge AI. This talk explores how to run intelligent, autonomous agents fully on-device—without internet—enhancing privacy, reducing latency, and unlocking powerful capabilities beyond the cloud.
 
@@ -224,7 +224,7 @@ Finally, we’ll dive into the multimodal capabilities of Gemma 3n, combining vi
 
 ## Building a Full-Stack App for Apple Wallet Passes
 
-Speakers: [Marcos Sevilla](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#marcos-sevilla)
+Speakers: [Marcos Sevilla](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcos-sevilla)
 
 This presentation will detail the process of building an API with Dart Frog to generate Apple Passes, and integrating it with a Flutter application designed to use these passes. 
 
@@ -238,7 +238,7 @@ Key Takeaways
 
 ## Building a Strong Engineering Culture
 
-Speakers: [Stelios Frantzeskakis](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#stelios-frantzeskakis)
+Speakers: [Stelios Frantzeskakis](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#stelios-frantzeskakis)
 
 A strong engineering culture is crucial for mobile teams to scale efficiently, retain top talent, and drive innovation. This roundtable will explore strategies for fostering an adaptive, inclusive, and high-performing engineering culture across remote, hybrid, and in-person teams.
 > What are the most effective ways to document, spread, and reinforce engineering culture in mobile teams?
@@ -251,7 +251,7 @@ A strong engineering culture is crucial for mobile teams to scale efficiently, r
 
 ## Clean Code Push: Integrating Shorebird CodePush into Scalable Flutter Architectures
 
-Speakers: [Ümit Duran](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#ümit-duran)
+Speakers: [Ümit Duran](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ümit-duran)
 
 Flutter’s newly released architectural guidelines give developers a great starting point for writing scalable and maintainable apps. But what happens when you want to add something like Shorebird CodePush? It’s powerful—allowing over-the-air updates—but can easily lead to tangled code if not handled carefully.
 
@@ -262,7 +262,7 @@ You’ll come away with practical tips on how to add features like CodePush with
 
 ## Connect: gRPC that "works everywhere"
 
-Speakers: [Kirill Bubochkin](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#kirill-bubochkin)
+Speakers: [Kirill Bubochkin](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kirill-bubochkin)
 
 gRPC is a powerful and efficient technology, but it does not work reliably on the web platform without workarounds such as an Envoy proxy. Connect is a protocol and library that reimagines gRPC to work seamlessly across mobile, web, and server environments.
 
@@ -271,7 +271,7 @@ In this talk, I will introduce the Connect protocol and demonstrate how it enabl
 
 ## Crash-Proof Flutter: Building Apps That Refuse to Die
 
-Speakers: [Pawan Kumar](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#pawan-kumar)
+Speakers: [Pawan Kumar](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pawan-kumar)
 
 Every Flutter developer has experienced it: A production app crashes due to an unexpected null value, a changed API response, or a setState called after dispose. Your perfectly tested app meets the chaos of the real world, and users suffer.
 What if your app could gracefully handle these failures without crashing?
@@ -291,7 +291,7 @@ Perfect for: Flutter developers who want to build production-ready apps that sur
 
 ## DIY In-App Locale Editor with slang
 
-Speakers: [Łukasz Wiśniewski](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#łukasz-wiśniewski)
+Speakers: [Łukasz Wiśniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#łukasz-wiśniewski)
 
 Not sure if those AI-generated translations are any good? Don't want to spend a fortune on localization tools? Or maybe you just love over-engineering things?
 
@@ -311,7 +311,7 @@ Live demo included!
 
 ## Design Systems in Practice: How Flutter Teams Save Time and Align with Design
 
-Speakers: [Anton Borries](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#anton-borries), [Lucas Josefiak](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#lucas-josefiak)
+Speakers: [Anton Borries](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anton-borries), [Lucas Josefiak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lucas-josefiak)
 
 Design systems promise consistency, speed, and scalability—but turning that promise into a real, working system is a team sport. In this roundtable, we’ll share experiences and challenges around building and using design systems in Flutter projects.
 
@@ -328,7 +328,7 @@ What’s one feature (like dark mode or accessibility) that a design system help
 
 ## Ensuring quality throughout the application lifecycle
 
-Speakers: [Jonas Uekötter](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#jonas-uekötter)
+Speakers: [Jonas Uekötter](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jonas-uekötter)
 
 Working on a large-scale Flutter application, maintaining a high software quality is a continuous challenge. Additionally, the intrinsic properties of a mobile app, like no rollbacks, an app version being basically available forever, makes ensuring quality even harder. This talk explores how developers balance shift-left (proactive quality assurance) and shift-right (real-world quality validation) to ensure reliability, maintainability, and a seamless user experience throughout each stage of the application lifecycle.
 
@@ -341,7 +341,7 @@ This session will provide actionable insights for developers, QA engineers, and 
 
 ## Exploring Real-Time 3D in Flutter with Gaussian Splatting – An Early Field Report
 
-Speakers: [Jesper Bellenbaum](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#jesper-bellenbaum), [Tim Lehmann](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#tim-lehmann)
+Speakers: [Jesper Bellenbaum](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jesper-bellenbaum), [Tim Lehmann](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#tim-lehmann)
 
 Gaussian Splatting is a recent approach for efficient real-time 3D rendering. This makes it particularly well-suited for realistic visualizations even on mobile devices.
 In this session, we'll talk  how to bring Gaussian Splatting into Flutter apps using Google's Almost Native Graphics Layer Engine layer. We'll guide you through the full pipeline: from capturing photos and reconstructing them into 3D models using open-source tools (COLMAP, brush-cli), to embedding these 3D assets directly into your Flutter app.
@@ -349,7 +349,7 @@ In this session, we'll talk  how to bring Gaussian Splatting into Flutter apps u
 
 ## Faster, Smarter Releases: Accelerating Mobile App Deployments
 
-Speakers: [Omkar Pimple](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#omkar-pimple)
+Speakers: [Omkar Pimple](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#omkar-pimple)
 
 Shipping a mobile app should be fast and reliable—but engineering leaders know how often release cycles are slowed by manual QA, late-stage bugs, and coordination overhead. The challenge: how can teams move faster without compromising product quality or team sanity?
 
@@ -374,7 +374,7 @@ Join peers to exchange insights, ask tough questions, and walk away with ideas y
 
 ## Faster, Smarter Releases: Using AI to Accelerate Mobile Deployments in Flutter
 
-Speakers: [Omkar Pimple](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#omkar-pimple)
+Speakers: [Omkar Pimple](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#omkar-pimple)
 
 Shipping a mobile app should be fast—but too often, release cycles are slowed by manual testing, last-minute bugs, and coordination overhead. The challenge: how do you move faster without compromising quality?
 
@@ -395,7 +395,7 @@ Where do you draw the line between automation and manual oversight in your relea
 
 ## Fearless Flutter Debugging: When All Else Fails, Hack the Tools!
 
-Speakers: [Mateusz Wojtczak](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#mateusz-wojtczak)
+Speakers: [Mateusz Wojtczak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-wojtczak)
 
 Hitting a wall with a persistent Flutter bug? Suspect the tooling might be involved? Don't despair! 
 
@@ -408,7 +408,7 @@ This session isn't just about fixing bugs; it's about empowering you with the co
 
 ## Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots
 
-Speakers: [Pascal Welsch](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#pascal-welsch)
+Speakers: [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch)
 
 When Mike Cohan introduced the testing pyramid in 2009, it made perfect sense for backend-heavy systems. But today’s Flutter apps are different: Most complexity lives in the UI. And unlike back then, we now have fast, reliable, headless UI tests: Widget tests.
 
@@ -434,7 +434,7 @@ Key Takeaways:
 
 ## Flutter Performance: No Silver Bullet, Only Smart Engineering
 
-Speakers: [Mikhail Zotyev](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#mikhail-zotyev)
+Speakers: [Mikhail Zotyev](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mikhail-zotyev)
 
 What actually makes a Flutter app fast? And why is this topic so often surrounded by myths, holy wars, and fake silver bullets?
 
@@ -451,7 +451,7 @@ Performance isn’t about magic. It’s about understanding how Flutter really w
 
 ## Flutter Plugins - From Method Channels to Native Interop
 
-Speakers: [Dominik Roszkowski](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#dominik-roszkowski)
+Speakers: [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski)
 
 In this session, we’ll explore practical tips and some good practices for developing Flutter plugins in 2025. How to simplify the process with type-safe APIs via jnigen and ffigen?  How to debug your native code easily?  What about swiftgen?
 We'll see how to combine more legacy approaches like method channels with soon-to-be-stable Flutter native interop.
@@ -460,7 +460,7 @@ We’ll also demonstrate a real-world example by building a PDF viewer plugin an
 
 ## Flutter Vibes Only: Join Us for the Flutter Vibe-Coding Workshop
 
-Speakers: [Ivanna Kaceviča](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#ivanna-kaceviča), [Esra Kadah](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#esra-kadah)
+Speakers: [Ivanna Kaceviča](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ivanna-kaceviča), [Esra Kadah](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#esra-kadah)
 
 What is the state of vibe-coding with Flutter in late 2025?
 
@@ -480,7 +480,7 @@ Key takeaways:
 
 ## Flutter Widgets Probably Haven’t Heard Of
 
-Speakers: [Majid Hajian](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#majid-hajian)
+Speakers: [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian)
 
 Working with Flutter every day and getting fascinated by its hidden potential, I always discover something new! And you probably have even heard it, either. 
 
@@ -489,7 +489,7 @@ In this talk, I’ll showcase underrated Flutter widgets that can simplify layou
 
 ## Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More!
 
-Speakers: [Matthew Jones](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#matthew-jones)
+Speakers: [Matthew Jones](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#matthew-jones)
 
 Unleash your inner maker. In this session learn to push Flutter far beyond the usual boundaries. Discover ways to connect Flutter to the world of DIY electronics, prototyping, 3D printing, and more!
 
@@ -500,7 +500,7 @@ Seasoned engineers and new developers alike will benefit from practical demos an
 
 ## Flutter with WebRTC for real-time screen sharing
 
-Speakers: [Stanislav Sydorenko](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#stanislav-sydorenko)
+Speakers: [Stanislav Sydorenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#stanislav-sydorenko)
 
 In this talk, I’ll share my experience building Twinscreen (twinscreen.app), a Flutter app that lets you share your phone’s screen and stream it live to the web using the WebRTC protocol. You’ll learn not just the “how” but also the “gotchas” of bringing realtime screen sharing into Flutter.
 
@@ -516,14 +516,14 @@ Whether you want to build a screen-sharing app, add live collaboration features,
 
 ## Flutter, Flame, and Fragment Shaders
 
-Speakers: [Renan Araujo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#renan-araujo)
+Speakers: [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo)
 
 Let's explore how the Shader Pipeline API on Flame transforms the visual appeal of Flutter games. Techniques such as glass and watermorphism, fog, and light reflection, along with post-processing, will be discussed. Through entertaining and clever examples, we’ll unlock shaders for games!
 
 
 ## Flutter-Powered Robot Butler: Building a Talking, Thinking IoT Device with Embedded AI
 
-Speakers: [Alex Bordei](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alex-bordei)
+Speakers: [Alex Bordei](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alex-bordei)
 
 What if we told you that you can build your own robot butler—one that talks, listens, sees, and even moves—using Flutter? In this session, we’ll show how we turned a Raspberry Pi and some off-the-shelf components into an interactive robot powered by embedded AI, with Flutter as the central brain.
 
@@ -543,7 +543,7 @@ We’ll bring code, insights, and most importantly—our Flutter-powered robot b
 
 ## From Flutter to Full-Stack: A Practical Guide to Full-stack Development
 
-Speakers: [Salih Guler](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#salih-guler)
+Speakers: [Salih Guler](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#salih-guler)
 
 In this hands-on session, we’ll learn about how we can transition to full-stack development, focusing on backend concepts using AWS cloud infrastructure and Dart backend. We’ll demonstrate how to design scalable, secure APIs and integrate them seamlessly into your Flutter apps. Through live coding, we’ll walk you through setting up and deploying your backend, covering key topics like user authentication, cloud storage, and handling real-time data synchronization.
 
@@ -553,7 +553,7 @@ By the end of this session, you’ll have the skills to design and deploy secure
 
 ## From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features
 
-Speakers: [Mateusz Rus](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#mateusz-rus)
+Speakers: [Mateusz Rus](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-rus)
 
 This session is a deep dive into solving problems with flexible and overridable architecture. We will go through a real-world journey of refactoring a complex, shareable Flutter and Dart code, moving from common pitfalls to an architecture that is both powerful for the creator and a delight for the consumer. We will explore the nuanced decisions behind dependency injection, API design, and state management, demonstrating how to provide maximum flexibility without sacrificing ease of use. This is not a theoretical talk; it's a practical guide full of code, patterns, and hard-won lessons for anyone building reusable modules, packages, or large-scale Flutter applications.
 
@@ -572,7 +572,7 @@ Examples: from simple theme changes to replacing entire data sources.
 
 ## From Zero to Flutter Favorite: What Makes a Great Dart & Flutter Package?
 
-Speakers: [Jonas Uekötter](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#jonas-uekötter), [Christoph Schlüter](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#christoph-schlüter)
+Speakers: [Jonas Uekötter](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jonas-uekötter), [Christoph Schlüter](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#christoph-schlüter)
 
 What separates a good Flutter package from a great one—the kind that becomes a trusted dependency for thousands?
 
@@ -593,14 +593,14 @@ Whether you're maintaining a niche utility or working toward Flutter Favorite st
 
 ## From fear to air: embracing over-the-air app updates
 
-Speakers: [Mangirdas Kazlauskas](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#mangirdas-kazlauskas)
+Speakers: [Mangirdas Kazlauskas](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mangirdas-kazlauskas)
 
 Repeat after me: app updates are stressful. Dealing with app store reviews and worrying about disrupting users can make anyone hesitant to release new features. But what if there was a better way? Over-the-air (OTA) updates let you deliver changes directly to your users, super fast and without any fuss. In this talk, we’ll explore various OTA update techniques, from simple tools to advanced methods like code push for instant fixes, feature flags for controlled rollouts and A/B testing, server-driven UI for dynamic content, and even generative AI for personalized experiences. By the end of this talk, you’ll be ready to embrace OTA updates, ship features faster, keep users happy, and turn app updates into an exciting opportunity for continuous improvement.
 
 
 ## How to design a Dart package with hooks
 
-Speakers: [Moritz Sümmermann](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#moritz-sümmermann)
+Speakers: [Moritz Sümmermann](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#moritz-sümmermann)
 
 Using the example of package:intl4x, we'll look at how to design a Dart package using the new build and link hook system and usage recording, answering questions such as
 - How do I build binaries?
@@ -613,7 +613,7 @@ This will be as hands-on as possible, less focused on the underpinnings and more
 
 ## I don't have any technical debt
 
-Speakers: [Jason Toms](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#jason-toms)
+Speakers: [Jason Toms](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jason-toms)
 
 I can guess a few things you might be thinking now. Either I am lying, or I just don't know what technical debt is. Or maybe I am just bad at my job and these opinions will blow up in my face a year from now.
 
@@ -626,7 +626,7 @@ I think the way we got here is pretty simple: take ownership of your codebase. I
 
 ## It's Not Just Liquid Glass: Building Physics-Driven Flutter Apps That Feel Real
 
-Speakers: [Tim Lehmann](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#tim-lehmann), [Jesper Bellenbaum](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#jesper-bellenbaum)
+Speakers: [Tim Lehmann](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#tim-lehmann), [Jesper Bellenbaum](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jesper-bellenbaum)
 
 With recent announcements from Apple, the rise of spatial computing, and expressive Material 3 design guidelines, UI trends are rapidly moving toward interfaces that feel alive and tangible. In a competitive landscape where capturing users' attention hinges on delightfully detailed interactions, this session explores how Flutter can be leveraged today and adapted for the future to deliver best-in-class, physically-responsive user experiences.
 
@@ -641,7 +641,7 @@ With recent announcements from Apple, the rise of spatial computing, and express
 
 ## I’m the entry point now
 
-Speakers: [Marcin Wróblewski](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#marcin-wróblewski)
+Speakers: [Marcin Wróblewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcin-wróblewski)
 
 A guide to future-proofing your Flutter app architecture, allowing it to launch directly into relevant screens and bypass predefined navigation paths. Discover how to make your authentication and app setup processes seamless for the user, delivering experiences previously exclusive to native applications. Enable your iOS Flutter app to contribute to system search results, be automatable with Shortcuts, and be called automatically via Siri or Apple Intelligence, making it the dream solution for every user.
 
@@ -653,7 +653,7 @@ Key takeaways:
 
 ## Jaspr - Dart, but for Websites
 
-Speakers: [Kilian Schulte](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#kilian-schulte)
+Speakers: [Kilian Schulte](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kilian-schulte)
 
 Ever heard of Jaspr, the Web Framework for Dart developers?
 
@@ -669,7 +669,7 @@ Highlights:
 
 ## Joining at Staff+: Thriving in a Senior Role Without a Map
 
-Speakers: [Xavier F. Gouchet](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#xavier-f.-gouchet)
+Speakers: [Xavier F. Gouchet](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#xavier-f.-gouchet)
 
 This roundtable explores the unique challenge of joining a new team or company as a Staff or Principal Engineer—where you're expected to lead, but the structure, ownership, and legacy might already be deeply entrenched. Unlike earlier roles, Staff+ success often means defining your own lane, identifying unclaimed problems, and building influence without authority.
 
@@ -684,7 +684,7 @@ How can engineering managers or directors better support Staff engineers during 
 
 ## Kalender: A Calendar package in the spirit of Flutter
 
-Speakers: [Werner Scholtz](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#werner-scholtz)
+Speakers: [Werner Scholtz](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#werner-scholtz)
 
 Calendars are a common feature in modern apps, but building a robust one is more complex than it first appears. In this talk, we’ll start by exploring the concept of calendars in app development, reviewing some of the existing packages on pub.dev and the limitations we ran into. We’ll share practical use cases including real-world examples from internal applications (at KDAB) and walk through how Kalender evolved to address those needs.
 
@@ -703,21 +703,21 @@ Key takeaways:
 
 ## Lessons learned after helping more than 2000 Flutter teams build their own design system
 
-Speakers: [Lucas Josefiak](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#lucas-josefiak)
+Speakers: [Lucas Josefiak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lucas-josefiak)
 
 In this talk, I’ll share the key lessons learned after supporting over 2000 Flutter teams in building their own design systems using Widgetbook. You’ll discover practical insights into what makes design systems succeed or fail in real-world teams – from establishing ownership and ensuring designer-developer alignment, to leveraging live previews, documentation, and scalable workflows. Whether your team is starting out or refining an existing system, these lessons will help you avoid common pitfalls and build a design system that actually drives consistency, speed, and product quality.
 
 
 ## Let's go far with Flutter
 
-Speakers: [Kevin Moore](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#kevin-moore)
+Speakers: [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore)
 
 Flutter has always enabled us to go fast, but the journey to go far is one we must take together. The core Flutter team is making targeted changes to make it easier for the broader ecosystem to go faster, but it will take all of us for Flutter to reach its full potential.
 
 
 ## Let’s Talk About Memory Leaks In Dart And Flutter
 
-Speakers: [Majid Hajian](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#majid-hajian)
+Speakers: [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian)
 
 Memory leaks can be annoying as they are hard to spot and recreate compared to syntax errors or logic bugs usually appearing in the development phase. Memory leaks in Flutter applications are getting even more complex with the addition of layers of widgets and controllers combined with listeners over time, which may result in performance issues or unexpected crashes for users after prolonged use.
 In this talk, I will explore Dart and Flutter memory leaks and memory bloating, how they occur, their importance in coding practices, solutions to debug memory leaks and identify them, such as DevTools and Leak Tracker, and shifting left by relying on static analyzer tools and how they can prevent such leaks from sneaking into your code base.
@@ -726,28 +726,28 @@ This talk includes many examples from real applications I have worked on in the 
 
 ## Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System
 
-Speakers: [Piotr Rogulski](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#piotr-rogulski)
+Speakers: [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski)
 
 Want to streamline your Dart analysis workflow and leverage the latest tooling? Dart's new first-party analyzer plugin system promises a unified, faster way to handle custom lints by replacing `custom_lint` and integrating directly with `dart analyze`. This talk demystifies the migration process. We'll walk you through our step-by-step migration of the `leancode_lint` package, sharing both the successes and the roadblocks encountered. Learn firsthand about the new plugin structure, understand the key differences from `custom_lint`, and discover the practical challenges and outcomes. Equip yourself with the insights needed to tackle your own migration smoothly.
 
 
 ## Live-Coding Custom Widgets with Simon
 
-Speakers: [Simon Lightfoot](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-lightfoot)
+Speakers: [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot)
 
 Simon will show you how to take advantage of Flutters RenderObject, Element and Widget trees to build a custom infinite canvas widget that only builds the widgets on screen.
 
 
 ## Live-Coding With Simon (Part II)
 
-Speakers: [Simon Lightfoot](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-lightfoot), [Kevin Moore](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#kevin-moore)
+Speakers: [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot), [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore)
 
 Topic to be announced! Stay tuned.
 
 
 ## Mastering CustomPainter: Going Beyond Widgets in Flutter
 
-Speakers: [Sofia Rey](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#sofia-rey)
+Speakers: [Sofia Rey](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#sofia-rey)
 
 CustomPainter gives you full control over the canvas in Flutter, which is perfect for building visuals that standard widgets just can’t handle.
 
@@ -765,7 +765,7 @@ Key Takeaways:
 
 ## Mastering Efficiency in 2025: How Are You Building Faster with Flutter?
 
-Speakers: [Mateusz Wojtczak](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#mateusz-wojtczak)
+Speakers: [Mateusz Wojtczak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-wojtczak)
 
 In 2025, speed and scalability are top priorities for mobile teams—but how do you actually build faster without cutting corners?
 
@@ -781,7 +781,7 @@ What role is AI currently playing in your development process—and how do you b
 
 ## Monetization Strategies for Flutter Apps: Beyond the Basics
 
-Speakers: [Ivanna Kaceviča](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#ivanna-kaceviča)
+Speakers: [Ivanna Kaceviča](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ivanna-kaceviča)
 
 Building a great Flutter app is just the beginning—turning it into a sustainable business is the real challenge. In this roundtable, we’ll explore the wide range of monetization strategies available to Flutter developers, from subscriptions and in-app purchases to ads, one-time payments, and referral programs.
 
@@ -800,7 +800,7 @@ We’ll discuss what’s working in today’s app economy, how to select the rig
 
 ## Multi-Radio Flutter: Architecting Apps with UWB, BLE, and Beyond
 
-Speakers: [Ahmed Hamdan](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#ahmed-hamdan)
+Speakers: [Ahmed Hamdan](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ahmed-hamdan)
 
 Ever wondered how Flutter could handle multiple wireless technologies like UWB and BLE in a single app? 
 In this session, we'll dive into the exciting world of multi-radio applications, stepping beyond basic examples to tackle real-life scenarios.
@@ -810,7 +810,7 @@ I'll share practical insights on how these technologies complement each other, d
 
 ## Navigating the Shift from Code to Leadership
 
-Speakers: [Thomas Hanning](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#thomas-hanning)
+Speakers: [Thomas Hanning](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#thomas-hanning)
 
 Moving from an individual contributor role to a team lead position is an exciting yet challenging transition—especially for engineers with a strong technical background. How do you redefine your role when success is no longer measured by the code you write but by the impact you have on your team?
 This roundtable dives into the personal and professional evolution that mobile engineers—particularly Android and Flutter developers—undergo when stepping into leadership.
@@ -826,7 +826,7 @@ What practices have helped you shape and maintain a strong engineering culture w
 
 ## Nested Navigation in flutter web
 
-Speakers: [Renuka Kelkar](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#renuka-kelkar)
+Speakers: [Renuka Kelkar](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renuka-kelkar)
 
 In Flutter web, developing Nested navigation is always a critical topic. 
 Every project has different needs, Some project needs Bottom navigation some need Sidebar navigation, and some need some sidebar with nested navigation. Too many combinations and complications!!  it’s a hard decision to decide on an approach similar to the packages. Which package should we use and why? In this talk, I am sharing my story about Go Router. How Shell route is a change maker and solved many problems. Let’s learn more about the Shell route. and its different use cases. Make Flutter web navigation simple and easy.
@@ -835,7 +835,7 @@ Every project has different needs, Some project needs Bottom navigation some nee
 
 ## No More Anxiety: How to Use iOS Extensions in Your Flutter App
 
-Speakers: [Lucas Goldner](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#lucas-goldner)
+Speakers: [Lucas Goldner](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lucas-goldner)
 
 I think I’m not the only one who panics a little when I have to add a new iOS extension to an app, especially when it’s not a simple home screen widget or a share sheet! There are so many powerful extension types in iOS that we often overlook, but they can enable creative and seamless integrations with the iOS platform.
 
@@ -851,7 +851,7 @@ Whether you’re building deep platform integrations, want to extend your app’
 
 ## No More Jank: How to Keep Your Flutter App Smooth and Snappy
 
-Speakers: [Shree Bhagwat](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#shree-bhagwat)
+Speakers: [Shree Bhagwat](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#shree-bhagwat)
 
 Everything works great on your device, but suddenly your Flutter app starts lagging, dropping frames, or stuttering on others. This talk is about those moments. I’ll break down how Flutter renders frames, why things go janky, and how you can fix (and even prevent) it. 
 Through real examples and practical demos, I’ll share tips and tools that have helped me improve performance in production apps — and hopefully, they’ll help you too.
@@ -879,7 +879,7 @@ What You'll Learn:
 
 ## No More ‘Someone Else’s Problem’: Tackling Tech Debt at Scale
 
-Speakers: [Florian Mierzejewski](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#florian-mierzejewski)
+Speakers: [Florian Mierzejewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#florian-mierzejewski)
 
 When 50+ engineers contribute to a rapidly growing codebase, technical debt and executing migrations becomes an organizational challenge.
 At Qonto, we transformed our tech debt management by moving from vague group responsibility to empowering teams with a way to visualize and prioritize their debt, turning "someone should fix this" into "we’re on it."
@@ -896,7 +896,7 @@ Join us to see how teams like yours can cut tech debt while boosting ownership, 
 
 ## No touch. No gestures. Can you still build a Great UX?
 
-Speakers: [Vadym Pinchuk](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#vadym-pinchuk)
+Speakers: [Vadym Pinchuk](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#vadym-pinchuk)
 
 Building applications for TVs, kiosks, and other remote-controlled devices isn’t the same as building for mobile. There’s no touch. No gestures. Just a handful of buttons—left, right, up and down. That constraint changes everything.
 
@@ -916,7 +916,7 @@ Key takeaways:
 
 ## Optimize your productivity with Flutter developer tooling
 
-Speakers: [Elliott Brooks](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#elliott-brooks)
+Speakers: [Elliott Brooks](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#elliott-brooks)
 
 Flutter's developer tools are constantly evolving to help you become a more productive and effective engineer. But are you harnessing their full potential?
 
@@ -927,7 +927,7 @@ Beyond the built-in capabilities, you'll learn about Flutter developer tooling e
 
 ## Performant Scrolling Layouts With Slivers
 
-Speakers: [Michael Lazebny](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#michael-lazebny)
+Speakers: [Michael Lazebny](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#michael-lazebny)
 
 In this talk, I will cover the essential concepts of scrolling layouts in Flutter.
 
@@ -938,7 +938,7 @@ The session will also include live coding and practical examples to address comm
 
 ## Polish Before Pitch: Making Your Flutter App Feel “Alive” Before Fundraising
 
-Speakers: [Enzo Conty](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#enzo-conty)
+Speakers: [Enzo Conty](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#enzo-conty)
 
 You’ve got core functionality. The MVP works. But will your Flutter app feel good enough to wow investors, early users, or potential partners? This roundtable is for Flutter developers who want to add that final layer of polish before fundraising. We'll swap ideas and practical techniques to make your app feel more dynamic, responsive, and professional—even on limited time and budget. From animation tips and haptic feedback to onboarding flow, layout finesse, and perceived performance tricks, let’s talk about what makes a Flutter app feel truly “alive.“ Whether you’re prepping for a demo day or bootstrapping your way toward seed funding, come share what’s worked for you—or what you’re still figuring out.
 
@@ -951,7 +951,7 @@ Have you ever received feedback (positive or negative) on the look and feel of y
 
 ## Powering offline-first forestry in Europe's wilds
 
-Speakers: [Alexander Thiele](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alexander-thiele)
+Speakers: [Alexander Thiele](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alexander-thiele)
 
 Working in remote locations often means that internet access is limited or interrupted. This talk will look at the technical challenges and solutions for building a robust and efficient synchronization engine written in Flutter for Android, iOS and Web. The presentation will demonstrate how an intelligent synchronization mechanism, working on both the front-end and back-end, can efficiently manage data transfer. We will discuss strategies to ensure that only changed data is synchronized when the connection is restored to minimize bandwidth consumption and optimize performance. Join us to discover how a well-designed sync engine can provide field teams in even the most remote locations with reliable access to critical information, driving the success of complex projects in challenging environments.
 
@@ -959,7 +959,7 @@ Working in remote locations often means that internet access is limited or inter
 
 ## Proximity Unlocked: What I wish I knew before working with background location
 
-Speakers: [Simon Eckerstorfer](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-eckerstorfer)
+Speakers: [Simon Eckerstorfer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-eckerstorfer)
 
 Getting accurate and efficient user location in the background is one of the trickiest challenges in mobile development.
 In this lightning talk, I’ll share the things I wish I knew before going down this road —focusing on practical tools and concrete tips.
@@ -969,7 +969,7 @@ If you’re building a location-based app, this talk will save you time, headach
 
 ## Pub Workspaces
 
-Speakers: [Lukas Klingsbo 💙](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#lukas-klingsbo-💙)
+Speakers: [Lukas Klingsbo 💙](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lukas-klingsbo-💙)
 
 Pub Workspaces is a new exciting feature that is built-in to Dart to help you organize your monorepos.
 
@@ -981,21 +981,21 @@ In this talk we'll go through how to set up your pub workspace and what the adva
 
 ## Quick Start MCP with Dart: Building LLM Context Servers Now
 
-Speakers: [Jhin Lee](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#jhin-lee)
+Speakers: [Jhin Lee](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jhin-lee)
 
 The Model Context Protocol (MCP) is revolutionizing how applications interact with Large Language Models (LLMs) by providing a standardized way to exchange contextual information. This talk will begin with a brief overview of MCP and its diverse use cases with LLMs. The core focus, however, will be a practical demonstration of building a robust MCP server using Dart. We'll explore the key components, implementation strategies, and best practices for leveraging Dart's capabilities to create efficient and scalable MCP servers for LLM applications. Whether you're a Dart enthusiast or an LLM practitioner, this session will equip you with the knowledge to integrate MCP into your projects.
 
 
 ## RenderObject layer advantages without writing any RenderObjects
 
-Speakers: [Albert Wolszon](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#albert-wolszon)
+Speakers: [Albert Wolszon](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#albert-wolszon)
 
 Every more advanced Flutter developer has heard of RenderBoxes, their layer, and their advantages over containing themselves just in the Widgets world. But in reality, a small number of developers have ever written one, they’re usually intimidated by the amount of boilerplate to write, and the methods to override, most with some scary-looking name. In this talk, I’ll introduce the audience to the boxy package and its CustomBoxy and BoxyDelegate classes that make taking advantage of the render object layer a very low-hanging fruit that is easy to understand, with almost no boilerplate and some advanced features if you feel like it. I’ll start by quickly reminding you how rendering widgets in Flutter works, when we need to step up the game from just the widgets layer, and what Flutter framework gives us (5 approaches of the varying magnitude of complexity) for render object layer development. Then I’ll dive in the BoxyDelegate world solving a few real-life production UI problems and I’ll talk about the pros and cons of BoxyDelegate and how I use it on a daily basis. Spoiler alert: BoxyDelegate is a wrapper on RenderObject API making it 3x more convenient to use.
 
 
 ## Rethinking Flutter Interviews in the AI Era
 
-Speakers: [Vadym Pinchuk](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#vadym-pinchuk), [Elaine Dias Batista](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#elaine-dias-batista)
+Speakers: [Vadym Pinchuk](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#vadym-pinchuk), [Elaine Dias Batista](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#elaine-dias-batista)
 
 AI tools like ChatGPT can solve coding problems instantly—and remote interviews make it hard to know who’s really behind the keyboard. So what should Flutter teams do when traditional technical interviews stop reflecting real-world skill?
 
@@ -1018,7 +1018,7 @@ What alternative interview formats (e.g. take-home projects, pair programming, s
 
 ## Rolling Out AI at Scale in Mobile Engineering Teams
 
-Speakers: [Ilya Savin](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#ilya-savin), [Maia Grotepass](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#maia-grotepass)
+Speakers: [Ilya Savin](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ilya-savin), [Maia Grotepass](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#maia-grotepass)
 
 Everyone’s talking about AI. But how do you actually introduce it into a large mobile engineering team without derailing delivery, bloating workflows, or creating tool fatigue?
 
@@ -1035,7 +1035,7 @@ What AI experiments failed for you—and what did you learn from them?
 
 ## Roundtable Topic: Escaping Chaos: Should Your Flutter Team Move to a Monorepo?
 
-Speakers: [Marcin Chudy](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#marcin-chudy)
+Speakers: [Marcin Chudy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcin-chudy)
 
 Managing a growing Flutter codebase across many repositories can quickly become a nightmare—slowed CI, broken branches, painful merges. But does switching to a monorepo solve more problems than it creates?
 
@@ -1052,7 +1052,7 @@ What advice would you give to a team considering a monorepo but unsure about the
 
 ## Server-Side Rendering for Flutter Web: Promising Paths or Dead End?
 
-Speakers: [Simon Auer](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-auer)
+Speakers: [Simon Auer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-auer)
 
 You've built an amazing app for Android, iOS, or desktop—so why not take advantage of Flutter’s cross-platform power and bring it to the web?
 
@@ -1065,7 +1065,7 @@ Join us as we break down different approaches, weigh their pros and cons, and an
 
 ## Ship > Hype: Rolling Out AI at Scale to 60 Android Engineers
 
-Speakers: [Ilya Savin](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#ilya-savin)
+Speakers: [Ilya Savin](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ilya-savin)
 
 Synopsis:
 How we rolled out AI across a 60+ Android team at Qonto - strategy, hands-on experiments, what worked (and what didn’t), and how we made it part of our actual dev flow without slowing things down
@@ -1094,7 +1094,7 @@ Takeaways:
 
 ## Simpler state management with Dart on the server and synced databases
 
-Speakers: [Simon Binder](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-binder)
+Speakers: [Simon Binder](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-binder)
 
 Local databases like SQLite are a great tool for storing structured data. Together with reactive libraries like Drift, they form a great basis for state management as well.
 Once local data needs to be fetched from or uploaded to a backend however, things become a lot more complicated and require custom cache management. This talk shows how a combination of Dart on the server and realtime sync engines make state management across devices just as easy as state management on a single device.
@@ -1108,7 +1108,7 @@ Key takeaways of this talk are:
 
 ## Streamlining Development with the Monorepo Ecosystem
 
-Speakers: [Adam Eba](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#adam-eba)
+Speakers: [Adam Eba](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#adam-eba)
 
 Have you ever found yourself juggling multiple apps under the same project—reusing UI and logic, but constantly duplicating effort? Or have you struggled with maintaining consistency when changes in one app need to be reflected in others, like a client app, provider app, or admin portal?
 
@@ -1123,7 +1123,7 @@ Whether you’re building for a small team or scaling for enterprise needs, this
 
 ## Streamlining Flutter Releases: What’s Your Process?
 
-Speakers: [Alba Torres Rodríguez](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alba-torres-rodríguez)
+Speakers: [Alba Torres Rodríguez](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alba-torres-rodríguez)
 
 Manual releases are tedious, error-prone, and don’t scale. Whether you're a solo developer or working in a larger team, automating your release pipeline is essential—but there’s no one-size-fits-all approach.
 
@@ -1144,7 +1144,7 @@ Do you follow a fixed release cadence or release on demand? What strategies help
 
 ## Successfully reducing Firestore read operations
 
-Speakers: [Nino Handler](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#nino-handler)
+Speakers: [Nino Handler](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#nino-handler)
 
 Here's a classic startup / side project scenario: You quickly write your Flutter app and start with a Firestore database. You probably also use Firebase Cloud Functions as serverless backend.
 By time, your projects gets bigger and the user base starts to grow, quickly followed by your Google Cloud bill. As soon as the free quotas are gone, the battle against high read operations - which are the main cause for high bills - beginns.
@@ -1159,7 +1159,7 @@ The talk will showcase some Flutter and Cloud Functions code and compare differe
 
 ## Surviving the Long Game: Maintaining Flutter Apps Over Time
 
-Speakers: [Dominik Roszkowski](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#dominik-roszkowski), [Simon Lightfoot](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-lightfoot)
+Speakers: [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski), [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot)
 
 Building a Flutter app is one thing—keeping it alive, stable, and evolving over multiple years is another. From growing feature sets and refactors to shifting priorities and tech debt, long-lived apps come with a unique set of challenges.
 
@@ -1180,7 +1180,7 @@ How do you ensure the user experience (and store rating) remains stable while ma
 
 ## Taming Legacy: Refactoring Patterns for Large Flutter Codebases
 
-Speakers: [Marcin Chudy](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#marcin-chudy)
+Speakers: [Marcin Chudy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcin-chudy)
 
 Flutter quickly became a solid technology to use in large-scale enterprise apps. However, as projects grow over time and developers are met with tight deadlines, we stumble upon the inevitable challenges related to dealing with legacy Flutter code. This is what I experienced firsthand while working on multiple projects across various business domains.
 
@@ -1191,7 +1191,7 @@ Whether you’re just starting your project or inheriting an old codebase, refac
 
 ## Tech Leadership in a Fast-Changing Stack
 
-Speakers: [Shree Bhagwat](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#shree-bhagwat)
+Speakers: [Shree Bhagwat](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#shree-bhagwat)
 
 Mobile tech leaders today are under constant pressure to keep up—new frameworks, tools, architectures, and AI features land weekly. But every decision to adopt “what’s next” comes with a cost: onboarding time, risk of churn, and tech debt if it doesn’t pan out.
 
@@ -1208,7 +1208,7 @@ How do you foster experimentation without overwhelming your team or fragmenting 
 
 ## Test Semantics with Golden Tests
 
-Speakers: [Sandra Lundh](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#sandra-lundh)
+Speakers: [Sandra Lundh](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#sandra-lundh)
 
 While semantics aren't visible to the average user, they are essential for users relying on screen readers. So visualising their impact, like how semantics affect your UI, gives you indirect visibility into how accessible your app is.
 
@@ -1221,14 +1221,14 @@ In my talk I'll showcase how you can use goldens tests to display the accessibil
 
 ## The "fastest" application of Flutter of all time!
 
-Speakers: [David DeRemer](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#david-deremer), [Kyle Crouse](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#kyle-crouse)
+Speakers: [David DeRemer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#david-deremer), [Kyle Crouse](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kyle-crouse)
 
 A full overview of the process of defining, designing, and deploying a multi-platform user experience for NASCAR races with Trackhouse Racing. We'll explore how embracing multi-platform with Flutter from the beginning changes design research, product strategy, product management, and deployment. We'll explore unique features of Flutter that made execution of this unique experience, in a complex and difficult real-world environment, more feasible. Lastly, we'll demonstrate how investment in Flutter as a solution unlocks new features, capabilities, and experiences for companies with limited resources and high brand expectations.
 
 
 ## The Art of Feature Delivery: Practical Tactics for Tech Leads and EMs
 
-Speakers: [Zoe Farooq](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#zoe-farooq)
+Speakers: [Zoe Farooq](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#zoe-farooq)
 
 Owning and delivering a feature might seem like a standard responsibility for senior engineers and tech leads—but doing it exceptionally well is rarer than you'd think. This roundtable brings together seasoned leaders from Android and Flutter teams to discuss the often-overlooked mistakes that can derail feature development, even for experienced ICs and EMs. From poor documentation and unclear communication to lack of collaboration and hidden decision-making, we'll explore what not to do—and how to do better. Together, we’ll share stories, surface patterns, and identify habits that lead to smoother execution, stronger team dynamics, and better outcomes.
 
@@ -1245,7 +1245,7 @@ What strategies have worked for you to keep large features on track without micr
 
 ## The DX Factor: From Developer Experience to Business Value
 
-Speakers: [Alessandro Mautone](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#alessandro-mautone)
+Speakers: [Alessandro Mautone](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alessandro-mautone)
 
 Building effective development teams hinges on prioritizing the developer experience. Poor tooling and inadequate support lead to cumbersome builds and inefficient workflows, creating friction that slows engineers and hinders their ability to deliver value. Join this peer discussion to share and discover practical strategies for boosting developer velocity and satisfaction.
 > How can we effectively measure the developer experience to pinpoint specific friction points that negatively impact team velocity and satisfaction?
@@ -1259,7 +1259,7 @@ Building effective development teams hinges on prioritizing the developer experi
 
 ## The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning
 
-Speakers: [Yugo Sugiyama](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#yugo-sugiyama)
+Speakers: [Yugo Sugiyama](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#yugo-sugiyama)
 
 I currently work on the development of a live streaming app, where users can both view and broadcast video streams. As you might expect, live streaming apps come with complex requirements—not only do they need to support smooth video playback and broadcasting, but also a variety of interactive features. This makes implementation particularly challenging, especially from a performance perspective.
 
@@ -1276,14 +1276,14 @@ This session will include topics of both Flutter and native (iOS/Android) implem
 
 ## The Future is Written in Dart
 
-Speakers: [Eric Seidel](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#eric-seidel)
+Speakers: [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel)
 
 Flutter has entered its second decade -- one in which we are all now building for a world very different than when the project began.  Eric Seidel, former director of Flutter & Dart, and founder of Shorebird, will reflect some on the changing developer landscape, on Flutter & Dart's growing global momentum, Flutter's expanding role in enterprise and the increasing velocity of community-driven development around Dart.  We'll walk through the many exciting things we've seen come out of the Flutter & Dart community this year and what we're betting on for the next few years.
 
 
 ## The IDE Flutter Deserves
 
-Speakers: [Michael McRoskey](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#michael-mcroskey)
+Speakers: [Michael McRoskey](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#michael-mcroskey)
 
 For years, Flutter developers have relied on general-purpose IDEs, great tools, but not built with Flutter’s unique patterns, challenges and workflows in mind. While other ecosystems are getting AI-first, deeply integrated environments, Flutter devs are still stitching together plugins, previews, and command-line tools to stay productive.
 
@@ -1297,7 +1297,7 @@ With this talk, we learn how to build, debug, and iterate faster an existing Flu
 
 ## The Indie Flutter Journey: Wins, Woes, and What We’d Do Differently
 
-Speakers: [Daria Orlova](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#daria-orlova), [Cagatay Ulusoy](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#cagatay-ulusoy)
+Speakers: [Daria Orlova](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daria-orlova), [Cagatay Ulusoy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#cagatay-ulusoy)
 
 Going solo as a Flutter developer can be empowering—but also overwhelming. From coding and design to backend and store compliance, indie developers wear every hat, and the road to launching even one app can be full of surprises.
 
@@ -1314,7 +1314,7 @@ What strategies or routines help you stay motivated, focused, and avoid burnout 
 
 ## The Unspoken Shift from Leading a Team to Leading Leaders
 
-Speakers: [Taso Dane](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#taso-dane)
+Speakers: [Taso Dane](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#taso-dane)
 
 From leading a single team to becoming a manager of managers or leaders: It’s seen as a badge of success, but few talk about the fact that the role you step into is not the one you left behind. Suddenly, you’re further from the code and closer to strategy, politics, and people dynamics you’ve never had to navigate before. The skills that made you successful as a team lead won’t automatically make you effective when guiding engineering managers, staff engineers, and principal engineers. This roundtable explores strategies, pitfalls, and practical experiences in leading high-level engineers within Android or Flutter mobile teams.
 
@@ -1327,7 +1327,7 @@ Support Systems: What resources, mentors, or peer groups helped you adjust to th
 
 ## This App is Built Different: Advanced Memory Management in Flutter
 
-Speakers: [Maher Jaafar](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#maher-jaafar)
+Speakers: [Maher Jaafar](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#maher-jaafar)
 
 Your Flutter app might be fast… until it’s not. Ever noticed lag, crashes, or rising RAM usage? That’s a memory management problem and it’s hurting your performance.
 
@@ -1343,7 +1343,7 @@ If you’re an experienced Flutter dev, this talk is packed with real-world perf
 
 ## Time for Flutter on the Apple Watch
 
-Speakers: [Anton Borries](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#anton-borries)
+Speakers: [Anton Borries](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anton-borries)
 
 Among 450 million smartwatch users globally, Apple has the biggest market share of over 20%. Extending your Flutter app to Apple Watch presents a significant opportunity to enhance user experience. This talk will guide you through the process of bringing your app's data to Apple Watches, enabling users to access key information at a glance via dedicated watch apps and customizable complications. 
 
@@ -1352,7 +1352,7 @@ We will also take a quick look at Android Smartwatches because afterall Flutter 
 
 ## To SQL or NoSQL? Firebase is the Answer
 
-Speakers: [Daria Orlova](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#daria-orlova)
+Speakers: [Daria Orlova](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daria-orlova)
 
 Firebase has been around for many years with its well-known NoSQL databases, Firestore and Realtime Database. But until 2024, SQL wasn’t part of the picture. That changed with the introduction of Firebase DataConnect, a new SQL-based database solution. Now, you don’t have to cross Firebase off your list just because you need a relational database.
 
@@ -1363,7 +1363,7 @@ By the end of the talk, you’ll have a clear answer to whether Firebase is the 
 
 ## Under the Hood of ScrollViews
 
-Speakers: [Dominik Šimoník](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#dominik-šimoník)
+Speakers: [Dominik Šimoník](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-šimoník)
 
 Scrolling in Flutter may seem simple - until it isn’t. In this session, we’ll dive deep into how scrolling really works under the hood. From understanding how ScrollView, Scrollable, and Viewport interact, to managing scroll position and solving infinite viewport issues, you’ll gain the knowledge needed to take full control of scrolling in your apps. We’ll also look at real-world examples and explore how to create custom scroll effects for delightful user experiences.
 
@@ -1375,7 +1375,7 @@ Identify and fix issues related to infinite viewports and layout overflows
 
 ## Unlocking Native Power: Deep Dive into Dart Build Hooks
 
-Speakers: [Daco Harkes](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#daco-harkes)
+Speakers: [Daco Harkes](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daco-harkes)
 
 Managing native dependencies and assets can be complex, often requiring manual steps and intricate build configurations. Enter Dart Build Hooks – a powerful, extensible system designed to automate and streamline native asset integration.
 
@@ -1390,7 +1390,7 @@ Whether you're a package author looking to simplify native asset inclusion or an
 
 ## Using Dart FFI for Compute-Heavy Tasks in Flutter Apps
 
-Speakers: [Robert Odrowaz-Sypniewski](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski)
+Speakers: [Robert Odrowaz-Sypniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski)
 
 Dart is a great programming language for most apps. It's modern, strongly-typed, null-safe, and memory-safe. However, it is not particularly fast compared to other compiled languages. The solution for Flutter apps that require better performance for compute-heavy tasks is Dart Foreign Function Interface (FFI).
 
@@ -1405,7 +1405,7 @@ We will cover the following topics:
 
 ## Vibe Coding Full-Stack Dart – Build with Joy Beyond the UI
 
-Speakers: [Viktor Lidholt](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#viktor-lidholt)
+Speakers: [Viktor Lidholt](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#viktor-lidholt)
 
 Flutter lets us vibe code beautiful apps at lightning speed, but the moment your app needs a backend, the fun often stops. Suddenly, you're juggling languages, DevOps pipelines, and vendor lock-in anxiety. What if you didn't have to?
 
@@ -1418,14 +1418,14 @@ Let's vibe code the whole stack.
 
 ## Welcome Address
 
-Speakers: [Greg Fawson](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#greg-fawson), [Majid Hajian](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#majid-hajian), [Simon Lightfoot](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#simon-lightfoot)
+Speakers: [Greg Fawson](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#greg-fawson), [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian), [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot)
 
 
 
 
 ## Who is a Native Bindings Author and why you should be one
 
-Speakers: [Hossein Yousefi](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#hossein-yousefi)
+Speakers: [Hossein Yousefi](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#hossein-yousefi)
 
 The traditional Flutter plugin model, with its unified APIs, is powerful for creating consistent cross-platform experiences. However, this approach can present challenges. The process often involves manually implementing method channels, which can be time-consuming and prone to runtime errors. Furthermore, keeping unified abstractions in sync across multiple platforms is complex work, and sometimes we need access to a new feature faster than a manual process allows.
 
@@ -1444,7 +1444,7 @@ In this session, you will discover:
 
 ## Why "Where" Matters: Exploring the Power of Location-Aware Apps
 
-Speakers: [Jen Merritt](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#jen-merritt)
+Speakers: [Jen Merritt](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jen-merritt)
 
 In an increasingly connected world, users expect apps to understand where they are and adapt to their context in real time. One of the great benefits of building a mobile application is the ability to take advantage of native device capabilities, such as GPS and location permissions. By harnessing these in our apps we can provide that more contextualised experience to our users. 
 
@@ -1455,7 +1455,7 @@ If you're exploring spatially-aware app development for the first time, or looki
 
 ## Why Your Context Doesn’t Work (And How to Fix It)
 
-Speakers: [Bettina Carrizo](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md#bettina-carrizo)
+Speakers: [Bettina Carrizo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#bettina-carrizo)
 
 Understanding BuildContext is key to mastering Flutter, and yet it’s one of the most common sources of confusion, especially when your app crashes at runtime with unexpected ancestor errors or broken navigation.
 

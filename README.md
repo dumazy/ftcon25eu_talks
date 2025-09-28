@@ -1,6 +1,6 @@
-## FlutterCon Europe 2024 Talks
+## FlutterCon Europe 2025 Talks
 
-This repo is a collaborative collection from the Flutter talks at [FlutterCon 24](https://fluttercon.dev/):
+This repo is a collaborative collection from the Flutter talks at [FlutterCon 25](https://fluttercon.dev/):
 
 - [Agenda](https://fluttercon.dev/agenda/)
 
@@ -8,7 +8,7 @@ This repo is a collaborative collection from the Flutter talks at [FlutterCon 24
 
 ### Contribution
 
-Please add your info to the .json files inside the [talks/ directory](https://github.com/bizz84/ftcon24eu_talks/tree/main/talks). All .md files will be generated via script `dart run .automation/generate_markdowns.dart` triggered by Github Action. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/bizz84/ftcon24eu_talks/tree/main/.automation) as a starting point to add yours.
+Please add your info to the .json files inside the [talks/ directory](https://github.com/dumazy/ftcon25eu_talks/tree/main/talks). All .md files will be generated via script `dart run .automation/generate_markdowns.dart` triggered by Github Action. If you enjoy any other view of the data, you could look at the [scripts](https://github.com/dumazy/ftcon25eu_talks/tree/main/.automation) as a starting point to add yours.
 
 We are happy to receive your PRs :)
 
@@ -16,11 +16,11 @@ We are happy to receive your PRs :)
 
 Here you can find several views created so far:
 
-[Agenda](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md)
+[Agenda](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md)
 
-Speakers: [list](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md), [socials](https://github.com/bizz84/ftcon24eu_talks/blob/main/Socials.md) and [companies](https://github.com/bizz84/ftcon24eu_talks/blob/main/Companies.md) 
+Speakers: [list](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md), [socials](https://github.com/dumazy/ftcon25eu_talks/blob/main/Socials.md) and [companies](https://github.com/dumazy/ftcon25eu_talks/blob/main/Companies.md) 
 
-[Talks with full descriptions](https://github.com/bizz84/ftcon24eu_talks/blob/main/Descriptions.md), talks sorted by: [rooms](https://github.com/bizz84/ftcon24eu_talks/blob/main/Rooms.md) | [formats](https://github.com/bizz84/ftcon24eu_talks/blob/main/Formats.md) | [levels](https://github.com/bizz84/ftcon24eu_talks/blob/main/Levels.md) | [topics](https://github.com/bizz84/ftcon24eu_talks/blob/main/Topics.md) 
+[Talks with full descriptions](https://github.com/dumazy/ftcon25eu_talks/blob/main/Descriptions.md), talks sorted by: [rooms](https://github.com/dumazy/ftcon25eu_talks/blob/main/Rooms.md) | [formats](https://github.com/dumazy/ftcon25eu_talks/blob/main/Formats.md) | [levels](https://github.com/dumazy/ftcon25eu_talks/blob/main/Levels.md) | [topics](https://github.com/dumazy/ftcon25eu_talks/blob/main/Topics.md) 
 
 | Talk Title | Speakers  | Day       | Time     | Slides & Resources  |
 | ---------- | --------- | --------- | -------- | ------------------- |
