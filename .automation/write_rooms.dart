@@ -9,7 +9,13 @@ void writeRooms(List<Talk> talks) async {
   roomsContent.writeln('# Rooms\n\n');
 
   // Define the rooms
-  const rooms = ["Widget Way", "Async Area", "Dart Den", "Flutter Forest"];
+  const rooms = [
+    "Widget Way",
+    "Dart Den",
+    "Pub.dev Plaza",
+    "Dash’s Domain",
+    "Flutter Forum",
+  ];
 
   for (var room in rooms) {
     // Add subheadline for each room
@@ -24,8 +30,11 @@ void writeRooms(List<Talk> talks) async {
     filteredTalks.sort((a, b) => a.startsAt!.compareTo(b.startsAt!));
 
     // Iterate over filtered talks to populate the table
-    filteredTalks.forEach((talk) => roomsContent
-        .writeln('| **${talk.time}**<br>*${talk.day}* ${talk.tableRow}'));
+    filteredTalks.forEach(
+      (talk) => roomsContent.writeln(
+        '| **${talk.time}**<br>*${talk.day}* ${talk.tableRow}',
+      ),
+    );
 
     // Add a newline for spacing between rooms
     roomsContent.writeln('\n');

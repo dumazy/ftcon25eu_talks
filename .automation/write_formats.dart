@@ -9,7 +9,7 @@ void writeFormats(List<Talk> talks) async {
   formatsContent.writeln('# Formats\n\n');
 
   // Define the formats
-  const formats = ["Session", "Lightning talk", "Workshop", "Panel Discussion"];
+  const formats = ["Session", "Lightning talk", "Workshop", "Roundtable"];
 
   for (var format in formats) {
     // Add subheadline for each format
