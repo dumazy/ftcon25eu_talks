@@ -6,6 +6,8 @@ import 'package:intl/intl.dart';
 final agendaEndpoint =
     Uri.parse('https://sessionize.com/api/v2/tfj9qykg/view/GridSmart');
 
+/// Note that this scraper was vibe-coded and might have some issues.
+/// Feel free to report them, or send a PR to fix them ;-)
 void main() async {
   print('Fetching data from Sessionize API: $agendaEndpoint...');
 
