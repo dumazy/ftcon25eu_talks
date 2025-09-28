@@ -121,9 +121,3 @@
 | Time for Flutter on the Apple Watch | [Anton Borries](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anton-borries) |  |
 
 
-## Expert
-
-| Title | Speakers | Resources |
-| ----- | -------- | --------- |
-
-

@@ -136,15 +136,6 @@
 **Surviving the Long Game: Maintaining Flutter Apps Over Time**
 
 
-## Dominik Roszkowski
-
-
-
-**Flutter Plugins - From Method Channels to Native Interop**
-
-**Surviving the Long Game: Maintaining Flutter Apps Over Time**
-
-
 ## Dominik Šimoník
 
 
