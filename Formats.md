@@ -121,7 +121,7 @@
 | ----- | -------- | --------- |
 
 
-## Panel Discussion
+## Roundtable
 
 | Title | Speakers | Resources |
 | ----- | -------- | --------- |
