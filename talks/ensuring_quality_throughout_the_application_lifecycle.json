@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Jonas Uekötter",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Ensuring quality throughout the application lifecycle",
+  "videoUrl": "",
+  "description": "Working on a large-scale Flutter application, maintaining a high software quality is a continuous challenge. Additionally, the intrinsic properties of a mobile app, like no rollbacks, an app version being basically available forever, makes ensuring quality even harder. This talk explores how developers balance shift-left (proactive quality assurance) and shift-right (real-world quality validation) to ensure reliability, maintainability, and a seamless user experience throughout each stage of the application lifecycle.\r\n\r\n- Shift-Left Strategies: Early issue detection, linting, automated testing, PR reviews, and CI/CD integration.\r\n- Shift-Right Practices: Real-world error monitoring, A/B testing, staged rollouts, and analytics.\r\n- Feature Flags & Continuous Deployment: How to use feature toggles to manage feature rollouts at scale.\r\n\r\nThis session will provide actionable insights for developers, QA engineers, and tech leads on how to implement a lifecycle-focused quality strategy for mobile apps. Attendees will gain practical knowledge on preventing regressions, reducing bugs in production, and leveraging data-driven decision-making to improve software quality.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "03:45 PM",
+  "startsAt": "2025-09-24T15:45:00",
+  "endsAT": "2025-09-24T16:05:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "Testing"
+  ]
+}

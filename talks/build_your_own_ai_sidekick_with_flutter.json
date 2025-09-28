@@ -1,0 +1,41 @@
+{
+  "speakers": [
+    {
+      "name": "Moritz Theis",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Alexander Thiele",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Build Your Own AI Sidekick with Flutter",
+  "videoUrl": "",
+  "description": "In this hands-on workshop, we’ll build a tiny AI assistant that lives inside a Flutter app—think of it as a “mini ChatGPT” tailored to a specific theme like travel, cooking, or even Flutter documentation.\r\n\r\nWe’ll kick things off with the basics, set everyone up with cloud credits, and provide boilerplate code to help you hit the ground running. The entire workshop will use the Google tech stack—including Flutter, Firebase, and Vertex AI—so you’ll gain practical experience with powerful, production-ready tools.\r\n\r\nFrom there, it’s up to you: each participant will create their own personal AI sidekick for a unique purpose.\r\n\r\nAt the end, we’ll showcase our creations and vote on the most impressive, weirdest, or funniest sidekick. Prizes await the winners!\r\n\r\nWhat You’ll Learn:\r\n    How to integrate AI capabilities into a Flutter app\r\n    Basics of using Vertex AI and Firebase for custom LLM-powered experiences\r\n    Structuring conversational UI and managing AI prompts effectively\r\n    Tips for building fun, useful, or just plain weird AI sidekicks",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "10:30 AM",
+  "startsAt": "2025-09-26T10:30:00",
+  "endsAT": "2025-09-26T12:05:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "AI/ML Integration",
+    "Generative AI + Dart",
+    "Flutter & LLMs"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Sasha Denisov",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Building Offline AI Agent in your Flutter app",
+  "videoUrl": "",
+  "description": "Dive into building the next generation of Flutter apps with Offline AI Agents powered by Edge AI. This talk explores how to run intelligent, autonomous agents fully on-device—without internet—enhancing privacy, reducing latency, and unlocking powerful capabilities beyond the cloud.\r\n\r\nWe’ll focus on lightweight open models like Google’s Gemma family, including Gemma 3n—the first on-device multimodal model specifically optimized for mobile devices. These models serve as the “brains” of your agents. You’ll also discover a custom Flutter plugin, developed by the speaker, that simplifies integration of models like Gemma, Deepseek, or Mistral Small directly into your app.\r\n\r\nThe session dives into implementing agentic functionality: from structuring reasoning workflows to enabling function calling, allowing agents to trigger local tools or even call third-party APIs—all while running fully offline. This unlocks use cases like offline copilots, planners, and assistants that can interact with both user inputs and external systems.\r\n\r\nWe’ll also explore on-device Retrieval-Augmented Generation (RAG), enabling agents to query local data—notes, files, databases—for contextual, private, and responsive interactions.\r\n\r\nFinally, we’ll dive into the multimodal capabilities of Gemma 3n, combining vision and language understanding for richer, on-device interactions in privacy-first Flutter apps.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "02:45 PM",
+  "startsAt": "2025-09-25T14:45:00",
+  "endsAT": "2025-09-25T15:25:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "AI/ML Integration",
+    "Generative AI + Dart"
+  ]
+}

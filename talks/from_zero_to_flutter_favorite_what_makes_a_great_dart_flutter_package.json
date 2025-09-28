@@ -1,0 +1,37 @@
+{
+  "speakers": [
+    {
+      "name": "Jonas Uekötter",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Christoph Schlüter",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "From Zero to Flutter Favorite: What Makes a Great Dart & Flutter Package?",
+  "videoUrl": "",
+  "description": "What separates a good Flutter package from a great one—the kind that becomes a trusted dependency for thousands?\r\n\r\nThis roundtable is a chance for package authors and aspiring contributors to share experiences, challenges, and strategies for building exceptional Dart and Flutter packages. Drawing from the perspective of a Flutter Favorite author, we’ll explore what makes a package truly stand out—solid API design, clear documentation, strong community support, high test coverage, and smart release automation.\r\n\r\nWhether you're maintaining a niche utility or working toward Flutter Favorite status, bring your questions, lessons, and insights to the table.\r\n\r\n>What’s the most important factor that makes you trust and adopt a third-party Flutter package?\r\n\r\n>What challenges have you faced in writing or maintaining Dart/Flutter packages, especially when aiming for high quality?\r\n\r\n>How do you balance ease of use with flexibility when designing your package APIs?\r\n\r\n>What role does community involvement (issues, PRs, feedback) play in your package development?\r\n\r\n>What tools or workflows have helped you automate testing, publishing, or documentation for your packages?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "11:55 AM",
+  "startsAt": "2025-09-24T11:55:00",
+  "endsAT": "2025-09-24T12:35:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": []
+}

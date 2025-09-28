@@ -1,0 +1,47 @@
+{
+  "speakers": [
+    {
+      "name": "Greg Fawson",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Majid Hajian",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Simon Lightfoot",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Welcome Address",
+  "videoUrl": "",
+  "description": "",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "09:00 AM",
+  "startsAt": "2025-09-24T09:00:00",
+  "endsAT": "2025-09-24T09:20:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": []
+}

@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Sofia Rey",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Mastering CustomPainter: Going Beyond Widgets in Flutter",
+  "videoUrl": "",
+  "description": "CustomPainter gives you full control over the canvas in Flutter, which is perfect for building visuals that standard widgets just can’t handle.\r\n\r\nIn this session, I’ll share how I used CustomPainter in a real production feature to draw and manipulate paths. We’ll also touch on vector theory and how to transform an SVG into custom path data that you can use directly in your Flutter app.\r\n\r\nYou’ll learn how to structure drawing logic, break down complex visuals, and approach custom UI challenges with confidence—especially when your design ideas don’t fit into a widget box.\r\n\r\nKey Takeaways:\r\n- Understand how CustomPainter works and where to use it\r\n- Learn how to transform SVG paths into Flutter-compatible custom drawings\r\n- Explore core vector theory concepts applied in Flutter\r\n- Break down complex drawing logic for real UI implementations\r\n- Get inspired to go beyond widgets for unique, custom UIs",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "04:20 PM",
+  "startsAt": "2025-09-24T16:20:00",
+  "endsAT": "2025-09-24T17:00:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "Custom Painting / Render Objects / Rendering"
+  ]
+}

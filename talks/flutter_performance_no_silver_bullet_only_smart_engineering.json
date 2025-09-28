@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Mikhail Zotyev",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Flutter Performance: No Silver Bullet, Only Smart Engineering",
+  "videoUrl": "",
+  "description": "What actually makes a Flutter app fast? And why is this topic so often surrounded by myths, holy wars, and fake silver bullets?\r\n\r\nIn this talk, I won’t just repeat well-known performance tips. Instead, we’ll approach performance like real engineers through measurement and analysis. These two words will be our Polar Star to find out when, what, and how to optimize.\r\n\r\nWe'll explore real examples:\r\nWhen const truly helps — and when it makes no difference;\r\nHow pressing a button with an empty handler can eat up your entire frame budget;\r\nWhy the same tool can either save or destroy your app’s performance;\r\nHow to detect invisible resource drains that silently sabotage your UI.\r\n\r\nPerformance isn’t about magic. It’s about understanding how Flutter really works, and helping it do its job efficiently.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "01:15 PM",
+  "startsAt": "2025-09-26T13:15:00",
+  "endsAT": "2025-09-26T13:55:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Flutter Widgets & Layouts",
+    "Performance Optimization"
+  ]
+}

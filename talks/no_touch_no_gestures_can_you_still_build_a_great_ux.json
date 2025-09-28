@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Vadym Pinchuk",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "No touch. No gestures. Can you still build a Great UX?",
+  "videoUrl": "",
+  "description": "Building applications for TVs, kiosks, and other remote-controlled devices isn’t the same as building for mobile. There’s no touch. No gestures. Just a handful of buttons—left, right, up and down. That constraint changes everything.\r\n\r\nIn this talk, you’ll learn how to design and build Flutter interfaces for these input-limited environments using the power of focus navigation. We’ll dive into Flutter’s focus system, directional navigation logic, and how to create clean, intuitive UIs that users can control from across the room.\r\n\r\nAnd the best part? The presentation is the app. Shaped like a TV-style Flutter interface, the talk itself will demonstrate how to structure widgets, style your UI, and guide the user using focus alone.\r\n\r\nIf you’re used to building for touchscreens, this session will help you shift your thinking—and show you how to create smooth, accessible, and fun experiences on remote-controlled devices.\r\n\r\nKey takeaways:\r\n- Understand how to navigate UIs using only directional inputs\r\n- Learn how Flutter’s focus system (FocusNode, FocusTraversalPolicy, etc.) enables non-touch interactions\r\n- Discover UI design patterns for limited-input environments like TVs\r\n- See how to structure widget tree for predictable, intuitive focus behaviour\r\n- Gain practical techniques to build polished, accessible apps for remote-controlled devices",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "11:55 AM",
+  "startsAt": "2025-09-24T11:55:00",
+  "endsAT": "2025-09-24T12:35:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "Flutter Widgets & Layouts",
+    "Firebase & Flutter",
+    "Flutter Multiplatform (Mobile, Desktop, Web, Embedded)"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Dominik Šimoník",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Under the Hood of ScrollViews",
+  "videoUrl": "",
+  "description": "Scrolling in Flutter may seem simple - until it isn’t. In this session, we’ll dive deep into how scrolling really works under the hood. From understanding how ScrollView, Scrollable, and Viewport interact, to managing scroll position and solving infinite viewport issues, you’ll gain the knowledge needed to take full control of scrolling in your apps. We’ll also look at real-world examples and explore how to create custom scroll effects for delightful user experiences.\r\n\r\nUnderstand how scrolling works in Flutter, from ScrollView to RenderSliver\r\nLearn the roles of Scrollable and Viewport, and how scroll position is maintained\r\nExplore how to create custom scroll effects and behaviors\r\nIdentify and fix issues related to infinite viewports and layout overflows",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "04:20 PM",
+  "startsAt": "2025-09-24T16:20:00",
+  "endsAT": "2025-09-24T17:00:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

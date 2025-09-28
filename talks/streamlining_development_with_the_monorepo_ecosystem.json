@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Adam Eba",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Streamlining Development with the Monorepo Ecosystem",
+  "videoUrl": "",
+  "description": "Have you ever found yourself juggling multiple apps under the same project—reusing UI and logic, but constantly duplicating effort? Or have you struggled with maintaining consistency when changes in one app need to be reflected in others, like a client app, provider app, or admin portal?\r\n\r\nEnter the monorepo: a solution to unify shared code, streamline updates, and manage dependencies across multiple apps efficiently. In this session, we’ll explore:\r\n\r\n- How adopting a monorepo can simplify your project’s architecture.\r\n- Best practices for implementation and maintenance.\r\n- Using Dependency Injection (DI) and design patterns to enhance scalability.\r\n\r\nWhether you’re building for a small team or scaling for enterprise needs, this talk will arm you with the tools and insights to elevate your Flutter development workflow.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "04:40 PM",
+  "startsAt": "2025-09-25T16:40:00",
+  "endsAT": "2025-09-25T17:20:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": []
+}

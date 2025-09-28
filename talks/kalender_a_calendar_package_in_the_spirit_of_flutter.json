@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Werner Scholtz",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Kalender: A Calendar package in the spirit of Flutter",
+  "videoUrl": "",
+  "description": "Calendars are a common feature in modern apps, but building a robust one is more complex than it first appears. In this talk, we’ll start by exploring the concept of calendars in app development, reviewing some of the existing packages on pub.dev and the limitations we ran into. We’ll share practical use cases including real-world examples from internal applications (at KDAB) and walk through how Kalender evolved to address those needs.\r\n\r\nYou’ll get an in depth look at the features of the Kalender package, along with an example of how to shave a yak or two. (No animals were hurt during the creation of this package or talk):\r\n- Take a look at the evolution of extension methods used for DateTime calculations.\r\n- Explore the mistakes made with `event` storage/lookup and how this affected performance.\r\n- Dig into how MultiChildLayoutDelegates are used to render event 'tiles' in the package.\r\n- Explore how DragTarget and Draggable widgets are used to make the calendar interactive.\r\n\r\nKey takeaways:\r\n- Feel comfortable implementing an interactive calendar in Flutter.\r\n- Learn about time zones and how they sometimes complicate DateTime calculations.\r\n- Insight into the iterative and incremental process used to iron out all the mistakes made during the development of the Kalender package.\r\n- Appreciation for the yak shaving process required to mimic the quality of the material framework.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "01:50 PM",
+  "startsAt": "2025-09-25T13:50:00",
+  "endsAT": "2025-09-25T14:30:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Flutter Widgets & Layouts",
+    "Custom Painting / Render Objects / Rendering",
+    "Package & Plugin Development"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "speakers": [
+    {
+      "name": "Bogdan Hobeanu",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Building Design Tools with Flutter: Challenges and Lessons Learned",
+  "videoUrl": "",
+  "description": "Can Flutter go beyond typical mobile apps and handle the complexity of full-featured, professional-grade tools?\r\n\r\nIn this talk, I’ll share what I learned while building a design tool entirely in Flutter. From infinite canvases and custom scrolling to keyboard shortcuts, rendering, and architecture decisions, it turns out Flutter can do a lot more than it’s usually given credit for.\r\n\r\nIf you’re working on an internal tool, editor, or any highly interactive UI, this talk will give you practical insights I wish I had when I started.\r\n\r\nKey Takeaways:\r\n1. Building an infinite canvas with smooth interaction\r\n2. Widgets vs CustomPainter: When to use one over the other\r\n3. Handling complex gestures, keyboard shortcuts, and focus without conflicts\r\n4. Mastering coordinate systems and widget positioning in complex UIs\r\n5. A mental model for scaling your UI",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "02:45 PM",
+  "startsAt": "2025-09-26T14:45:00",
+  "endsAT": "2025-09-26T15:25:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "State Management",
+    "Architecture",
+    "Flutter Widgets & Layouts",
+    "Animations",
+    "Custom Painting / Render Objects / Rendering",
+    "Motion Design",
+    "Dynamic Theming",
+    "Third Party Libraries",
+    "Flutter Multiplatform (Mobile, Desktop, Web, Embedded)"
+  ]
+}

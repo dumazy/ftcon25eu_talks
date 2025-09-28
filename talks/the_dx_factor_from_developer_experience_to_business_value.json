@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Alessandro Mautone",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "The DX Factor: From Developer Experience to Business Value",
+  "videoUrl": "",
+  "description": "Building effective development teams hinges on prioritizing the developer experience. Poor tooling and inadequate support lead to cumbersome builds and inefficient workflows, creating friction that slows engineers and hinders their ability to deliver value. Join this peer discussion to share and discover practical strategies for boosting developer velocity and satisfaction.\r\n> How can we effectively measure the developer experience to pinpoint specific friction points that negatively impact team velocity and satisfaction?\r\n> What tools or strategies effectively boost knowledge transfer, reduce cognitive load, and accelerate onboarding?\r\n> What are your team's biggest DX pain points with builds, IDE, or CI, and what proven leadership tactics address them?\r\n> Where does your team experience the most friction day-to-day (e.g., with builds, IDEs, CI/CD, inefficient workflows)? What practical leadership tactics or tooling improvements have successfully addressed these pain points?\r\n> How can engineering leaders effectively quantify the impact of DX improvements on velocity, satisfaction, or overall value delivery to justify necessary investments to stakeholders?\r\n\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "02:45 PM",
+  "startsAt": "2025-09-25T14:45:00",
+  "endsAT": "2025-09-25T15:25:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

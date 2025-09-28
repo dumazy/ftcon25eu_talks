@@ -1,0 +1,39 @@
+{
+  "speakers": [
+    {
+      "name": "Anton Borries",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Lucas Josefiak",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Design Systems in Practice: How Flutter Teams Save Time and Align with Design",
+  "videoUrl": "",
+  "description": "Design systems promise consistency, speed, and scalability—but turning that promise into a real, working system is a team sport. In this roundtable, we’ll share experiences and challenges around building and using design systems in Flutter projects.\r\n\r\nWe’ll explore how cross-functional collaboration, clear workflows, and the right tooling (from Figma tokens to Flutter components) can streamline development, reduce rework, and even reduce environmental impact by cutting down delivery cycles.\r\n\r\nWhether you’re starting your design system or scaling one across multiple products, this is your space to trade insights, strategies, and pitfalls to avoid.\r\n\r\nWhat are the biggest blockers you've encountered when trying to align design and development teams around a shared system?\r\nHow are you connecting Figma (or other design tools) to your Flutter codebase—and how automated is that handoff?\r\nWhat are the trade-offs between centralizing control in design vs. letting devs lead on component implementation?\r\nHave design systems helped your team move faster—or did it initially slow things down?\r\nWhat’s one feature (like dark mode or accessibility) that a design system helped you deliver more efficiently—and how?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "01:50 PM",
+  "startsAt": "2025-09-25T13:50:00",
+  "endsAT": "2025-09-25T14:30:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Accessibiliity"
+  ]
+}

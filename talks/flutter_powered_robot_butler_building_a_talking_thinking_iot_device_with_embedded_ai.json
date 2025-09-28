@@ -1,0 +1,37 @@
+{
+  "speakers": [
+    {
+      "name": "Alex Bordei",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Flutter-Powered Robot Butler: Building a Talking, Thinking IoT Device with Embedded AI",
+  "videoUrl": "",
+  "description": "What if we told you that you can build your own robot butler—one that talks, listens, sees, and even moves—using Flutter? In this session, we’ll show how we turned a Raspberry Pi and some off-the-shelf components into an interactive robot powered by embedded AI, with Flutter as the central brain.\r\n\r\nWe’ll explore how we combined Flutter with native hardware control to move servo arms, blink LED eyes, and speak using text-to-speech. The robot understands voice commands using Whisper for local speech-to-text, sees using OpenCV, and responds smartly via a small on-device LLM—no cloud required.\r\n\r\nThis isn’t a theoretical project—it’s a fully working setup that brings together AI agents, embedded control, and real-time UI. If you’ve ever wondered whether Flutter can go beyond mobile, this is the session for you.\r\n\r\nKey takeaways:\r\n\r\nHow we run Flutter on embedded devices like Raspberry Pi\r\nUsing MethodChannels to control GPIO and native hardware\r\nIntegrating local AI models for speech, vision, and commands\r\nBuilding responsive physical interactions (voice, motion, lights)\r\nWhy Flutter is a perfect fit for embedded, kiosk, and smart devices\r\nWe’ll bring code, insights, and most importantly—our Flutter-powered robot butler.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "01:15 PM",
+  "startsAt": "2025-09-26T13:15:00",
+  "endsAT": "2025-09-26T13:55:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "Flutter Multiplatform",
+    "Animations",
+    "Third Party Libraries",
+    "Flutter Multiplatform (Mobile, Desktop, Web, Embedded)",
+    "Embedded UI",
+    "Dart FFI",
+    "AI/ML Integration",
+    "Generative AI + Dart",
+    "Flutter & LLMs"
+  ]
+}

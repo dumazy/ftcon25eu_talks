@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Salih Guler",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "From Flutter to Full-Stack: A Practical Guide to Full-stack Development",
+  "videoUrl": "",
+  "description": "In this hands-on session, we’ll learn about how we can transition to full-stack development, focusing on backend concepts using AWS cloud infrastructure and Dart backend. We’ll demonstrate how to design scalable, secure APIs and integrate them seamlessly into your Flutter apps. Through live coding, we’ll walk you through setting up and deploying your backend, covering key topics like user authentication, cloud storage, and handling real-time data synchronization.\r\n\r\nBy the end of this session, you’ll have the skills to design and deploy secure, scalable backends for your mobile apps and integrate them seamlessly with cloud-native solutions, empowering you to create end-to-end applications ready for production.\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "10:30 AM",
+  "startsAt": "2025-09-26T10:30:00",
+  "endsAT": "2025-09-26T11:10:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

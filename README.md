@@ -24,91 +24,108 @@ Speakers: [list](https://github.com/bizz84/ftcon24eu_talks/blob/main/Speakers.md
 
 | Talk Title | Speakers  | Day       | Time     | Slides & Resources  |
 | ---------- | --------- | --------- | -------- | ------------------- |
-| Opening keynote | Andrew Brogdon | Wednesday | 9:00 AM | [Video](https://www.droidcon.com/2024/09/03/opening-keynote/) |
-| Cat-like Development: Flutter for Efficiency | [Mangirdas Kazlauskas](https://x.com/mkobuolys) | Wednesday | 10:20 AM | [Slides](https://kazlauskas.dev/ldd/), [Video](https://www.droidcon.com/2024/09/03/cat-like-development-flutter-for-efficiency/) |
-| Flutter Engineering - Architectural path | [Majid Hajian](https://x.com/mhadaily) | Wednesday | 10:20 AM | [Video](https://www.droidcon.com/2024/09/09/flutter-engineering-architectural-path/) |
-| Modular Flutter App Architecture: Answering the What, When and How | [Salih Guler](https://x.com/https://twitter.com/salihgueler) | Wednesday | 10:20 AM | [Slides](https://www.canva.com/design/DAGJz47iMDU/7xQRmNJ_uEpr4Pb2_nOocg/edit?utm_content=DAGJz47iMDU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Video](https://www.droidcon.com/2024/09/03/modular-flutter-app-architecture-answering-the-what-when-and-how/) |
-| Zero runtime errors: Exploring Static Code Analysis techniques in Flutter | Daria Orlova | Wednesday | 10:20 AM | [Video](https://www.droidcon.com/2024/09/02/zero-runtime-errors-exploring-static-code-analysis-techniques-in-flutter/) |
-| Showing that you care about security - OpenSSF Scorecards for Dart and Flutter projects | Chris Swan | Wednesday | 11:15 AM | [Slides](https://www.slideshare.net/slideshow/fluttercon-2024-showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/270042965), [Blog](https://blog.thestateofme.com/2022/12/02/implementing-ossf-scorecards-across-a-github-organisation/), [Video](https://www.droidcon.com/2024/09/03/showing-that-you-care-about-security-openssf-scorecards-for-dart-and-flutter-projects/) |
-| Workshop: Flutter for Android TV and Apple TV | Sasha Denisov | Wednesday | 11:15 AM |  |
-| Listen up! Mastering A/B testing and feedback techniques in your mobile apps | [Alicja Ogonowska](https://x.com/AlicjaOgonowska) | Wednesday | 11:15 AM | [Video](https://www.droidcon.com/2024/09/09/listen-up-mastering-a-b-testing-and-feedback-techniques-in-your-mobile-apps/), [Slides](https://docs.google.com/presentation/d/1czdGS6P3Uu6hgE2OPkFVesrg91N5qN2EWS5eK_Jszko/edit?usp=sharing), [Code](https://github.com/alicja-ogonowska/feedback-demo) |
-| Native Background Processing with Flutter | [Dominik Roszkowski](https://x.com/https://twitter.com/OrestesGaolin) | Wednesday | 11:15 AM | [Slides](https://roszkowski.dev/background), [Video](https://www.droidcon.com/2024/09/03/native-background-processing-with-flutter/) |
-| Navigation in Flutter - the not-so-obvious parts | Matej Rešetár | Wednesday | 12:10 PM | [Video](https://www.droidcon.com/2024/09/03/navigation-in-flutter-the-not-so-obvious-parts/) |
-| How I get your location: A story of permissions | Thomas Coumau | Wednesday | 12:10 PM | [Video](https://www.droidcon.com/2024/09/03/how-i-get-your-location-a-story-of-permissions/) |
-| Motion Designer is your best friend for creating animations | [Mikhail Zotyev](https://x.com/https://twitter.com/MbIXJkee) | Wednesday | 12:10 PM | [Slides](https://docs.google.com/presentation/d/1u-cGtbCteO_6trOrCXjuuafxzOcJY0pxxn39scGd_28/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/motion-designer-is-your-best-friend-for-creating-animations/) |
-| Animation vs delivery, do you really have to choose ? | Thomas Coumau, Maxime Rougieux | Wednesday | 1:40 PM | [Video](https://www.droidcon.com/2024/09/02/animation-vs-delivery-do-you-really-have-to-choose/) |
-| Dash’s Inclusive Adventure - Experimenting with Accessibility in Flutter Games | Manuela Sakura Rommel | Wednesday | 1:40 PM | [Video](https://www.droidcon.com/2024/09/03/dashs-inclusive-adventure-experimenting-with-accessibility-in-flutter-games/) |
-| Please wait... : The perception of time in user Interfaces | André Schmidt Di Salvo | Wednesday | 1:40 PM | [Video](https://www.droidcon.com/2024/09/03/please-wait-the-perception-of-time-in-user-interfaces/) |
-| Realtime Communications with Flutter | [Simon Lightfoot](https://x.com/devangelslondon) | Wednesday | 1:40 PM | [Video](https://www.droidcon.com/2024/09/03/realtime-communications-with-flutter/) |
-| Building with best practices in FlutterFlow | Leigha Reid | Wednesday | 2:35 PM | [Video](https://www.droidcon.com/2024/09/03/building-with-best-practices-in-flutterflow/) |
-| Simplify Design Systems and Designer/Developer Collaboration with Widgetbook | Lucas Josefiak | Wednesday | 2:35 PM | [Video](https://www.droidcon.com/2024/09/03/simplify-design-systems-and-designer-developer-collaboration-with-widgetbook/) |
-| Bringing Google Maps to Flutter: The Power of Plugins | [Sylvia Dieckmann](https://x.com/sylviedie) | Wednesday | 2:35 PM | [Slides](https://docs.google.com/presentation/d/17ClzHygtkb_-pT-_xpkSbHIojYd72HsIBlisc-_FINs/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/bringing-google-maps-to-flutter-the-power-of-plugins/) |
-| One Size Doesn't Fit All: Tailoring Flutter Architectures for Team and Business Success | Jan Stępień | Wednesday | 2:35 PM | [Slides](https://github.com/Jan-Stepien/fluttercon-architecture-presentation/tree/main), [Video](https://www.droidcon.com/2024/09/03/one-size-doesnt-fit-all-tailoring-flutter-architectures-for-team-and-business-success/) |
-| Experimenting with Modifier: embracing Compose-inspired UI in Flutter | Vadym Pinchuk | Wednesday | 3:45 PM | [Video](https://www.droidcon.com/2024/09/03/experimenting-with-modifier-embracing-compose-inspired-ui-in-flutter/) |
-| Code Quality Gates for Large-Scale Flutter Apps | Pavel Sulimau | Wednesday | 3:45 PM | [Blog](https://pasul.medium.com), [Video](https://www.droidcon.com/2024/09/03/code-quality-gates-for-large-scale-flutter-apps/) |
-| Testing that your app is accessible to all | Alexander Troshkov | Wednesday | 3:45 PM | [Slides](https://github.com/aednlaxer/flutterconeurope2024), [Video](https://www.droidcon.com/2024/09/03/testing-that-your-app-is-accessible-to-all/) |
-| Saving data before the app getting killed! Easy state restoration with Flutter | [Lucas Goldner](https://x.com/LucasGoldner) | Wednesday | 3:45 PM | [Slides](https://state-restoration-presentation.vercel.app/#/speaker), [Video](https://www.droidcon.com/2024/09/03/saving-data-before-the-app-getting-killed-easy-state-restoration-with-flutter/) |
-| Compilers, Virtual Machines and Code Analysis - What makes Dart and Flutter run | Norbert Kozsir | Wednesday | 4:20 PM | [Video](https://www.droidcon.com/2024/09/03/compilers-virtual-machines-and-code-analysis-what-makes-dart-and-flutter-run/) |
-| Ubuntu: An OS experience built on Flutter | Lukas Klingsbo | Wednesday | 4:20 PM | [Slides](https://docs.google.com/presentation/d/14eGAql_pLZehIfSUlEwB4umUoxtlxnlN826yFaLw9xA/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/ubuntu-an-os-experience-built-on-flutter/) |
-| Lessons Learned from Launching a Flutter app in Production | [Andrea Bizzotto](https://x.com/biz84) | Wednesday | 4:20 PM | [Slides](https://bizz84.github.io/fluttercon24_slides_web/), [Video](https://www.droidcon.com/2024/09/03/lessons-learned-from-launching-a-flutter-app-in-production/) |
-| M&Ms Your Way: Build a Fun, Flutter-Powered Candy Dispenser (with Live Treats!) on Raspberry Pi 5 | [Moritz Theis](https://x.com/MoritzTheis), [Payam Zahedi](https://x.com/payamzahedi95) | Wednesday | 4:20 PM | [Code](https://github.com/Snapp-X/m_and_m), [Video](https://www.droidcon.com/2024/09/02/mms-your-way-build-a-fun-flutter-powered-candy-dispenser-with-live-treats-on-raspberry-pi-5/) |
-| Monitor your Flutter app and see every issue! | Jonas Uekötter | Wednesday | 5:20 PM | [Video](https://www.droidcon.com/2024/09/03/monitor-your-flutter-app-and-see-every-issue/) |
-| Debugging performance issues with the Flutter DevTools | [Alexandre Moureaux](https://x.com/almouro) | Wednesday | 05:20 PM | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vTcUdCsRqDo0YJhCWLI4406Cw7lBruf0RvHQzdYxSh2_Xij1gjJ239aLegxvPDvmS-FAt2dAcl6binU/pub?start=false&loop=false&delayms=60000), [Example repository](https://github.com/Almouro/flutter-performance-debugging-example), [Video](https://www.droidcon.com/2024/09/03/debugging-performance-issues-with-the-flutter-devtools/) |
-| Adding HomeScreenWidgets to your Flutter App | Anton Borries | Wednesday | 5:20 PM | [Video](https://www.droidcon.com/2024/09/02/adding-homescreenwidgets-to-your-flutter-app/) |
-| Live Coding Workshop | [Simon Lightfoot](https://x.com/devangelslondon) | Wednesday | 5:20 PM | [Video](https://www.droidcon.com/2024/09/02/live-coding-workshop/) |
-| Elevating JavaScript interoperability with Dart | Jaime Blasco | Thursday | 9:20 AM | [Video](https://www.droidcon.com/2024/09/03/elevating-javascript-interoperability-with-dart/) |
-| Android Platform Views Past, Present, Future | John McCutchan | Thursday | 9:20 AM | [Video](https://www.droidcon.com/2024/09/03/android-platform-views-past-present-future/) |
-| Dart on the backend with Serverpod: Building interactive slides for tech talks | Viktor Lidholt | Thursday | 9:20 AM | [Video](https://www.droidcon.com/2024/09/03/dart-on-the-backend-with-serverpod-building-interactive-slides-for-tech-talks/) |
-| Enhance your Flutter painting skills | Romain Rastel | Thursday | 9:20 AM | [Video](https://www.droidcon.com/2024/09/03/enhance-your-flutter-painting-skills/) |
-| Your ultimate guide to code generation productivity for Dart and Flutter | [Anna Leushchenko](https://x.com/AnnaLeushchenko) | Thursday | 10:15 AM | [Slides](https://bit.ly/45T84JB), [Video](https://www.droidcon.com/2024/09/02/your-ultimate-guide-to-code-generation-productivity-for-dart-and-flutter/) |
-| Software correctness | Marcin Wojnarowski | Thursday | 10:15 AM | [Video](https://www.droidcon.com/2024/09/03/software-correctness/) |
-| Dart FFI: A Beginner's Guide to High-Performance Integration | [Matteo Maria Terzuolo](https://x.com/SaltySpag) | Thursday | 10:15 AM | [Slides](https://docs.google.com/presentation/d/1OGVUcIqP48uDaYdqMEVkdM-Nq67oz1smacZvBvPKi_U/edit?usp=sharing), [Code](https://github.com/SaltySpaghetti/n_body_dart_ffi), [Video](https://www.droidcon.com/2024/09/03/dart-ffi-a-beginners-guide-to-high-performance-integration/) |
-| Implementing custom fragment shaders | [Raouf Rahiche](https://x.com/raoufrahiche) | Thursday | 11:10 AM | [Slides](https://www.figma.com/slides/GNv9DFM68G8QVdC7coidX8/Implementing-custom--Fragment-Shaders?node-id=22-1279&t=JQZTimVJAxcj7dxz-1), [Video](https://www.droidcon.com/2024/09/03/implementing-custom-fragment-shaders/) |
-| White labelling apps - a year later | Danielle Cox | Thursday | 11:10 AM | [Video](https://www.droidcon.com/2024/09/02/white-labelling-apps-a-year-later/) |
-| Building Real-Time Audio/Video Apps with Flutter and WebRTC | Masahiro Aoki | Thursday | 11:10 AM | [Video](https://www.droidcon.com/2024/09/03/building-real-time-audio-video-apps-with-flutter-and-webrtc/) |
-| Digital transformation of media industry with Flutter | Toni Piirainen | Thursday | 11:10 AM | [Video](https://www.droidcon.com/2024/09/03/digital-transformation-of-media-industry-with-flutter/) |
-| The quest to display widget markers on a map | Matthieu Pernelle | Thursday | 12:05 PM | [Video](https://www.droidcon.com/2024/09/03/the-quest-to-display-widget-markers-on-a-map/) |
-| Fight, Flight, or Fix? Winning the Legacy Flutter Challenge | Mateusz Rus | Thursday | 12:05 PM | [Video](https://www.droidcon.com/2024/09/03/fight-flight-or-fix-winning-the-legacy-flutter-challenge/) |
-| Building Your Very Own DevTools Extension | [Enzo Conty](https://x.com/enzoconty) | Thursday | 12:05 PM | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vSPZgpFjAGwnaRXvtAITEqsLsjpJdCe6LfSmLr6vUiTkr3lje7k9zHSabedtZ293GzhItCQZqPSZzy9/pub?start=false&loop=false&delayms=3000), [Video](https://www.droidcon.com/2024/09/03/building-your-very-own-devtools-extension/) |
-| The Unique Role of a Flutter Competence Lead in a Scaling Company | Cagatay Ulusoy | Thursday | 12:05 PM | [Slides](https://docs.google.com/presentation/d/1UXYbH7xqe-X1FgUREm5Uomaa4UpCyHz-A53I26FGV0Y/edit#slide=id.g2ca715091db_0_779), [Video](https://www.droidcon.com/2024/09/03/the-unique-role-of-a-flutter-competence-lead-in-a-scaling-company/) |
-| Lessons learned from crafting an in-house framework with over 200 packages | Marina Meier, Pascal Stech | Thursday | 1:25 PM | [Video](https://www.droidcon.com/2024/09/02/lessons-learned-from-crafting-an-in-house-framework-with-over-200-packages/) |
-| Bluetooth LE-Audio Broadcast: How to build an Auracast assistant app with Flutter | Eduard Siewert | Thursday | 1:25 PM | [Video](https://www.droidcon.com/2024/09/03/bluetooth-le-audio-broadcast-how-to-build-an-auracast-assistant-app-with-flutter/) |
-| Demystifying App Architecture: The LeanCode Guide | Mateusz Wojtczak, Marcin Chudy | Thursday | 1:25 PM | [Video](https://www.droidcon.com/2024/09/02/demystifying-app-architecture-the-leancode-guide/) |
-| Everything Material All At Once | [Taha Tesser](https://x.com/TahaTesser), [Mike Rydstrom](https://x.com/RydMike) | Thursday | 1:25 PM | [Slides](https://docs.google.com/presentation/d/1-JH1vDJAjbj4XK-qb7le9hT7R-I_CW7THtPPUorJsTU/edit#slide=id.g2e9af2516a0_0_1300), [Video](https://www.droidcon.com/2024/09/02/everything-material-all-at-once/) |
-| Boosting Map Performance with Mapbox and Flutter | [Oleksandr Tilnyi](https://x.com/alex_tilnyi) | Thursday | 2:20 PM | [Slides](https://docs.google.com/presentation/d/1VEjz2vmOiFA2pWc8PbdeZoNnu4NaPYgORH2np-oDGGk/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/boosting-map-performance-with-mapbox-and-flutter/), [Article](https://medium.com/@oleksandr-tilnyi/flutter-and-mapbox-deploy-and-display-vector-data-via-mapbox-tilesets-a-11231f19e31a) |
-| Unleashing Flutter on embedded hardware with flutter-pi | Pieter Scholtz, Hannes Winkler, Werner Scholtz | Thursday | 2:20 PM | [Video](https://www.droidcon.com/2024/09/02/unleashing-flutter-on-embedded-hardware-with-flutter-pi/) |
-| Self-host private pub packages | [Pascal Welsch](https://x.com/passsy) | Thursday | 2:20 PM | [Slides](https://docs.google.com/presentation/d/1xkCcJaEEECe_2MknAGSsMm1FLGlsga1ggXk4SGp7WAY/edit?usp=sharing), [Video](https://www.droidcon.com/2024/09/03/self-host-private-pub-packages/) |
-| Using Rust in your next Flutter SDK | Cameron Mcloughlin | Thursday | 2:20 PM | [Video](https://www.droidcon.com/2024/09/02/using-rust-in-your-next-flutter-sdk/) |
-| Get the most out of Flutter theming with theme extensions | Elvira Leveque | Thursday | 3:30 PM | [Video](https://www.droidcon.com/2024/09/03/get-the-most-out-of-flutter-theming-with-theme-extensions/) |
-| Level Up: How I Made the Top 10 Worldwide at Global Gamers Hackathon | [Ivanna Kaceviča](https://x.com/ivannahere) | Thursday | 3:30 PM | [Article](https://medium.com/@evanca/level-up-how-i-made-the-top-10-worldwide-at-flutter-global-gamers-hackathon-671cf1938aac), [Video](https://www.droidcon.com/2024/09/03/level-up-how-i-made-the-top-10-worldwide-at-global-gamers-hackathon/) |
-| Presentation events - a missing piece in BLoC | Marcin Wojnarowski | Thursday | 3:30 PM | [Video](https://www.droidcon.com/2024/09/03/presentation-events-a-missing-piece-in-bloc/) |
-| Flutteristas panel | Alicja Ogonowska, Manuela Sakura Rommel, Kendi J, Danielle Cox, Elvira Leveque | Thursday | 4:10 PM | [Video](https://www.droidcon.com/2024/09/09/flutteristas-panel-2/) |
-| Boost Your Blocs with Functional Programming: bloc_lens in Action | Piotr Rogulski | Thursday | 4:10 PM | [Video](https://www.droidcon.com/2024/09/03/boost-your-blocs-with-functional-programming-bloc_lens-in-action/) |
-| Mastering real world use cases in Flutter with GoRouter and GoRouterBuilder | Max Weber | Thursday | 4:10 PM | [Video](https://www.droidcon.com/2024/09/03/mastering-real-world-use-cases-in-flutter-with-gorouter-and-gorouterbuilder/) |
-| The past, present, and future of native interop | Daco Harkes, [Hossein Yousefi](https://x.com/YousefiDash) | Thursday | 4:10 PM | [Slides](https://docs.google.com/presentation/d/e/2PACX-1vQtSqsB5fwjBpbudeH5IVLpkVxCXldbzMsRcFrAqQUyzO-Pf80T4DBZmrcAHt7QX4I_w2PUN7ZNPabV/pub?start=false&loop=false&delayms=3000), [Video](https://www.droidcon.com/2024/09/02/the-past-present-and-future-of-native-interop/) |
-| Unconference discussion 1 - Past, Present and Future of Native Interop | Ander Dobo | Friday | 9:20 AM | [Video](https://www.droidcon.com/2024/09/03/unconference-discussion-1-past-present-and-future-of-native-interop/) |
-| Hacking and protection of Mobile Apps and backend APIs. Threat modeling exercise. | Tomáš Soukal | Friday | 9:20 AM | [Video](https://www.droidcon.com/2024/09/03/hacking-and-protection-of-mobile-apps-and-backend-apis-threat-modeling-exercise/) |
-| Building Resilient Flutter Apps in the New Age of Non-Deterministic Data | Acacia Pappas | Friday | 9:20 AM | [Video](https://www.droidcon.com/2024/09/03/building-resilient-flutter-apps-in-the-new-age-of-non-deterministic-data/) |
-| Building amazing Flutter Project with Gemma: A State-of-the-Art Open Model | Teresa Wu | Friday | 9:20 AM | [Video](https://www.droidcon.com/2024/09/03/building-amazing-flutter-project-with-gemma-a-state-of-the-art-open-model/) |
-| Palette Panorama: Mastering the power of Advance theming in Flutter | Shree Bhagwat | Friday | 10:15 AM | [Video](https://www.droidcon.com/2024/09/03/palette-panorama-mastering-the-power-of-advance-theming-in-flutter/) |
-| From Touch To Code: Gestures and Beyond | Esra Kadah | Friday | 10:15 AM | [Video](https://www.droidcon.com/2024/09/03/from-touch-to-code-gestures-and-beyond/) |
-| Unconference discussion 2 - Sustainable package maintenance models | Ander Dobo | Friday | 10:15 AM | [Video](https://www.droidcon.com/2024/09/03/unconference-discussion-2-sustainable-package-maintenance-models/) |
-| Developer Diary: Journey of a payment integration | [Nino Handler](https://x.com/luckyhandler) | Friday | 10:15 AM | [Slides](https://github.com/luckyhandler/developer_diaries/blob/main/slides/developer_diary-journey_of_a_payment_integration.pdf), [Video](https://www.droidcon.com/2024/09/03/developer-diary-journey-of-a-payment-integration/) |
-| Mastering Flutter + Firebase: Architecting for Scale, Security & Savings | Tomas Piaggio, Bettina Carrizo | Friday | 11:10 AM | [Video](https://www.droidcon.com/2024/09/02/mastering-flutter-firebase-architecting-for-scale-security-savings/) |
-| Unconference discussion 3 - Addressing package ecosystem fragmentation | Ander Dobo | Friday | 11:10 AM | [Video](https://www.droidcon.com/2024/09/02/unconference-discussion-3-addressing-package-ecosystem-fragmentation/) |
-| Migrating 2+ Million Daily Users to Flutter with 50+ Engineers | Csongor Vogel, Lucas Britto, Bruno Reginato | Friday | 11:10 AM | [Video](https://www.droidcon.com/2024/09/03/migrating-2-million-daily-users-to-flutter-with-50-engineers/) |
-| The Flutter POS: Use-cases on integrating POS Hardware on Android and Linux | Alex Bordei | Friday | 11:10 AM | [Video](https://www.droidcon.com/2024/09/03/the-flutter-pos-use-cases-on-integrating-pos-hardware-on-android-and-linux/) |
-| Internationalization (and not only) | Albert Wolszon | Friday | 12:05 PM | [Video](https://www.droidcon.com/2024/09/03/internationalization-and-not-only/) |
-| Building Hyper-Casual Games with Flutter | Raitis Šaripo | Friday | 12:05 PM | [Video](https://www.droidcon.com/2024/09/03/building-hyper-casual-games-with-flutter/) |
-| Automating Accessibility Adoption in Flutter with Gemini AI | Akanksha Singh | Friday | 12:05 PM |  |
-| Creating responsive UIs and other nuances of Flutter Web | kon syrokostas | Friday | 1:25 PM | [Slides](https://www.canva.com/design/DAGI_mgOFpY/iBDXnRT795JP0Ypqq_WpHQ/edit?utm_content=DAGI_mgOFpY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton), [Video](https://www.droidcon.com/2024/09/03/creating-responsive-uis-and-other-nuances-of-flutter-web/) |
-| Code Meets Art: Flutter for Creative Coding | Roaa Khaddam | Friday | 1:25 PM | [Video](https://www.droidcon.com/2024/09/03/code-meets-art-flutter-for-creative-coding/) |
-| App Architecture: Faster, Better... Simpler | [Kirill Bubochkin](https://x.com/ookami_kb) | Friday | 1:25 PM | [Slides](https://github.com/ookami-kb/ookami-kb/blob/master/slides/app-architecture-fluttercon.pdf), [Video](https://www.droidcon.com/2024/09/03/app-architecture-faster-better-simpler/), [Example repository](https://github.com/ookami-kb/my_tmdb) |
-| Jaspr: Unleashing the Power of Dart for Modern Web Development | [Kilian Schulte](https://x.com/schultek_dev) | Friday | 1:25 PM | [Slides](https://github.com/schultek/schultek/blob/main/references/resources/fluttercon_slides.pdf), [Code](https://github.com/schultek/jaspr/tree/main/apps/fluttercon), [Video](https://www.droidcon.com/2024/09/03/jaspr-unleashing-the-power-of-dart-for-modern-web-development/) |
-| Relaunching DW's Connected TV Experience with Flutter | Olav Schettler, Daniel Vechtel | Friday | 2:20 PM | [Video](https://www.droidcon.com/2024/09/02/relaunching-dws-connected-tv-experience-with-flutter/) |
-| Handling Legacy APIs with Domain Driven Design and Reactivity | Sascha Ernst | Friday | 2:20 PM | [Video](https://www.droidcon.com/2024/09/03/handling-legacy-apis-with-domain-driven-design-and-reactivity/) |
-| Creating Figma plugins with Flutter | Bogdan Hobeanu | Friday | 2:20 PM | [Video](https://www.droidcon.com/2024/09/03/creating-figma-plugins-with-flutter/) |
-| Working with forms as an ecosystem | Vasyl Dytsiak | Friday | 2:20 PM | [Video](https://www.droidcon.com/2024/09/02/working-with-forms-as-an-ecosystem/) |
+| Welcome Address | Greg Fawson, Majid Hajian, Simon Lightfoot | Wednesday | 09:00 AM |  |
+| Let's go far with Flutter | Kevin Moore | Wednesday | 09:20 AM |  |
+| Ship > Hype: Rolling Out AI at Scale to 60 Android Engineers | Ilya Savin | Wednesday | 10:25 AM |  |
+| Flutter, Flame, and Fragment Shaders | Renan Araujo | Wednesday | 10:25 AM |  |
+| The IDE Flutter Deserves | Michael McRoskey | Wednesday | 10:25 AM |  |
+| Flutter Plugins - From Method Channels to Native Interop | Dominik Roszkowski | Wednesday | 10:25 AM |  |
+| Mastering Efficiency in 2025: How Are You Building Faster with Flutter? | Mateusz Wojtczak | Wednesday | 10:25 AM |  |
+| Why Your Context Doesn’t Work (And How to Fix It) | Bettina Carrizo | Wednesday | 10:25 AM |  |
+| DIY In-App Locale Editor with slang | Łukasz Wiśniewski | Wednesday | 11:20 AM |  |
+| Fearless Flutter Debugging: When All Else Fails, Hack the Tools! | Mateusz Wojtczak | Wednesday | 11:20 AM |  |
+| Flutter Widgets Probably Haven’t Heard Of | Majid Hajian | Wednesday | 11:20 AM |  |
+| How to design a Dart package with hooks | Moritz Sümmermann | Wednesday | 11:20 AM |  |
+| Pub Workspaces | Lukas Klingsbo 💙 | Wednesday | 11:55 AM |  |
+| Automation for Enterprise-Scale Flutter Development | Anna Leushchenko | Wednesday | 11:55 AM |  |
+| No touch. No gestures. Can you still build a Great UX? | Vadym Pinchuk | Wednesday | 11:55 AM |  |
+| From Zero to Flutter Favorite: What Makes a Great Dart & Flutter Package? | Jonas Uekötter, Christoph Schlüter | Wednesday | 11:55 AM |  |
+| From fear to air: embracing over-the-air app updates | Mangirdas Kazlauskas | Wednesday | 11:55 AM |  |
+| I don't have any technical debt | Jason Toms | Wednesday | 11:55 AM |  |
+| Let’s Talk About Memory Leaks In Dart And Flutter | Majid Hajian | Wednesday | 01:45 PM |  |
+| Who is a Native Bindings Author and why you should be one | Hossein Yousefi | Wednesday | 01:45 PM |  |
+| AnimatedTo: A Game Changer for Your Moving Animations | Tsuyoshi Chujo | Wednesday | 01:45 PM |  |
+| No More Anxiety: How to Use iOS Extensions in Your Flutter App | Lucas Goldner | Wednesday | 01:45 PM |  |
+| Navigating the Shift from Code to Leadership | Thomas Hanning | Wednesday | 01:45 PM |  |
+| Monetization Strategies for Flutter Apps: Beyond the Basics | Ivanna Kaceviča | Wednesday | 01:45 PM |  |
+| Building a Strong Engineering Culture | Stelios Frantzeskakis | Wednesday | 02:40 PM |  |
+| Clean Code Push: Integrating Shorebird CodePush into Scalable Flutter Architectures | Ümit Duran | Wednesday | 02:40 PM |  |
+| To SQL or NoSQL? Firebase is the Answer | Daria Orlova | Wednesday | 02:40 PM |  |
+| AI in Flutter Development: What’s Actually Useful? | Esra Kadah, Ivanna Kaceviča | Wednesday | 02:40 PM |  |
+| Taming Legacy: Refactoring Patterns for Large Flutter Codebases | Marcin Chudy | Wednesday | 02:40 PM |  |
+| Unlocking Native Power: Deep Dive into Dart Build Hooks | Daco Harkes | Wednesday | 02:40 PM |  |
+| Ensuring quality throughout the application lifecycle | Jonas Uekötter | Wednesday | 03:45 PM |  |
+| Flutter with WebRTC for real-time screen sharing | Stanislav Sydorenko | Wednesday | 03:45 PM |  |
+| Test Semantics with Golden Tests | Sandra Lundh | Wednesday | 03:45 PM |  |
+| Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System | Piotr Rogulski | Wednesday | 03:45 PM |  |
+| Faster, Smarter Releases: Accelerating Mobile App Deployments | Omkar Pimple | Wednesday | 04:20 PM |  |
+| Rethinking Flutter Interviews in the AI Era | Vadym Pinchuk, Elaine Dias Batista | Wednesday | 04:20 PM |  |
+| Using Dart FFI for Compute-Heavy Tasks in Flutter Apps | Robert Odrowaz-Sypniewski | Wednesday | 04:20 PM |  |
+| Mastering CustomPainter: Going Beyond Widgets in Flutter | Sofia Rey | Wednesday | 04:20 PM |  |
+| Under the Hood of ScrollViews | Dominik Šimoník | Wednesday | 04:20 PM |  |
+| Lessons learned after helping more than 2000 Flutter teams build their own design system | Lucas Josefiak | Wednesday | 04:20 PM |  |
+| The Future is Written in Dart | Eric Seidel | Thursday | 09:20 AM |  |
+| Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots | Pascal Welsch | Thursday | 10:30 AM |  |
+| Polish Before Pitch: Making Your Flutter App Feel “Alive” Before Fundraising | Enzo Conty | Thursday | 10:30 AM |  |
+| No More ‘Someone Else’s Problem’: Tackling Tech Debt at Scale | Florian Mierzejewski | Thursday | 10:30 AM |  |
+| Crash-Proof Flutter: Building Apps That Refuse to Die | Pawan Kumar | Thursday | 10:30 AM |  |
+| Adding Google Maps Turn-by-Turn Navigation to Your Flutter App | Joonas Kerttula | Thursday | 10:30 AM |  |
+| Time for Flutter on the Apple Watch | Anton Borries | Thursday | 11:25 AM |  |
+| Behind the @ – Dart Annotations in Depth | Anna Leushchenko | Thursday | 11:25 AM |  |
+| Exploring Real-Time 3D in Flutter with Gaussian Splatting – An Early Field Report | Jesper Bellenbaum, Tim Lehmann | Thursday | 11:25 AM |  |
+| I’m the entry point now | Marcin Wróblewski | Thursday | 11:25 AM |  |
+| From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features | Mateusz Rus | Thursday | 12:00 PM |  |
+| Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | Matthew Jones | Thursday | 12:00 PM |  |
+| Simpler state management with Dart on the server and synced databases | Simon Binder | Thursday | 12:00 PM |  |
+| Faster, Smarter Releases: Using AI to Accelerate Mobile Deployments in Flutter | Omkar Pimple | Thursday | 12:00 PM |  |
+| Quick Start MCP with Dart: Building LLM Context Servers Now | Jhin Lee | Thursday | 12:00 PM |  |
+| Rolling Out AI at Scale in Mobile Engineering Teams | Ilya Savin, Maia Grotepass | Thursday | 12:00 PM |  |
+| Joining at Staff+: Thriving in a Senior Role Without a Map | Xavier F. Gouchet | Thursday | 01:50 PM |  |
+| The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning | Yugo Sugiyama | Thursday | 01:50 PM |  |
+| No More Jank: How to Keep Your Flutter App Smooth and Snappy | Shree Bhagwat | Thursday | 01:50 PM |  |
+| Vibe Coding Full-Stack Dart – Build with Joy Beyond the UI | Viktor Lidholt | Thursday | 01:50 PM |  |
+| Design Systems in Practice: How Flutter Teams Save Time and Align with Design | Anton Borries, Lucas Josefiak | Thursday | 01:50 PM |  |
+| Kalender: A Calendar package in the spirit of Flutter | Werner Scholtz | Thursday | 01:50 PM |  |
+| Server-Side Rendering for Flutter Web: Promising Paths or Dead End? | Simon Auer | Thursday | 02:45 PM |  |
+| The DX Factor: From Developer Experience to Business Value | Alessandro Mautone | Thursday | 02:45 PM |  |
+| Multi-Radio Flutter: Architecting Apps with UWB, BLE, and Beyond | Ahmed Hamdan | Thursday | 02:45 PM |  |
+| Building Offline AI Agent in your Flutter app | Sasha Denisov | Thursday | 02:45 PM |  |
+| Streamlining Flutter Releases: What’s Your Process? | Alba Torres Rodríguez | Thursday | 02:45 PM |  |
+| Powering offline-first forestry in Europe's wilds | Alexander Thiele | Thursday | 02:45 PM |  |
+| Live-Coding Custom Widgets with Simon | Simon Lightfoot | Thursday | 03:45 PM |  |
+| It's Not Just Liquid Glass: Building Physics-Driven Flutter Apps That Feel Real | Tim Lehmann, Jesper Bellenbaum | Thursday | 03:45 PM |  |
+| Flutter Vibes Only: Join Us for the Flutter Vibe-Coding Workshop | Ivanna Kaceviča, Esra Kadah | Thursday | 03:45 PM |  |
+| Performant Scrolling Layouts With Slivers | Michael Lazebny | Thursday | 03:45 PM |  |
+| The Indie Flutter Journey: Wins, Woes, and What We’d Do Differently | Daria Orlova, Cagatay Ulusoy | Thursday | 03:45 PM |  |
+| The Art of Feature Delivery: Practical Tactics for Tech Leads and EMs | Zoe Farooq | Thursday | 03:45 PM |  |
+| Streamlining Development with the Monorepo Ecosystem | Adam Eba | Thursday | 04:40 PM |  |
+| Tech Leadership in a Fast-Changing Stack | Shree Bhagwat | Thursday | 04:40 PM |  |
+| Connect: gRPC that "works everywhere" | Kirill Bubochkin | Thursday | 04:40 PM |  |
+| Breaking Career Plateaus: What’s Really Holding You Back in Tech? | Sandra-Lorena Bahlmann | Thursday | 04:40 PM |  |
+| Banking on Flutter – The Virgin Money Journey | Łukasz Kosman, Gary Mclellan | Thursday | 04:40 PM |  |
+| The "fastest" application of Flutter of all time! | David DeRemer, Kyle Crouse | Friday | 09:20 AM |  |
+| Nested Navigation in flutter web | Renuka Kelkar | Friday | 10:30 AM |  |
+| From Flutter to Full-Stack: A Practical Guide to Full-stack Development | Salih Guler | Friday | 10:30 AM |  |
+| Building a Full-Stack App for Apple Wallet Passes | Marcos Sevilla | Friday | 10:30 AM |  |
+| Build Your Own AI Sidekick with Flutter | Moritz Theis, Alexander Thiele | Friday | 10:30 AM |  |
+| App Audit — Acing Your WCAG Accessibility Audit | Enzo Conty | Friday | 10:30 AM |  |
+| RenderObject layer advantages without writing any RenderObjects | Albert Wolszon | Friday | 11:25 AM |  |
+| Jaspr - Dart, but for Websites | Kilian Schulte | Friday | 11:25 AM |  |
+| The Unspoken Shift from Leading a Team to Leading Leaders | Taso Dane | Friday | 11:25 AM |  |
+| Accelerating the Dev Loop with DCM Lints at Betterment | Casey Rogers | Friday | 11:25 AM |  |
+| Roundtable Topic: Escaping Chaos: Should Your Flutter Team Move to a Monorepo? | Marcin Chudy | Friday | 11:25 AM |  |
+| Surviving the Long Game: Maintaining Flutter Apps Over Time | Dominik Roszkowski, Simon Lightfoot | Friday | 01:15 PM |  |
+| Flutter-Powered Robot Butler: Building a Talking, Thinking IoT Device with Embedded AI | Alex Bordei | Friday | 01:15 PM |  |
+| Flutter Performance: No Silver Bullet, Only Smart Engineering | Mikhail Zotyev | Friday | 01:15 PM |  |
+| Beyond the widgets: Evaluating Flutter apps with code assessments | Óscar Martín | Friday | 01:15 PM |  |
+| Add-to-web: Reusing Flutter via multi-view embedding | Fré Dumazy | Friday | 01:15 PM |  |
+| Proximity Unlocked: What I wish I knew before working with background location | Simon Eckerstorfer | Friday | 02:10 PM |  |
+| Optimize your productivity with Flutter developer tooling | Elliott Brooks | Friday | 02:10 PM |  |
+| Live-Coding With Simon (Part II) | Simon Lightfoot, Kevin Moore | Friday | 02:10 PM |  |
+| This App is Built Different: Advanced Memory Management in Flutter | Maher Jaafar | Friday | 02:10 PM |  |
+| Successfully reducing Firestore read operations | Nino Handler | Friday | 02:45 PM |  |
+| Building Design Tools with Flutter: Challenges and Lessons Learned | Bogdan Hobeanu | Friday | 02:45 PM |  |
+| Why "Where" Matters: Exploring the Power of Location-Aware Apps | Jen Merritt | Friday | 02:45 PM |  |
 ## Credits
 
 Big thanks to all the FlutterCon speakers and their efforts in creating and delivering these amazing talks.

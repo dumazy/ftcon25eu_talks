@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Simon Lightfoot",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Live-Coding Custom Widgets with Simon",
+  "videoUrl": "",
+  "description": "Simon will show you how to take advantage of Flutters RenderObject, Element and Widget trees to build a custom infinite canvas widget that only builds the widgets on screen.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "03:45 PM",
+  "startsAt": "2025-09-25T15:45:00",
+  "endsAT": "2025-09-25T16:25:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": []
+}

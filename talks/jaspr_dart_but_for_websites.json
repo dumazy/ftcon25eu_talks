@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Kilian Schulte",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Jaspr - Dart, but for Websites",
+  "videoUrl": "",
+  "description": "Ever heard of Jaspr, the Web Framework for Dart developers?\r\n\r\nFind out what Jaspr is and how you can apply your Dart and Flutter skills for building fast and dynamic websites. Discover how Jaspr is used in real sites, including the official dart.dev website.\r\n\r\nHighlights:\r\n\r\n- Real-world examples: Discover how Jaspr is used in real sites, including the official dart.dev website.\r\n- Performance & SEO: See how Jaspr compares against Flutter Web and how it handles SEO and fast loading times.\r\n- Flutter Embedding: Find out how easy it is to embed a Flutter (Web) app in a Jaspr website, and how you can share code and state between them.\r\n- New Features: Learn about new and upcoming features of Jaspr.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "11:25 AM",
+  "startsAt": "2025-09-26T11:25:00",
+  "endsAT": "2025-09-26T12:05:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "Third Party Libraries",
+    "Flutter Multiplatform (Mobile, Desktop, Web, Embedded)"
+  ]
+}

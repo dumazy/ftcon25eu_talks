@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Moritz Sümmermann",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "How to design a Dart package with hooks",
+  "videoUrl": "",
+  "description": "Using the example of package:intl4x, we'll look at how to design a Dart package using the new build and link hook system and usage recording, answering questions such as\r\n- How do I build binaries?\r\n- Where do I store them?\r\n- How do I retrieve them?\r\n- How do I reduce code size?\r\n\r\nThis will be as hands-on as possible, less focused on the underpinnings and more on usability.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "11:20 AM",
+  "startsAt": "2025-09-24T11:20:00",
+  "endsAT": "2025-09-24T11:40:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "Dart FFI",
+    "Open Source Contributions"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Taso Dane",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "The Unspoken Shift from Leading a Team to Leading Leaders",
+  "videoUrl": "",
+  "description": "From leading a single team to becoming a manager of managers or leaders: It’s seen as a badge of success, but few talk about the fact that the role you step into is not the one you left behind. Suddenly, you’re further from the code and closer to strategy, politics, and people dynamics you’ve never had to navigate before. The skills that made you successful as a team lead won’t automatically make you effective when guiding engineering managers, staff engineers, and principal engineers. This roundtable explores strategies, pitfalls, and practical experiences in leading high-level engineers within Android or Flutter mobile teams.\r\n\r\nIdentity Shift: How did you handle the transition from being close to the work to being several layers removed from day-to-day execution?\r\nLetting Go: What’s the hardest responsibility or habit you had to give up when you stopped directly managing individual contributors?\r\nAutonomy: How do you balance giving your leaders autonomy while still ensuring alignment and delivery?\r\nGrowth: What does career growth look like for high-performing staff or principal engineers?\r\nSupport Systems: What resources, mentors, or peer groups helped you adjust to this new role — and what do you wish you’d known earlier?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "11:25 AM",
+  "startsAt": "2025-09-26T11:25:00",
+  "endsAT": "2025-09-26T12:05:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": []
+}

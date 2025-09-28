@@ -1,0 +1,39 @@
+{
+  "speakers": [
+    {
+      "name": "Łukasz Kosman",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Gary Mclellan",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Banking on Flutter – The Virgin Money Journey",
+  "videoUrl": "",
+  "description": "Speakers: Gary McLellan (Head of Digital Engineering, Virgin Money) & Łukasz Kosman (CEO, LeanCode)\r\n\r\nIn this keynote, Gary McLellan from Virgin Money and Łukasz Kosman from LeanCode will take the audience behind the scenes of one of the most ambitious Flutter transformations in the financial sector.\r\n\r\nYou’ll hear the full story of how and why Virgin Money decided to move their mobile development to Flutter—what sparked the change, how the decision was made, and what the migration process looked like in practice.\r\n\r\nGary and Łukasz will share the real-world challenges the team faced during this transition: from shifting internal workflows and upskilling developers, to integrating an external agency into an existing project.\r\n\r\nYou’ll learn what it takes to onboard a partner like LeanCode successfully, what collaboration models work best, and how to maintain velocity while navigating such a large-scale change.\r\nThe talk will conclude with a set of proven best practices for onboarding existing teams to Flutter, offering practical tips that can help both in-house teams and external partners thrive together in a unified Flutter setup.\r\n\r\nWhether you’re leading a team, managing a product, or building Flutter apps, this session will deliver valuable insights on what it truly means to scale Flutter in a complex, real-world environment.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "04:40 PM",
+  "startsAt": "2025-09-25T16:40:00",
+  "endsAT": "2025-09-25T17:20:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "Enterprise/Tech Leadership"
+  ]
+}

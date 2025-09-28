@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Shree Bhagwat",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "No More Jank: How to Keep Your Flutter App Smooth and Snappy",
+  "videoUrl": "",
+  "description": "Everything works great on your device, but suddenly your Flutter app starts lagging, dropping frames, or stuttering on others. This talk is about those moments. I’ll break down how Flutter renders frames, why things go janky, and how you can fix (and even prevent) it. \r\nThrough real examples and practical demos, I’ll share tips and tools that have helped me improve performance in production apps — and hopefully, they’ll help you too.\r\n\r\nWhat this talk covers:\r\n\r\n* What exactly is a “frame drop” and how Flutter’s rendering pipeline works.\r\n* The real reasons behind jank (and no, it’s not always animations!).\r\n* Using Flutter DevTools like a pro: timeline view, paint, rebuild tracking.\r\n* Common performance pitfalls: expensive widgets, async overload, layout thrashing.\r\n* Quick wins to make lists scroll smoother, images load faster, and screens render snappier.\r\n* A simple workflow to debug and stay on top of performance issues in every release.\r\n\r\nWhat You'll Learn:\r\n\r\n* How to spot performance red flags before your users do.\r\n* Practical steps to profile, measure, and debug janky UI.\r\n* How to make smart widget tree decisions and avoid rebuild traps.\r\n* Best practices for keeping animations smooth and interactions fluid.\r\n* How to use Flutter DevTools Timeline and Repaint Rainbow effectively.\r\n* Battle-tested advice from production apps — what works and what doesn't.\r\n\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "01:50 PM",
+  "startsAt": "2025-09-25T13:50:00",
+  "endsAT": "2025-09-25T14:30:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Flutter Multiplatform",
+    "Architecture",
+    "DevTools & Debugging"
+  ]
+}

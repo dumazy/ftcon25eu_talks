@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Piotr Rogulski",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System",
+  "videoUrl": "",
+  "description": "Want to streamline your Dart analysis workflow and leverage the latest tooling? Dart's new first-party analyzer plugin system promises a unified, faster way to handle custom lints by replacing `custom_lint` and integrating directly with `dart analyze`. This talk demystifies the migration process. We'll walk you through our step-by-step migration of the `leancode_lint` package, sharing both the successes and the roadblocks encountered. Learn firsthand about the new plugin structure, understand the key differences from `custom_lint`, and discover the practical challenges and outcomes. Equip yourself with the insights needed to tackle your own migration smoothly.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "03:45 PM",
+  "startsAt": "2025-09-24T15:45:00",
+  "endsAT": "2025-09-24T16:05:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "DevTools & Debugging",
+    "Package & Plugin Development"
+  ]
+}

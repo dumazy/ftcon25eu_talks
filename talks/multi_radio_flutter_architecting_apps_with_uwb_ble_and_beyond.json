@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Ahmed Hamdan",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Multi-Radio Flutter: Architecting Apps with UWB, BLE, and Beyond",
+  "videoUrl": "",
+  "description": "Ever wondered how Flutter could handle multiple wireless technologies like UWB and BLE in a single app? \r\nIn this session, we'll dive into the exciting world of multi-radio applications, stepping beyond basic examples to tackle real-life scenarios.\r\n\r\nI'll share practical insights on how these technologies complement each other, discuss the architecture patterns that help keep your code clean and maintainable, and highlight performance considerations to ensure your apps remain responsive, even when juggling multiple data streams.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "02:45 PM",
+  "startsAt": "2025-09-25T14:45:00",
+  "endsAT": "2025-09-25T15:25:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Networking (GraphQL, APIs, etc.)"
+  ]
+}

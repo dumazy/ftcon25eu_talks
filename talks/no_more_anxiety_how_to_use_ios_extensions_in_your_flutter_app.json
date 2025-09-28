@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Lucas Goldner",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "No More Anxiety: How to Use iOS Extensions in Your Flutter App",
+  "videoUrl": "",
+  "description": "I think I’m not the only one who panics a little when I have to add a new iOS extension to an app, especially when it’s not a simple home screen widget or a share sheet! There are so many powerful extension types in iOS that we often overlook, but they can enable creative and seamless integrations with the iOS platform.\r\n\r\nMost of these extensions traditionally require Swift code and tricky Xcode configuration. But what if I told you that in recent versions, it has become possible to run Flutter code inside extensions? Sounds amazing, right?\r\n\r\nIn this talk, I will:\r\n• Introduce a wide range of iOS extensions and what they can do\r\n• Show how to implement them — and the common pitfalls to watch out for\r\n• Explain when and how you can embed Flutter in extensions, with practical examples\r\n\r\nWhether you’re building deep platform integrations, want to extend your app’s reach on iOS, or are just curious about what’s possible, this talk will inspire you to go further.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "01:45 PM",
+  "startsAt": "2025-09-24T13:45:00",
+  "endsAT": "2025-09-24T14:25:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Third Party Libraries",
+    "Native Platform Integration",
+    "Embedded UI"
+  ]
+}

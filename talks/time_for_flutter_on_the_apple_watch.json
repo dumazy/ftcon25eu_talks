@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Anton Borries",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Time for Flutter on the Apple Watch",
+  "videoUrl": "",
+  "description": "Among 450 million smartwatch users globally, Apple has the biggest market share of over 20%. Extending your Flutter app to Apple Watch presents a significant opportunity to enhance user experience. This talk will guide you through the process of bringing your app's data to Apple Watches, enabling users to access key information at a glance via dedicated watch apps and customizable complications. \r\n\r\nWe will also take a quick look at Android Smartwatches because afterall Flutter is best when it comes to being cross platform.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "11:25 AM",
+  "startsAt": "2025-09-25T11:25:00",
+  "endsAT": "2025-09-25T11:45:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": []
+}

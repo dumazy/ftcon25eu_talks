@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Anna Leushchenko",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Automation for Enterprise-Scale Flutter Development",
+  "videoUrl": "",
+  "description": "As Flutter projects grow in size and complexity — especially in enterprise-scale environments — manual processes can quickly become bottlenecks. In this talk, we’ll explore how automation can streamline local development, pull requests, releases, and ongoing maintenance of a large-scale Flutter codebase.\r\n\r\nStarting from well-known practices like enforcing consistent formatting or zero tolerance for linter warnings, to streamlining boilerplate code generation and maintaining consistency in monorepos, and extending to less obvious strategies like validating licenses of new dependencies or detecting circular dependencies — we’ll explore a wide range of automation ideas, including fully custom checks tailored to your team’s needs.\r\n\r\nYou’ll leave this session equipped with practical, actionable strategies for building more efficient, reliable, and scalable Flutter development workflows.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "11:55 AM",
+  "startsAt": "2025-09-24T11:55:00",
+  "endsAT": "2025-09-24T12:35:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

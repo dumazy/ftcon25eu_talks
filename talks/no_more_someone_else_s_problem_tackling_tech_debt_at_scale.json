@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Florian Mierzejewski",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "No More ‘Someone Else’s Problem’: Tackling Tech Debt at Scale",
+  "videoUrl": "",
+  "description": "When 50+ engineers contribute to a rapidly growing codebase, technical debt and executing migrations becomes an organizational challenge.\r\nAt Qonto, we transformed our tech debt management by moving from vague group responsibility to empowering teams with a way to visualize and prioritize their debt, turning \"someone should fix this\" into \"we’re on it.\"\r\nIn this talk, you'll learn how we:\r\n- Built a first prototype in just one month with a single engineer without any new new tools, just clever use of existing APIs\r\n- Integrated it into our day-to-day processes, making tech health a routine\r\n- Designed a Health Score that teams actually want to improve\r\n- Orchestrated large-scale migrations with real-time tracking, no more guessing “are we there yet?”\r\n- Made debt reduction engaging with intuitive tooling and team-specific dashboards\r\n- Expanded the playbook to tackle dependency updates, flaky tests, and beyond\r\nWe’ll also share hard-earned lessons and take a sneak peek at what's next.\r\nJoin us to see how teams like yours can cut tech debt while boosting ownership, starting with what’s already in your toolkit.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "10:30 AM",
+  "startsAt": "2025-09-25T10:30:00",
+  "endsAT": "2025-09-25T11:10:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

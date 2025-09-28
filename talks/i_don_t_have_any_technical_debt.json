@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Jason Toms",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "I don't have any technical debt",
+  "videoUrl": "",
+  "description": "I can guess a few things you might be thinking now. Either I am lying, or I just don't know what technical debt is. Or maybe I am just bad at my job and these opinions will blow up in my face a year from now.\r\n\r\nMaybe the last one is true, time will tell! But I think a lot of technical debt is a mindset about your codebase. But over the last two years, we have taken our Android app, used by millions of Norwegians, from a place where you could see its legacy as an SDK to a codebase where we can make changes and add features so quickly it can be inconvenient.\r\n\r\nI think the way we got here is pretty simple: take ownership of your codebase. In this talk, I will explain what that loaded statement means, and how you too can be tech debt free in no time!\r\n\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "11:55 AM",
+  "startsAt": "2025-09-24T11:55:00",
+  "endsAT": "2025-09-24T12:35:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

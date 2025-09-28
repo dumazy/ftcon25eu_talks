@@ -1,0 +1,32 @@
+{
+  "speakers": [
+    {
+      "name": "Viktor Lidholt",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Vibe Coding Full-Stack Dart – Build with Joy Beyond the UI",
+  "videoUrl": "",
+  "description": "Flutter lets us vibe code beautiful apps at lightning speed, but the moment your app needs a backend, the fun often stops. Suddenly, you're juggling languages, DevOps pipelines, and vendor lock-in anxiety. What if you didn't have to?\r\n\r\nIn this talk, we'll explore how to keep the vibe alive by building full-stack features entirely in Dart. You'll see how to create a production-ready backend that feels like an extension of your Flutter app, not a separate world. We'll cover type-safe APIs, modular architecture, real-time updates, and zero-config deployments, all focusing on developer joy.\r\n\r\nWhether you're a solo founder shipping fast or part of a mobile team tired of stitching together backend solutions, you'll leave this session ready to build confidently, scalably, and entirely in Dart.\r\n\r\nLet's vibe code the whole stack.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "01:50 PM",
+  "startsAt": "2025-09-25T13:50:00",
+  "endsAT": "2025-09-25T14:30:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Dart on the server",
+    "AI/ML Integration",
+    "Generative AI + Dart",
+    "Flutter & LLMs"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Pawan Kumar",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Crash-Proof Flutter: Building Apps That Refuse to Die",
+  "videoUrl": "",
+  "description": "Every Flutter developer has experienced it: A production app crashes due to an unexpected null value, a changed API response, or a setState called after dispose. Your perfectly tested app meets the chaos of the real world, and users suffer.\r\nWhat if your app could gracefully handle these failures without crashing?\r\n\r\nIn this talk, I'll demonstrate a defensive architecture pattern that makes Flutter apps resilient to common production failures. You'll see live demos of apps surviving null pointer exceptions, handling malformed API responses, and preventing setState crashes - all while maintaining a smooth user experience.\r\n\r\nKey takeaways:\r\n* Build a crash-resistant architecture that goes beyond simple try-catch blocks\r\n* Implement smart fallback strategies for graceful degradation\r\n* Create widgets that handle errors at the framework level\r\n* Monitor and log failures without impacting users\r\n* Real-world patterns from apps with 90% crash-free rates\r\n\r\nPerfect for: Flutter developers who want to build production-ready apps that survive real-world chaos, team leads looking to reduce crash rates, and anyone tired of 3 AM bug fixes.\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "10:30 AM",
+  "startsAt": "2025-09-25T10:30:00",
+  "endsAT": "2025-09-25T11:10:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

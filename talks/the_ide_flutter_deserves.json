@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Michael McRoskey",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "The IDE Flutter Deserves",
+  "videoUrl": "",
+  "description": "For years, Flutter developers have relied on general-purpose IDEs, great tools, but not built with Flutter’s unique patterns, challenges and workflows in mind. While other ecosystems are getting AI-first, deeply integrated environments, Flutter devs are still stitching together plugins, previews, and command-line tools to stay productive.\r\n\r\nIn this session, we introduce a new Flutter IDE called DreamFlow IDE, an AI integrated IDE built from the ground up for Flutter. It brings a tri-surface development model:\r\n- Code for full control and Dart analyzer fidelity,\r\n- Visual for intuitive layout and styling,\r\n- Agentic for AI-assisted refactors, generation, and testing.\r\n\r\nWith this talk, we learn how to build, debug, and iterate faster an existing Flutter project with the help of the new IDE.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "10:25 AM",
+  "startsAt": "2025-09-24T10:25:00",
+  "endsAT": "2025-09-24T11:05:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "DevTools & Debugging",
+    "Generative AI + Dart",
+    "Flutter & LLMs"
+  ]
+}

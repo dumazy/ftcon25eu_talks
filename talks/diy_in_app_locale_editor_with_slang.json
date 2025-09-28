@@ -1,0 +1,32 @@
+{
+  "speakers": [
+    {
+      "name": "Łukasz Wiśniewski",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "DIY In-App Locale Editor with slang",
+  "videoUrl": "",
+  "description": "Not sure if those AI-generated translations are any good? Don't want to spend a fortune on localization tools? Or maybe you just love over-engineering things?\r\n\r\nIn this lightning talk, you'll learn how to build an in-app locale editor using the slang library. Imagine Widgetbook and Localizely had a baby - and it lived inside your app. Let your users fix translations for you!\r\n\r\nWe'll cover:\r\n\r\n- What slang offers and how to set it up\r\n- Organizing your locale files for editing\r\n- Building a simple string editor UI\r\n- Integrating it cleanly into your app's architecture\r\n- Previewing changes live - even in production\r\n- Tracking which strings are actually used in your widget tree\r\n\r\nLive demo included!",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "11:20 AM",
+  "startsAt": "2025-09-24T11:20:00",
+  "endsAT": "2025-09-24T11:40:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "Testing",
+    "Architecture",
+    "DevTools & Debugging",
+    "Third Party Libraries"
+  ]
+}

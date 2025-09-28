@@ -1,0 +1,40 @@
+{
+  "speakers": [
+    {
+      "name": "Vadym Pinchuk",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Elaine Dias Batista",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Rethinking Flutter Interviews in the AI Era",
+  "videoUrl": "",
+  "description": "AI tools like ChatGPT can solve coding problems instantly—and remote interviews make it hard to know who’s really behind the keyboard. So what should Flutter teams do when traditional technical interviews stop reflecting real-world skill?\r\n\r\nIn this roundtable, we’ll dive into how hiring for Flutter roles is changing and what fair, effective assessments might look like today. Let’s explore how teams can balance trust, rigor, and realism in the age of AI-assisted development and remote candidates.\r\n\r\nBring your experience, challenges, and ideas—this is a space to share what’s working (and what’s not) in your hiring process.\r\n\r\nHow has the rise of AI tools changed your expectations for technical interviews—especially for Flutter or mobile roles?\r\n\r\nWhat signals do you now look for to gauge a candidate’s real-world ability, beyond algorithm puzzles or live coding?\r\n\r\nHow do you address concerns about authenticity and cheating in remote interviews without creating a hostile experience?\r\n\r\nShould we be testing how candidates use AI, rather than pretending it doesn’t exist? If so, how?\r\n\r\nWhat alternative interview formats (e.g. take-home projects, pair programming, system design) have worked well for your team?\r\n\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "04:20 PM",
+  "startsAt": "2025-09-24T16:20:00",
+  "endsAT": "2025-09-24T17:00:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "Enterprise/Tech Leadership",
+    "Flutter & LLMs"
+  ]
+}

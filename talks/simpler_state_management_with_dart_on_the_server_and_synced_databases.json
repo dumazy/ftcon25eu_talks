@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Simon Binder",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Simpler state management with Dart on the server and synced databases",
+  "videoUrl": "",
+  "description": "Local databases like SQLite are a great tool for storing structured data. Together with reactive libraries like Drift, they form a great basis for state management as well.\r\nOnce local data needs to be fetched from or uploaded to a backend however, things become a lot more complicated and require custom cache management. This talk shows how a combination of Dart on the server and realtime sync engines make state management across devices just as easy as state management on a single device.\r\n\r\nKey takeaways of this talk are:\r\n\r\n- How a SQLite database fits into modern state management.\r\n- How Drift can be used to safely share database code between app and backend.\r\n- How sync engines like PowerSync simplify integrating your backend.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "12:00 PM",
+  "startsAt": "2025-09-25T12:00:00",
+  "endsAT": "2025-09-25T12:40:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

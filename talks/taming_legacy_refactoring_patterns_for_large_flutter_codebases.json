@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Marcin Chudy",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Taming Legacy: Refactoring Patterns for Large Flutter Codebases",
+  "videoUrl": "",
+  "description": "Flutter quickly became a solid technology to use in large-scale enterprise apps. However, as projects grow over time and developers are met with tight deadlines, we stumble upon the inevitable challenges related to dealing with legacy Flutter code. This is what I experienced firsthand while working on multiple projects across various business domains.\r\n\r\nIn this talk, I will walk you through some real-life examples of how Flutter codebases can deteriorate over time and how we effectively refactor them. We’ll tackle duplicated code, tight coupling, the lack of reusable widgets, chaotic state management, polyrepo workflow issues and much more. We’ll try to stay pragmatic though. As halting the development completely to do total refactoring is rarely an option, I would like to show strategies that can quickly bring real value without disrupting the work of the whole development team.\r\n\r\nWhether you’re just starting your project or inheriting an old codebase, refactoring patterns are a must. Having a deeper knowledge of them will help you create quality future-proof Flutter apps. ",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "02:40 PM",
+  "startsAt": "2025-09-24T14:40:00",
+  "endsAT": "2025-09-24T15:20:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "State Management",
+    "Architecture",
+    "Modularization"
+  ]
+}

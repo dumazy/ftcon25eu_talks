@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Yugo Sugiyama",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning",
+  "videoUrl": "",
+  "description": "I currently work on the development of a live streaming app, where users can both view and broadcast video streams. As you might expect, live streaming apps come with complex requirements—not only do they need to support smooth video playback and broadcasting, but also a variety of interactive features. This makes implementation particularly challenging, especially from a performance perspective.\r\n\r\nOur app is built with Flutter, and throughout its development, we’ve encountered several Flutter-specific architectural and performance problems. In addition, because we rely on iOS/Android third-party SDKs for the live streaming infrastructure, we needed to deeply integrate native components with Flutter components.\r\n\r\nIn this talk, I’ll share insights from building and optimizing our live streaming app—focusing on both the architectural decisions and the performance tuning process. Topics include:\r\n\r\n1. The architecture behind video playback and broadcasting\r\n2. Techniques for using PlatformView and Texture widgets with native video players\r\n3. Our approach to measuring and improving performance\r\n\r\nThis session will include topics of both Flutter and native (iOS/Android) implementations, as the integration between them plays a critical role in the overall experience.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "01:50 PM",
+  "startsAt": "2025-09-25T13:50:00",
+  "endsAT": "2025-09-25T14:30:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "Flutter Multiplatform",
+    "Performance Optimization"
+  ]
+}

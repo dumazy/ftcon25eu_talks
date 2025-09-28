@@ -1,0 +1,41 @@
+{
+  "speakers": [
+    {
+      "name": "Jesper Bellenbaum",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Tim Lehmann",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Exploring Real-Time 3D in Flutter with Gaussian Splatting – An Early Field Report",
+  "videoUrl": "",
+  "description": "Gaussian Splatting is a recent approach for efficient real-time 3D rendering. This makes it particularly well-suited for realistic visualizations even on mobile devices.\r\nIn this session, we'll talk  how to bring Gaussian Splatting into Flutter apps using Google's Almost Native Graphics Layer Engine layer. We'll guide you through the full pipeline: from capturing photos and reconstructing them into 3D models using open-source tools (COLMAP, brush-cli), to embedding these 3D assets directly into your Flutter app.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "11:25 AM",
+  "startsAt": "2025-09-25T11:25:00",
+  "endsAT": "2025-09-25T11:45:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "Custom Painting / Render Objects / Rendering",
+    "Third Party Libraries",
+    "Flutter for XR / AR"
+  ]
+}

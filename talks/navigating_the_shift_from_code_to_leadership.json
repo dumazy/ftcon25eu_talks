@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Thomas Hanning",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Navigating the Shift from Code to Leadership",
+  "videoUrl": "",
+  "description": "Moving from an individual contributor role to a team lead position is an exciting yet challenging transition—especially for engineers with a strong technical background. How do you redefine your role when success is no longer measured by the code you write but by the impact you have on your team?\r\nThis roundtable dives into the personal and professional evolution that mobile engineers—particularly Android and Flutter developers—undergo when stepping into leadership.\r\n\r\nWe’ll explore the practical realities of leading without losing technical relevance, managing the tension between coding and coordinating, and fostering a strong, healthy engineering culture. Whether you're a new tech lead or mentoring one, this session is a chance to reflect on what makes a truly effective leader in today’s mobile engineering landscape.\r\n\r\nWhat mindset shifts were most important for you when you stopped measuring your success by your code contributions?\r\nHow do you continue to leverage your technical expertise without becoming the team's single point of failure?\r\nWhat are some common leadership pitfalls you’ve encountered—or witnessed—during this transition?\r\nHow do you balance being hands-on with empowering others to take ownership and grow?\r\nWhat practices have helped you shape and maintain a strong engineering culture within your mobile team?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "01:45 PM",
+  "startsAt": "2025-09-24T13:45:00",
+  "endsAT": "2025-09-24T14:25:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

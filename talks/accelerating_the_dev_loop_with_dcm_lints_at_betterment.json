@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Casey Rogers",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Accelerating the Dev Loop with DCM Lints at Betterment",
+  "videoUrl": "",
+  "description": "In this talk, see how Betterment is leveraging DCM with a few case studies and find out how your team can also accelerate dev time with robust linting.\r\n\r\nBetterment uses DCM's built in lints and custom DCM lints to move bugs into loop #2. As a result we:\r\n- Ship faster\r\n- Ship higher quality\r\n- Have to rely less on tests and manual QA\r\n\r\nErrors can be caught at many different layers in the development loop (not necessarily exhaustive):\r\n1. IDE auto-complete\r\n2. IDE surfaced static errors and lint warnings\r\n3. Runtime errors in sandbox/staging\r\n4. Tests\r\n5. Code review\r\n6. QA\r\n7. Production crash logs\r\n8. User feedback/reviews\r\n\r\nThe further into the loop an error gets, the more developer time is wasted and the slower your feature velocity will be. Errors that get to the end of the loop become user facing and directly impact business outcomes.\r\n\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "11:25 AM",
+  "startsAt": "2025-09-26T11:25:00",
+  "endsAT": "2025-09-26T12:05:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

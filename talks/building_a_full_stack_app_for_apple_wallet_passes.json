@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Marcos Sevilla",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Building a Full-Stack App for Apple Wallet Passes",
+  "videoUrl": "",
+  "description": "This presentation will detail the process of building an API with Dart Frog to generate Apple Passes, and integrating it with a Flutter application designed to use these passes. \r\n\r\nThe goal is to demonstrate a complete pass generation workflow using only Dart, highlighting the benefits of code sharing between the backend and frontend. Furthermore, we will explore the specifics of native iOS integration for seamless interaction with Apple's PassKit framework.\r\n\r\nKey Takeaways\r\n- How Dart Frog simplifies the creation of a simple pass signing server for Apple Wallet\r\n- Why method channels are key to interact with platform functionality\r\n- Time-saving solutions with Dart for a full-stack codebase",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "10:30 AM",
+  "startsAt": "2025-09-26T10:30:00",
+  "endsAT": "2025-09-26T11:10:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "Application Architecture / Navigation",
+    "Package & Plugin Development",
+    "Dart on the server"
+  ]
+}

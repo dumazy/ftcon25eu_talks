@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Óscar Martín",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Beyond the widgets: Evaluating Flutter apps with code assessments",
+  "videoUrl": "",
+  "description": "In this talk, we’ll explore how to effectively analyze a Flutter codebase during a code assessment. We'll focus on how to ensure robust, scalable practices that support the long-term success of your team. By highlighting patterns and anti-patterns, you'll learn how certain decisions can either empower your team to move faster and safer or slow things down.\r\n\r\nThis talk is ideal for Flutter beginners looking to build a solid foundation, as well as experienced developers aiming to improve their existing codebases.\r\n\r\nKey Takeaways:\r\n- Being able to identify a healthy Flutter project.\r\n- Understand what good architecture and practices look like in practice.\r\n- Get a practical framework for evaluating Flutter codebases with actionable recommendations.\r\n- Build confidence when reviewing or inheriting existing Flutter apps\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "01:15 PM",
+  "startsAt": "2025-09-26T13:15:00",
+  "endsAT": "2025-09-26T13:55:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Architecture",
+    "Dependency Injection",
+    "Modularization"
+  ]
+}

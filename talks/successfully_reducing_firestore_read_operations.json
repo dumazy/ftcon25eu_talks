@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Nino Handler",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Successfully reducing Firestore read operations",
+  "videoUrl": "",
+  "description": "Here's a classic startup / side project scenario: You quickly write your Flutter app and start with a Firestore database. You probably also use Firebase Cloud Functions as serverless backend.\r\nBy time, your projects gets bigger and the user base starts to grow, quickly followed by your Google Cloud bill. As soon as the free quotas are gone, the battle against high read operations - which are the main cause for high bills - beginns.\r\n\r\nThis session demonstrates \r\n1. How to first identify the source of Google Cloud costs in your billing section including the right tooling to keep an eye on your cloud behaviour.\r\n2. How to reduce read operation by design in the first place for Firestore\r\n3. How to track down the source for your high read operations in your Flutter Client / Firebase Cloud Functions to be able to solve the problem.\r\n\r\nThe talk will showcase some Flutter and Cloud Functions code and compare different architectural approaches as well as simple ways to read data and showcase best practices.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "02:45 PM",
+  "startsAt": "2025-09-26T14:45:00",
+  "endsAT": "2025-09-26T15:25:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

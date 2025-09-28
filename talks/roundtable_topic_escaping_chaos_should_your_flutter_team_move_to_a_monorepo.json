@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Marcin Chudy",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Roundtable Topic: Escaping Chaos: Should Your Flutter Team Move to a Monorepo?",
+  "videoUrl": "",
+  "description": "Managing a growing Flutter codebase across many repositories can quickly become a nightmare—slowed CI, broken branches, painful merges. But does switching to a monorepo solve more problems than it creates?\r\n\r\nThis roundtable dives into the real-world trade-offs of monorepos vs. polyrepos in large Flutter projects. Let's discuss how teams are structuring codebases in 2025, how Dart Workspaces help organize shared packages, and what strategies make monorepo migrations successful without halting business-critical development.\r\n\r\nWhether you're deep in a polyrepo setup or just starting to plan for scale, this session is a space to share your challenges, approaches, and lessons learned.\r\n\r\nAre you currently using a monorepo, polyrepo, or hybrid approach for your Flutter projects—and why?\r\nWhat has been your biggest pain point in managing multiple Dart/Flutter packages across teams or repositories?\r\nIf you've migrated to a monorepo, what challenges did you face during the transition, and what benefits have you seen?\r\nHow are you using Dart Workspaces (or not), and what tools or practices help you scale development efficiently?\r\nWhat advice would you give to a team considering a monorepo but unsure about the risks or return on investment?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "11:25 AM",
+  "startsAt": "2025-09-26T11:25:00",
+  "endsAT": "2025-09-26T12:05:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "Architecture",
+    "Modularization"
+  ]
+}

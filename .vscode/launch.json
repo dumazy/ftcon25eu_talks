@@ -5,10 +5,17 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Dart & Flutter",
+            "name": "Generate Markdowns",
             "request": "launch",
-            "format": "dart",
+            "type": "dart",
             "program": ".automation/generate_markdowns.dart"
+        },
+        {
+            "name": "Scrape Data",
+            "request": "launch",
+            "type": "dart",
+            "cwd": "${workspaceFolder}/scraper",
+            "program": "bin/scraper.dart"
         }
     ]
 }

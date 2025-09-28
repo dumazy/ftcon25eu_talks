@@ -1,0 +1,37 @@
+{
+  "speakers": [
+    {
+      "name": "Ilya Savin",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Maia Grotepass",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Rolling Out AI at Scale in Mobile Engineering Teams",
+  "videoUrl": "",
+  "description": "Everyone’s talking about AI. But how do you actually introduce it into a large mobile engineering team without derailing delivery, bloating workflows, or creating tool fatigue?\r\n\r\nThis roundtable brings together Android and Flutter tech leads, managers, and senior developers to swap lessons on rolling out AI in real-world dev environments. Inspired by a case study from Qonto’s 60+ Android team, we’ll dive into what it takes to move past the hype and make AI adoption stick—across CI, test generation, reviews, UI scaffolding, and more.\r\n\r\nWe’ll talk practical rollout strategies, developer resistance, failed experiments, and measurable wins. Whether you're early in your AI journey or managing adoption at scale, this is your chance to learn what’s working (and what isn’t) from peers doing the same.\r\n\r\nHow are you currently introducing AI tools to your dev team—top-down, bottom-up, or somewhere in between?\r\nWhat mobile-specific use cases (e.g. test generation, Compose/UI code, linting, PR reviews) have actually shown value with AI?\r\nWhat friction have you encountered from engineers? How are you driving engagement without mandating adoption?\r\nHow are you measuring success—developer happiness, time saved, code quality, or something else?\r\nWhat AI experiments failed for you—and what did you learn from them?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "12:00 PM",
+  "startsAt": "2025-09-25T12:00:00",
+  "endsAT": "2025-09-25T12:40:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": []
+}

@@ -1,0 +1,32 @@
+{
+  "speakers": [
+    {
+      "name": "Jen Merritt",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Why \"Where\" Matters: Exploring the Power of Location-Aware Apps",
+  "videoUrl": "",
+  "description": "In an increasingly connected world, users expect apps to understand where they are and adapt to their context in real time. One of the great benefits of building a mobile application is the ability to take advantage of native device capabilities, such as GPS and location permissions. By harnessing these in our apps we can provide that more contextualised experience to our users. \r\n\r\nThe question of \"Where am I?\" might be as simple as displaying a blue dot on a map. Or it might mean \"What is nearby?\". And then what happens when we move? This talk explores this concept of \"Where\", and why it matters to build apps that are location-aware. We'll be using Flutter and the ArcGIS Maps package to demo how to build apps that respond dynamically to a users position in real time, and provide more relevant and personalised experiences. You'll also learn how to create a reactive UI that updates when users enter/exit spatial zones, as well as some of the challenges and best practices when working with location data.\r\n\r\nIf you're exploring spatially-aware app development for the first time, or looking to take your existing apps to the next level, this session is for you.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "02:45 PM",
+  "startsAt": "2025-09-26T14:45:00",
+  "endsAT": "2025-09-26T15:25:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Flutter Multiplatform",
+    "Flutter Widgets & Layouts",
+    "Third Party Libraries",
+    "Native Platform Integration"
+  ]
+}

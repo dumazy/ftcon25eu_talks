@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Eric Seidel",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "The Future is Written in Dart",
+  "videoUrl": "",
+  "description": "Flutter has entered its second decade -- one in which we are all now building for a world very different than when the project began.  Eric Seidel, former director of Flutter & Dart, and founder of Shorebird, will reflect some on the changing developer landscape, on Flutter & Dart's growing global momentum, Flutter's expanding role in enterprise and the increasing velocity of community-driven development around Dart.  We'll walk through the many exciting things we've seen come out of the Flutter & Dart community this year and what we're betting on for the next few years.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "09:20 AM",
+  "startsAt": "2025-09-25T09:20:00",
+  "endsAT": "2025-09-25T10:10:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "Flutter Multiplatform"
+  ]
+}

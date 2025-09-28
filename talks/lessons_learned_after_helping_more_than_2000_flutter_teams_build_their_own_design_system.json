@@ -1,0 +1,32 @@
+{
+  "speakers": [
+    {
+      "name": "Lucas Josefiak",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Lessons learned after helping more than 2000 Flutter teams build their own design system",
+  "videoUrl": "",
+  "description": "In this talk, I’ll share the key lessons learned after supporting over 2000 Flutter teams in building their own design systems using Widgetbook. You’ll discover practical insights into what makes design systems succeed or fail in real-world teams – from establishing ownership and ensuring designer-developer alignment, to leveraging live previews, documentation, and scalable workflows. Whether your team is starting out or refining an existing system, these lessons will help you avoid common pitfalls and build a design system that actually drives consistency, speed, and product quality.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "04:20 PM",
+  "startsAt": "2025-09-24T16:20:00",
+  "endsAT": "2025-09-24T17:00:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Testing",
+    "Flutter Widgets & Layouts",
+    "Third Party Libraries",
+    "Open Source Contributions"
+  ]
+}

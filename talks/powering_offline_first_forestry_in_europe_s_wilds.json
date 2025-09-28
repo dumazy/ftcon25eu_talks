@@ -1,0 +1,33 @@
+{
+  "speakers": [
+    {
+      "name": "Alexander Thiele",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Powering offline-first forestry in Europe's wilds",
+  "videoUrl": "",
+  "description": "Working in remote locations often means that internet access is limited or interrupted. This talk will look at the technical challenges and solutions for building a robust and efficient synchronization engine written in Flutter for Android, iOS and Web. The presentation will demonstrate how an intelligent synchronization mechanism, working on both the front-end and back-end, can efficiently manage data transfer. We will discuss strategies to ensure that only changed data is synchronized when the connection is restored to minimize bandwidth consumption and optimize performance. Join us to discover how a well-designed sync engine can provide field teams in even the most remote locations with reliable access to critical information, driving the success of complex projects in challenging environments.\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "02:45 PM",
+  "startsAt": "2025-09-25T14:45:00",
+  "endsAT": "2025-09-25T15:25:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Flutter Multiplatform",
+    "Networking (GraphQL, APIs, etc.)",
+    "Architecture",
+    "Performance Optimization",
+    "Enterprise/Tech Leadership"
+  ]
+}

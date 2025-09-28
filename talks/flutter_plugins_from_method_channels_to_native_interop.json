@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Dominik Roszkowski",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Flutter Plugins - From Method Channels to Native Interop",
+  "videoUrl": "",
+  "description": "In this session, we’ll explore practical tips and some good practices for developing Flutter plugins in 2025. How to simplify the process with type-safe APIs via jnigen and ffigen?  How to debug your native code easily?  What about swiftgen?\r\nWe'll see how to combine more legacy approaches like method channels with soon-to-be-stable Flutter native interop.\r\nWe’ll also demonstrate a real-world example by building a PDF viewer plugin and binding of the Google Play library with jnigen.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "10:25 AM",
+  "startsAt": "2025-09-24T10:25:00",
+  "endsAT": "2025-09-24T11:05:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "Flutter Multiplatform",
+    "Package & Plugin Development",
+    "Native Platform Integration"
+  ]
+}

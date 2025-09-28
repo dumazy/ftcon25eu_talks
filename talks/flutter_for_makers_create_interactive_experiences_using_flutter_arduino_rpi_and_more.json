@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Matthew Jones",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More!",
+  "videoUrl": "",
+  "description": "Unleash your inner maker. In this session learn to push Flutter far beyond the usual boundaries. Discover ways to connect Flutter to the world of DIY electronics, prototyping, 3D printing, and more!\r\n\r\nTopics covered include serial communication, running Flutter on a Raspberry Pi, basic Arduino programming, and interacting with electronic devices using GPIO. \r\n\r\nSeasoned engineers and new developers alike will benefit from practical demos and real-life tips to spark ideas. Don’t miss this unexpected mashup of hardware and software design. ",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "12:00 PM",
+  "startsAt": "2025-09-25T12:00:00",
+  "endsAT": "2025-09-25T12:40:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Flutter Multiplatform"
+  ]
+}

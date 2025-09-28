@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Xavier F. Gouchet",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Joining at Staff+: Thriving in a Senior Role Without a Map",
+  "videoUrl": "",
+  "description": "This roundtable explores the unique challenge of joining a new team or company as a Staff or Principal Engineer—where you're expected to lead, but the structure, ownership, and legacy might already be deeply entrenched. Unlike earlier roles, Staff+ success often means defining your own lane, identifying unclaimed problems, and building influence without authority.\r\n\r\nWe’ll share experiences and strategies for navigating ambiguity, earning trust, and making impact when you’re not handed a clear backlog. Whether you’re in a Staff+ role now, managing Staff engineers, or aspiring to grow into one, this conversation will offer real-world insight into leading without a script.\r\n\r\nWhat helped you (or someone you mentored) find traction when joining a new org as a Staff+ engineer?\r\nHow do you balance observing vs. acting when you’re new and expected to lead?\r\nWhat are red flags or common traps for Staff+ engineers onboarding into legacy-heavy systems?\r\nHow do you identify “high-leverage” problems or unclaimed ownership areas in a complex codebase or org?\r\nHow can engineering managers or directors better support Staff engineers during their first 90–180 days?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "01:50 PM",
+  "startsAt": "2025-09-25T13:50:00",
+  "endsAT": "2025-09-25T14:30:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": []
+}

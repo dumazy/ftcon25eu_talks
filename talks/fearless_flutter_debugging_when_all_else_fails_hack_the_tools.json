@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Mateusz Wojtczak",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Fearless Flutter Debugging: When All Else Fails, Hack the Tools!",
+  "videoUrl": "",
+  "description": "Hitting a wall with a persistent Flutter bug? Suspect the tooling might be involved? Don't despair! \r\n\r\nThis talk introduces a radical approach for the truly tough cases: directly modifying the flutter_tools on your computer. We'll demystify the process, showing you exactly where these tools live and how you can safely add your own diagnostic code, such as print statements, to trace execution flow. \r\n\r\nSee quick, real-world examples from our LeanCode experience where this technique pinpointed the root cause of baffling errors related to builds, plugins, or platform interactions. \r\n\r\nThis session isn't just about fixing bugs; it's about empowering you with the confidence and knowledge to investigate Flutter at its deepest level when necessary – even in a flash!",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "11:20 AM",
+  "startsAt": "2025-09-24T11:20:00",
+  "endsAT": "2025-09-24T11:40:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "DevTools & Debugging",
+    "Package & Plugin Development"
+  ]
+}

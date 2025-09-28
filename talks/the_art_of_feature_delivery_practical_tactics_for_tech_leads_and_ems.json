@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Zoe Farooq",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "The Art of Feature Delivery: Practical Tactics for Tech Leads and EMs",
+  "videoUrl": "",
+  "description": "Owning and delivering a feature might seem like a standard responsibility for senior engineers and tech leads—but doing it exceptionally well is rarer than you'd think. This roundtable brings together seasoned leaders from Android and Flutter teams to discuss the often-overlooked mistakes that can derail feature development, even for experienced ICs and EMs. From poor documentation and unclear communication to lack of collaboration and hidden decision-making, we'll explore what not to do—and how to do better. Together, we’ll share stories, surface patterns, and identify habits that lead to smoother execution, stronger team dynamics, and better outcomes.\r\n\r\nWhat’s one misstep you've seen (or made) when leading a feature that created avoidable friction or confusion?\r\n\r\nHow do you balance speed with documenting decisions and trade-offs—especially when timelines are tight?\r\n\r\nHave you ever seen (or experienced) communication breakdowns because too much happened in DMs or side chats? How do you promote visibility without slowing down progress?\r\n\r\nHow do you encourage engineers to challenge each other’s solutions without creating tension or hierarchy in the team?\r\n\r\nWhat strategies have worked for you to keep large features on track without micromanaging every detail?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "03:45 PM",
+  "startsAt": "2025-09-25T15:45:00",
+  "endsAT": "2025-09-25T16:25:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": []
+}

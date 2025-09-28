@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Daria Orlova",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "To SQL or NoSQL? Firebase is the Answer",
+  "videoUrl": "",
+  "description": "Firebase has been around for many years with its well-known NoSQL databases, Firestore and Realtime Database. But until 2024, SQL wasn’t part of the picture. That changed with the introduction of Firebase DataConnect, a new SQL-based database solution. Now, you don’t have to cross Firebase off your list just because you need a relational database.\r\n\r\nIn my Bunny Search app, NoSQL wasn’t a fit, so I chose DataConnect. In this talk, I’ll walk you through what Firebase DataConnect is and how to use it. I’ll share when it’s a good idea, when you should consider other options, and what it’s like to adopt a brand-new product. From initial excitement to moments of frustration (we even considered pulling it from production), I’ll share the full story of how we made it work.\r\n\r\nBy the end of the talk, you’ll have a clear answer to whether Firebase is the solution to your SQL vs NoSQL dilemma.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "02:40 PM",
+  "startsAt": "2025-09-24T14:40:00",
+  "endsAT": "2025-09-24T15:20:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Firebase & Flutter"
+  ]
+}

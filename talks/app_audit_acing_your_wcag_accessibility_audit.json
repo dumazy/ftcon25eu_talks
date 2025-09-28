@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Enzo Conty",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "App Audit — Acing Your WCAG Accessibility Audit",
+  "videoUrl": "",
+  "description": "Accessibility isn’t just a checkbox—it’s about making your Flutter app usable for everyone. WCAG (Web Content Accessibility Guidelines) provide the global standard, but applying them in practice—especially in a Flutter UI—can raise tough questions.\r\n\r\nIn this office hours session, you’ll sit down with accessibility experts for a hands-on mini-audit of your app. You’ll get real feedback on how screen readers, keyboard navigation, and semantics are handled in your code (and more...)—and leave with specific tips to improve compliance and usability.\r\n\r\nWhether you're early in the design phase or preparing for a formal audit, this is your chance to ask questions, get guidance, and uncover accessibility issues that might be holding your app back.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "10:30 AM",
+  "startsAt": "2025-09-26T10:30:00",
+  "endsAT": "2025-09-26T11:10:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "Accessibiliity"
+  ]
+}

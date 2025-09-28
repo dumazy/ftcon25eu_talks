@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Omkar Pimple",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Faster, Smarter Releases: Using AI to Accelerate Mobile Deployments in Flutter",
+  "videoUrl": "",
+  "description": "Shipping a mobile app should be fast—but too often, release cycles are slowed by manual testing, last-minute bugs, and coordination overhead. The challenge: how do you move faster without compromising quality?\r\n\r\nIn this roundtable, we’ll discuss how AI tools are reshaping the way Flutter teams approach testing, QA, and release management. From automated test generation and release readiness checks to smarter CI/CD workflows, we’ll explore what’s possible—and what’s still risky—with AI-enhanced pipelines.\r\n\r\nWhether you're releasing weekly or monthly, this is a space to share strategies for moving faster with more confidence.\r\n\r\nWhat’s your current release cadence—and what are the biggest blockers to speeding it up?\r\n\r\nHave you experimented with AI tools for automated testing, bug detection, or release validation? What worked well (or didn’t)?\r\n\r\nWhat metrics do you track to understand the health and speed of your release pipeline?\r\n\r\nHow do you build trust in AI-assisted testing or QA workflows, especially for critical features or high-risk deployments?\r\n\r\nWhere do you draw the line between automation and manual oversight in your release process?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "12:00 PM",
+  "startsAt": "2025-09-25T12:00:00",
+  "endsAT": "2025-09-25T12:40:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Testing",
+    "DevTools & Debugging",
+    "AI/ML Integration"
+  ]
+}

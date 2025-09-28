@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Omkar Pimple",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Faster, Smarter Releases: Accelerating Mobile App Deployments",
+  "videoUrl": "",
+  "description": "Shipping a mobile app should be fast and reliable—but engineering leaders know how often release cycles are slowed by manual QA, late-stage bugs, and coordination overhead. The challenge: how can teams move faster without compromising product quality or team sanity?\r\n\r\nThis roundtable is designed for engineering managers, tech leads, and mobile platform owners looking to optimize their release pipelines using AI. We’ll explore how AI is reshaping the mobile development lifecycle—from intelligent test generation and automated bug detection to smarter CI/CD workflows and release readiness checks.\r\n\r\nWhether your team ships weekly or quarterly, this is a space to share practical strategies for improving velocity, reducing risk, and scaling release processes with more confidence.\r\n\r\nDiscussion topics may include:\r\n\r\nWhat’s your current release cadence—and what are the biggest friction points?\r\n\r\nHow are you leveraging AI tools for testing, validation, or monitoring today? What’s worked, and what hasn’t?\r\n\r\nWhat metrics help you understand release performance and process health?\r\n\r\nHow do you foster trust in AI-assisted QA, especially for mission-critical features?\r\n\r\nWhere should you automate—and where is human oversight still essential?\r\n\r\nJoin peers to exchange insights, ask tough questions, and walk away with ideas you can take back to your team.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "04:20 PM",
+  "startsAt": "2025-09-24T16:20:00",
+  "endsAT": "2025-09-24T17:00:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": []
+}

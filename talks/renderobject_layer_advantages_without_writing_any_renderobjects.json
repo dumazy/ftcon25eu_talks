@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Albert Wolszon",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "RenderObject layer advantages without writing any RenderObjects",
+  "videoUrl": "",
+  "description": "Every more advanced Flutter developer has heard of RenderBoxes, their layer, and their advantages over containing themselves just in the Widgets world. But in reality, a small number of developers have ever written one, they’re usually intimidated by the amount of boilerplate to write, and the methods to override, most with some scary-looking name. In this talk, I’ll introduce the audience to the boxy package and its CustomBoxy and BoxyDelegate classes that make taking advantage of the render object layer a very low-hanging fruit that is easy to understand, with almost no boilerplate and some advanced features if you feel like it. I’ll start by quickly reminding you how rendering widgets in Flutter works, when we need to step up the game from just the widgets layer, and what Flutter framework gives us (5 approaches of the varying magnitude of complexity) for render object layer development. Then I’ll dive in the BoxyDelegate world solving a few real-life production UI problems and I’ll talk about the pros and cons of BoxyDelegate and how I use it on a daily basis. Spoiler alert: BoxyDelegate is a wrapper on RenderObject API making it 3x more convenient to use.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "11:25 AM",
+  "startsAt": "2025-09-26T11:25:00",
+  "endsAT": "2025-09-26T12:05:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

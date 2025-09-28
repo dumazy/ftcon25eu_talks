@@ -1,0 +1,33 @@
+{
+  "speakers": [
+    {
+      "name": "Bettina Carrizo",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Why Your Context Doesn’t Work (And How to Fix It)",
+  "videoUrl": "",
+  "description": "Understanding BuildContext is key to mastering Flutter, and yet it’s one of the most common sources of confusion, especially when your app crashes at runtime with unexpected ancestor errors or broken navigation.\r\n\r\nIn this talk, I'll guide you towards building a clear mental model of how BuildContext works under the hood, then dive you into hands-on examples showing when and why things break, and how to fix them.\r\n\r\nWe’ll cover:\r\n- What BuildContext actually represents in the widget tree\r\n- How scope affects access to Provider, Theme, and Navigator\r\n- Common pitfalls with async code, modals, and rebuilds\r\n- Real-world patterns using Builder, mounted, and context-safe navigation\r\n\r\nExpect live coding, diagrams, and debugging tips that make the behavior of BuildContext finally click.  You'll leave ready to use it the right way, and stop guessing when things don’t work as expected.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "10:25 AM",
+  "startsAt": "2025-09-24T10:25:00",
+  "endsAT": "2025-09-24T11:05:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Architecture",
+    "Flutter Widgets & Layouts",
+    "DevTools & Debugging",
+    "Performance Optimization",
+    "Modularization"
+  ]
+}

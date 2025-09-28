@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Mangirdas Kazlauskas",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "From fear to air: embracing over-the-air app updates",
+  "videoUrl": "",
+  "description": "Repeat after me: app updates are stressful. Dealing with app store reviews and worrying about disrupting users can make anyone hesitant to release new features. But what if there was a better way? Over-the-air (OTA) updates let you deliver changes directly to your users, super fast and without any fuss. In this talk, we’ll explore various OTA update techniques, from simple tools to advanced methods like code push for instant fixes, feature flags for controlled rollouts and A/B testing, server-driven UI for dynamic content, and even generative AI for personalized experiences. By the end of this talk, you’ll be ready to embrace OTA updates, ship features faster, keep users happy, and turn app updates into an exciting opportunity for continuous improvement.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "11:55 AM",
+  "startsAt": "2025-09-24T11:55:00",
+  "endsAT": "2025-09-24T12:35:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": []
+}

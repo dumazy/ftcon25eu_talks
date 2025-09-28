@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Ilya Savin",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Ship > Hype: Rolling Out AI at Scale to 60 Android Engineers",
+  "videoUrl": "",
+  "description": "Synopsis:\r\nHow we rolled out AI across a 60+ Android team at Qonto - strategy, hands-on experiments, what worked (and what didn’t), and how we made it part of our actual dev flow without slowing things down\r\n\r\nAbstract:\r\nThe trend, the industry, or maybe even your CTO - all saying “Use AI now.” Cool. But how do you actually make that work across a large Android team without messing with the dev experience?\r\nAt Qonto, I manage part of a 60-person Android org working in a large, modular codebase with tight delivery timelines. We knew AI had potential, but things only started to click once we made it part of our existing flow\r\nThis talk is about how we introduced AI into our Android work in a way that was practical, measurable, and actually helpful. No vendor pitches, no sci-fi promises - just things we tried, what worked, what didn’t, and what we’re doing next.\r\n\r\nYou’ll hear:\r\n- How we approached AI as a series of small experiments, not a top-down mandate\r\n- Android-specific use cases that showed real value (test generation, CI/CD, reviews, refactoring, screen generation in Compose, and more)\r\n- Tactics we used to get buy-in from engineers (and what they ignored)\r\n- Metrics we used to measure adoption and actual time savings\r\n- What we’d do differently if we started today\r\n\r\nWhether you’re just starting with AI or already deep in it, this talk shows how to make it work in a big Android team without slowing things down.\r\n\r\nTakeaways:\r\n- A rollout strategy for introducing AI to a large Android team without disruption\r\n- Real examples of where AI actually helped in Android workflows - and where it didn’t\r\n- How to drive adoption with engineers who are focused on delivery, not tooling\r\n- Lessons from experiments that failed, and why they failed\r\n- How to think about measurement beyond just “Did they use the tool?”",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "10:25 AM",
+  "startsAt": "2025-09-24T10:25:00",
+  "endsAT": "2025-09-24T11:05:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": []
+}

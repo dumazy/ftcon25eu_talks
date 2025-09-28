@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Ivanna Kaceviča",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Monetization Strategies for Flutter Apps: Beyond the Basics",
+  "videoUrl": "",
+  "description": "Building a great Flutter app is just the beginning—turning it into a sustainable business is the real challenge. In this roundtable, we’ll explore the wide range of monetization strategies available to Flutter developers, from subscriptions and in-app purchases to ads, one-time payments, and referral programs.\r\n\r\nWe’ll discuss what’s working in today’s app economy, how to select the right model based on your app’s value proposition and audience, and the technical and UX trade-offs involved. Whether you're just starting or refining an existing strategy, this session is your chance to exchange lessons learned, tools, and ideas with other developers and product thinkers. Join us as we crowd-source answers to these questions and more:\r\n\r\n>Which monetization models (subscriptions, one-time payments, ads, etc.) have you found most effective for Flutter apps, and why?\r\n\r\n>What role do referral programs or viral loops play in boosting both monetization and user acquisition?\r\n\r\n>How do you approach pricing strategy—especially when targeting a global user base with different expectations and purchasing power?\r\n\r\n>What tools or packages (e.g., RevenueCat, Firebase, AdMob) have you used to implement monetization in Flutter, and what are their pros and cons?\r\n\r\n>How do you ensure a good user experience while still encouraging conversions and purchases inside your app?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "01:45 PM",
+  "startsAt": "2025-09-24T13:45:00",
+  "endsAT": "2025-09-24T14:25:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

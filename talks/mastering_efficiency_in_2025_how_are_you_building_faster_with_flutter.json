@@ -1,0 +1,34 @@
+{
+  "speakers": [
+    {
+      "name": "Mateusz Wojtczak",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Mastering Efficiency in 2025: How Are You Building Faster with Flutter?",
+  "videoUrl": "",
+  "description": "In 2025, speed and scalability are top priorities for mobile teams—but how do you actually build faster without cutting corners?\r\n\r\nThis roundtable invites Flutter developers to exchange insights on practical strategies that reduce dev time while maintaining quality. We'll explore everything from component reuse and real-world-tested design systems to cross-platform deployment and AI-enhanced workflows. Let’s get the community together to crowd-source information on what tools, patterns, and philosophies are actually moving the needle in today's fast-paced development environment.\r\nWhether you're part of a team or a solo developer, come share what's working for you—and learn from others doing the same.\r\n\r\nWhat’s been the single biggest time-saver in your Flutter development process recently?\r\nHow do you approach component reuse—are you building your own library or leveraging community packages?\r\nHave you adopted a design system for your Flutter apps? If so, how has it impacted your development speed and UI consistency?\r\nHow mature do you feel Flutter Web is today, and when do you choose to target web along with mobile?\r\nWhat role is AI currently playing in your development process—and how do you balance its speed with quality and security?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "10:25 AM",
+  "startsAt": "2025-09-24T10:25:00",
+  "endsAT": "2025-09-24T11:05:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "Architecture",
+    "Modularization",
+    "Flutter Multiplatform (Mobile, Desktop, Web, Embedded)",
+    "Enterprise/Tech Leadership",
+    "Generative AI + Dart",
+    "Flutter & LLMs"
+  ]
+}

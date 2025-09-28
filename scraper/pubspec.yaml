@@ -1,0 +1,15 @@
+name: fluttercon_scraper
+description: A simple command-line application to scrape the FlutterCon agenda.
+version: 1.0.0
+# repository: https://github.com/my_org/my_repo
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  http: ^1.2.1
+  html: ^0.15.4
+  intl: ^0.20.2
+
+dev_dependencies:
+  lints: ^3.0.0

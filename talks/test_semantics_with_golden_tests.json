@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Sandra Lundh",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Test Semantics with Golden Tests",
+  "videoUrl": "",
+  "description": "While semantics aren't visible to the average user, they are essential for users relying on screen readers. So visualising their impact, like how semantics affect your UI, gives you indirect visibility into how accessible your app is.\r\n\r\nTypically, semantics are tested with unit or widget tests. But here's the thing: those tests can be time-consuming and I find myself parsing dense logs to understand what's going on. \r\n\r\nThe solution: Golden tests. \r\n\r\nIn my talk I'll showcase how you can use goldens tests to display the accessibility structure of widgets, which makes your tests instantly digestible, not only for you but also for your team.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "03:45 PM",
+  "startsAt": "2025-09-24T15:45:00",
+  "endsAT": "2025-09-24T16:05:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Accessibiliity",
+    "Testing"
+  ]
+}

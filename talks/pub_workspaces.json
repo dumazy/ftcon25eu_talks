@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Lukas Klingsbo 💙",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Pub Workspaces",
+  "videoUrl": "",
+  "description": "Pub Workspaces is a new exciting feature that is built-in to Dart to help you organize your monorepos.\r\n\r\nWith pub workspaces all of your packages in your monorepo are automatically interconnected without you having to care about path overrides or multiple heavy analyzer processes running in the background.\r\n\r\nIn this talk we'll go through how to set up your pub workspace and what the advantages and disadvantages are of using it. We will also talk about how the new version of Melos is utilizing pub workspaces and how you can migrate your previous monorepos to the new version.\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "11:55 AM",
+  "startsAt": "2025-09-24T11:55:00",
+  "endsAT": "2025-09-24T12:35:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

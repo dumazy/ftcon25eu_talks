@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Joonas Kerttula",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Adding Google Maps Turn-by-Turn Navigation to Your Flutter App",
+  "videoUrl": "",
+  "description": "Unlock real-time, turn-by-turn navigation in your Flutter apps by leveraging the power of the Google Maps Navigation SDK with the google_navigation_flutter package.\r\n\r\n- See where google_navigation_flutter fits and what types of navigation experiences it enables\r\n- Set up the package in your project\r\n- Start and control navigation sessions\r\n- Listen and react to navigation events\r\n- Customize the navigation UI\r\n- Integrate with Android Auto and CarPlay",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "10:30 AM",
+  "startsAt": "2025-09-25T10:30:00",
+  "endsAT": "2025-09-25T11:10:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Flutter Widgets & Layouts",
+    "Third Party Libraries"
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Kirill Bubochkin",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Connect: gRPC that \"works everywhere\"",
+  "videoUrl": "",
+  "description": "gRPC is a powerful and efficient technology, but it does not work reliably on the web platform without workarounds such as an Envoy proxy. Connect is a protocol and library that reimagines gRPC to work seamlessly across mobile, web, and server environments.\r\n\r\nIn this talk, I will introduce the Connect protocol and demonstrate how it enables Flutter and Dart applications to leverage modern, type-safe RPC across all platforms. I will include a live coding session showing how to build a Dart/Flutter client for a Connect-enabled backend, illustrating how this approach aligns with Dart’s \"run everywhere\" philosophy. You will leave with a practical understanding of how to adopt Connect to bring true cross-platform gRPC to your apps.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "04:40 PM",
+  "startsAt": "2025-09-25T16:40:00",
+  "endsAT": "2025-09-25T17:20:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "Third Party Libraries",
+    "Networking (REST, GraphQL, gRPC, WebSockets)"
+  ]
+}

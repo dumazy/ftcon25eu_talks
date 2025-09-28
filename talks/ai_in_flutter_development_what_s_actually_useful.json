@@ -1,0 +1,37 @@
+{
+  "speakers": [
+    {
+      "name": "Esra Kadah",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Ivanna Kaceviča",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "AI in Flutter Development: What’s Actually Useful?",
+  "videoUrl": "",
+  "description": "AI tools are flooding the developer space—but which ones are Flutter developers actually using to build better apps? And where’s the line between hype and real value?\r\n\r\nIn this roundtable, we’ll swap stories and strategies for using AI in real Flutter workflows. Whether you're experimenting with Gemini, Firebase Studio, Cursor, Claude, or other tools, come share what's working (or not), how you're integrating AI into your dev loop, and where you're drawing boundaries.\r\n\r\nWe'll compare notes on AI for code generation, debugging, design thinking, and beyond—with an honest look at where these tools help, slow you down, or change the way you think about building.\r\n\r\nWhich AI tools (e.g., Gemini, Firebase Studio, Cursor, Claude) have you found actually useful in day-to-day Flutter development—and why?\r\n\r\nHow do you integrate AI into your coding workflow without becoming overly reliant or sacrificing quality?\r\n\r\nHave you found AI helpful for tasks beyond coding—like architecture, UI/UX iteration, or documentation?\r\n\r\nWhat are your boundaries or rules for using AI tools in production code or client projects?\r\n\r\nHow do you stay current with new AI tools while avoiding productivity drains or \"tool fatigue\"?\r\n\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "02:40 PM",
+  "startsAt": "2025-09-24T14:40:00",
+  "endsAT": "2025-09-24T15:20:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

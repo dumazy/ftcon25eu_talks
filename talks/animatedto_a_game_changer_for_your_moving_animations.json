@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Tsuyoshi Chujo",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "AnimatedTo: A Game Changer for Your Moving Animations",
+  "videoUrl": "",
+  "description": "Have you realized we don’t have a “position” version of the implicitly animating widget, unlike AnimatedContainer or AnimatedOpacity? Now, I’m confident my animated_to package changes the game of the situation. \r\n\r\nAll you have to do is wrap whatever widget with AnimatedTo, and it lets your widgets move with animation when their position is updated for whatever reason, such as rebuilding, relayouting, or even hot reloading. We don’t need any parent Stack, or any layout calculation; again, just wrap with AnimatedTo.\r\n\r\nBut what makes this possible under the hood? In this session, we’ll dive into the mechanism of Flutter’s rendering pipeline from Widget to RenderObject to reveal how AnimatedTo achieves its functionality.\r\n\r\nThis talk will equip you not only with knowledge about one of the animation packages but also with a clear understanding of how you can manage “rendering” on the Flutter framework.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "01:45 PM",
+  "startsAt": "2025-09-24T13:45:00",
+  "endsAT": "2025-09-24T14:25:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Flutter Widgets & Layouts",
+    "Custom Painting / Render Objects / Rendering",
+    "Package & Plugin Development"
+  ]
+}

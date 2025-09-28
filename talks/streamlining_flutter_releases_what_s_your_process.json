@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Alba Torres Rodríguez",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Streamlining Flutter Releases: What’s Your Process?",
+  "videoUrl": "",
+  "description": "Manual releases are tedious, error-prone, and don’t scale. Whether you're a solo developer or working in a larger team, automating your release pipeline is essential—but there’s no one-size-fits-all approach.\r\n\r\nIn this roundtable, we’ll discuss modern strategies for release management in Flutter apps. We’ll cover tools like Fastlane, GitHub Actions, and others, and share real-world experiences about what works—and what breaks—when automating everything from versioning to app store delivery.\r\n\r\nThis is a space for technical deep dives, practical questions, and trading tips on how to ship with confidence.\r\n\r\nWhat parts of your Flutter release process are automated today—and what still needs manual work?\r\n\r\nWhat tools (e.g. Fastlane, GitHub Actions, Codemagic, Bitrise) have you tried, and what’s worked best for your workflow?\r\n\r\nHow do you manage sensitive tasks like code signing and API keys in CI/CD pipelines securely?\r\n\r\nWhat challenges have you faced with App Store / Play Store policies or review delays—and how do you adapt your release strategy accordingly?\r\n\r\nDo you follow a fixed release cadence or release on demand? What strategies help you stay consistent without blocking progress?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "02:45 PM",
+  "startsAt": "2025-09-25T14:45:00",
+  "endsAT": "2025-09-25T15:25:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": []
+}

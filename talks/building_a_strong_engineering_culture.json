@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Stelios Frantzeskakis",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Building a Strong Engineering Culture",
+  "videoUrl": "",
+  "description": "A strong engineering culture is crucial for mobile teams to scale efficiently, retain top talent, and drive innovation. This roundtable will explore strategies for fostering an adaptive, inclusive, and high-performing engineering culture across remote, hybrid, and in-person teams.\r\n> What are the most effective ways to document, spread, and reinforce engineering culture in mobile teams?\r\n> What common pitfalls can erode engineering culture, and how can leaders prevent them?\r\n> What metrics or signals indicate a thriving vs. struggling engineering culture?\r\n>What strategies to use for reducing knowledge silos\r\n>How to set stretch goals and maintain a healthy balance of context switching to keep the team members engaged and motivated?\r\n>Why is the skill/will matrix important when delegating tasks",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "02:40 PM",
+  "startsAt": "2025-09-24T14:40:00",
+  "endsAT": "2025-09-24T15:20:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

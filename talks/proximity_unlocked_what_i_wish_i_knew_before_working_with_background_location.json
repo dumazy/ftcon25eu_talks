@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Simon Eckerstorfer",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Proximity Unlocked: What I wish I knew before working with background location",
+  "videoUrl": "",
+  "description": "Getting accurate and efficient user location in the background is one of the trickiest challenges in mobile development.\r\nIn this lightning talk, I’ll share the things I wish I knew before going down this road —focusing on practical tools and concrete tips.\r\nYou will hear about plugin suggestions, database optimisations, location mocking, store compliance and some real life examples.\r\nIf you’re building a location-based app, this talk will save you time, headaches, and debugging sprints around the block.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "02:10 PM",
+  "startsAt": "2025-09-26T14:10:00",
+  "endsAT": "2025-09-26T14:30:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": []
+}

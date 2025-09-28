@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Ümit Duran",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Clean Code Push: Integrating Shorebird CodePush into Scalable Flutter Architectures",
+  "videoUrl": "",
+  "description": "Flutter’s newly released architectural guidelines give developers a great starting point for writing scalable and maintainable apps. But what happens when you want to add something like Shorebird CodePush? It’s powerful—allowing over-the-air updates—but can easily lead to tangled code if not handled carefully.\r\n\r\nIn this talk, we’ll walk through a real-world example of integrating Shorebird into a clean architecture without cutting corners. We’ll start by wrapping the Shorebird SDK inside a dedicated repository in the Data Layer so your business logic stays clean and testable. Then we’ll move into the Domain Layer, where we’ll define update rules and check logic that are fully independent of the SDK. Finally, we’ll focus on the Presentation Layer—where you’ll learn how to notify users about updates and restart the app smoothly without disrupting the user experience.\r\n\r\nYou’ll come away with practical tips on how to add features like CodePush without turning your app into a mess, and how to keep each layer of your app focused on what it does best. If you're working on a production Flutter app and want to ship faster without sacrificing long-term maintainability, this session is for you.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "02:40 PM",
+  "startsAt": "2025-09-24T14:40:00",
+  "endsAT": "2025-09-24T15:20:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Architecture",
+    "Third Party Libraries"
+  ]
+}

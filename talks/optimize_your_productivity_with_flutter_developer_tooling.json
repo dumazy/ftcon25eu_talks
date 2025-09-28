@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Elliott Brooks",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Optimize your productivity with Flutter developer tooling",
+  "videoUrl": "",
+  "description": "Flutter's developer tools are constantly evolving to help you become a more productive and effective engineer. But are you harnessing their full potential?\r\n\r\nThis talk will guide you through the Flutter developer tooling landscape. We'll start with a comprehensive overview of the available tools and how to access them directly from your preferred IDE. Then, we'll dive into new features that will supercharge your workflow, including the Flutter Property Editor and the redesigned Flutter Inspector.\r\n\r\nBeyond the built-in capabilities, you'll learn about Flutter developer tooling extensibility, empowering you to create tools tailored to your team's unique needs. And finally, you’ll get a preview of AI integrations the Flutter team is working on, such as the new Dart MCP server.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "02:10 PM",
+  "startsAt": "2025-09-26T14:10:00",
+  "endsAT": "2025-09-26T14:30:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "DevTools & Debugging"
+  ]
+}

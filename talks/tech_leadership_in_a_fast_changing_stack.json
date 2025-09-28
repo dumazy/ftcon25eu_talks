@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Shree Bhagwat",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Tech Leadership in a Fast-Changing Stack",
+  "videoUrl": "",
+  "description": "Mobile tech leaders today are under constant pressure to keep up—new frameworks, tools, architectures, and AI features land weekly. But every decision to adopt “what’s next” comes with a cost: onboarding time, risk of churn, and tech debt if it doesn’t pan out.\r\n\r\nThis roundtable brings together Flutter and Android leads to talk candidly about how we navigate that tension: how to stay modern without chasing every hype cycle, and how to choose technologies that make our teams faster, not just flashier.\r\n\r\nWe’ll share hard-earned lessons from bets that paid off—and ones we regretted—and compare frameworks for evaluating and socializing new tech decisions across mobile teams. If you’re trying to help your team move fast without breaking itself, this is your conversation.\r\n\r\nWhat’s a trend your team adopted too early—and what did you learn from it?\r\nHow do you evaluate whether a new tool or framework is worth bringing into production?\r\nWhat’s your approach to balancing innovation with stability in a high-pressure delivery environment?\r\nHave you created any internal guidelines or “tech radars” to help your team navigate fast-moving trends?\r\nHow do you foster experimentation without overwhelming your team or fragmenting your stack?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "04:40 PM",
+  "startsAt": "2025-09-25T16:40:00",
+  "endsAT": "2025-09-25T17:20:00",
+  "room": "techlead summit",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": []
+}

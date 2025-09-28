@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Michael Lazebny",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Performant Scrolling Layouts With Slivers",
+  "videoUrl": "",
+  "description": "In this talk, I will cover the essential concepts of scrolling layouts in Flutter.\r\n\r\nYou'll learn how slivers work and how to build them effectively. I'll give a brief overview of Flutter's rendering process, explain the differences between Box and Sliver layouts, and share best practices for creating performant layouts.\r\n\r\nThe session will also include live coding and practical examples to address common layout issues.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "03:45 PM",
+  "startsAt": "2025-09-25T15:45:00",
+  "endsAT": "2025-09-25T16:25:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Flutter Widgets & Layouts"
+  ]
+}

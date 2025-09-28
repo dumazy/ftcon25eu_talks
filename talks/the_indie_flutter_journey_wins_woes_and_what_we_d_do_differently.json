@@ -1,0 +1,43 @@
+{
+  "speakers": [
+    {
+      "name": "Daria Orlova",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Cagatay Ulusoy",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "The Indie Flutter Journey: Wins, Woes, and What We’d Do Differently",
+  "videoUrl": "",
+  "description": "Going solo as a Flutter developer can be empowering—but also overwhelming. From coding and design to backend and store compliance, indie developers wear every hat, and the road to launching even one app can be full of surprises.\r\n\r\nIn this roundtable, we’ll share real experiences and lessons learned from building and releasing Flutter apps solo. Whether you’ve published apps or are still deep in development, this is a space to trade tools, mistakes, growth tips, and inspiration.\r\n\r\nWe’ll talk about publishing pitfalls, managing everything without a team, using AI as your co-pilot, and staying motivated when things get hard.\r\n\r\nWhat’s been your biggest challenge (or surprise) as a solo Flutter developer trying to ship an app?\r\nWhat do you wish you knew before publishing your first app to the Play Store or App Store?\r\nHow do you handle tasks like backend, analytics, or monetization when you're working solo?\r\nWhich AI tools or automations have saved you the most time or stress as an indie dev?\r\nWhat strategies or routines help you stay motivated, focused, and avoid burnout as a one-person dev team?",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "03:45 PM",
+  "startsAt": "2025-09-25T15:45:00",
+  "endsAT": "2025-09-25T16:25:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "Security",
+    "Firebase & Flutter",
+    "AI/ML Integration",
+    "Generative AI + Dart",
+    "Flutter & LLMs"
+  ]
+}

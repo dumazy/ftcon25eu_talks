@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Majid Hajian",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Let’s Talk About Memory Leaks In Dart And Flutter",
+  "videoUrl": "",
+  "description": "Memory leaks can be annoying as they are hard to spot and recreate compared to syntax errors or logic bugs usually appearing in the development phase. Memory leaks in Flutter applications are getting even more complex with the addition of layers of widgets and controllers combined with listeners over time, which may result in performance issues or unexpected crashes for users after prolonged use.\r\nIn this talk, I will explore Dart and Flutter memory leaks and memory bloating, how they occur, their importance in coding practices, solutions to debug memory leaks and identify them, such as DevTools and Leak Tracker, and shifting left by relying on static analyzer tools and how they can prevent such leaks from sneaking into your code base.\r\nThis talk includes many examples from real applications I have worked on in the last few years. ",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "01:45 PM",
+  "startsAt": "2025-09-24T13:45:00",
+  "endsAT": "2025-09-24T14:25:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "Performance Optimization"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Maher Jaafar",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "This App is Built Different: Advanced Memory Management in Flutter",
+  "videoUrl": "",
+  "description": "Your Flutter app might be fast… until it’s not. Ever noticed lag, crashes, or rising RAM usage? That’s a memory management problem and it’s hurting your performance.\r\n\r\nIn this no-fluff advanced session, we’re diving deep into heap allocation, garbage collection, memory leaks, and isolates plus live debugging with Flutter DevTools to catch real leaks.\r\n\r\nWhat you’ll learn:\r\n✅ Fix memory leaks & unnecessary widget rebuilds\r\n✅ Use isolates to run heavy tasks without freezing the UI\r\n✅ Debug memory bloat like a pro with Flutter DevTools\r\n\r\nIf you’re an experienced Flutter dev, this talk is packed with real-world performance hacks you don’t want to miss.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "02:10 PM",
+  "startsAt": "2025-09-26T14:10:00",
+  "endsAT": "2025-09-26T14:30:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "State Management"
+  ]
+}

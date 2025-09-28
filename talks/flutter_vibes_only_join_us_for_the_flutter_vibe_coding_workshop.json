@@ -1,0 +1,40 @@
+{
+  "speakers": [
+    {
+      "name": "Ivanna Kaceviča",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Esra Kadah",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Flutter Vibes Only: Join Us for the Flutter Vibe-Coding Workshop",
+  "videoUrl": "",
+  "description": "What is the state of vibe-coding with Flutter in late 2025?\r\n\r\nLet’s find out together in this 80-minute speed hackathon, organized by two Flutteristas and active contributors in the Flutter x AI space—Ivanna and Esra!\r\n\r\nFor anyone curious about how AI can transform their Flutter workflow (welcoming both vibe-coding veterans and total first-timers), this is a playful, high-energy session focused on experimentation, collaboration, and pushing your limits. During the session, you’ll race against the clock to build a specific target app using AI prompts to generate your code. Whether you're just starting out or already experimenting with AI, you'll leave with real hands-on experience.\r\n\r\nIs Flutter already \"there\" when it comes to vibe-coding possibilities? Bring your laptop, your curiosity, and your best vibes, and let’s find out.\r\n\r\nKey takeaways:\r\n\r\n- Learn how to prototype Flutter apps rapidly using AI prompts\r\n- Get inspired by real-time collaboration and peer feedback\r\n- Rethink your Flutter workflow—code without actually coding\r\n- Understand the current limitations of LLMs when coding in Dart",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "03:45 PM",
+  "startsAt": "2025-09-25T15:45:00",
+  "endsAT": "2025-09-25T17:20:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Introductory and overview",
+  "topics": [
+    "Generative AI + Dart",
+    "Flutter & LLMs"
+  ]
+}

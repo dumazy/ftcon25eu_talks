@@ -1,0 +1,27 @@
+{
+  "speakers": [
+    {
+      "name": "Marcin Wróblewski",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "I’m the entry point now",
+  "videoUrl": "",
+  "description": "A guide to future-proofing your Flutter app architecture, allowing it to launch directly into relevant screens and bypass predefined navigation paths. Discover how to make your authentication and app setup processes seamless for the user, delivering experiences previously exclusive to native applications. Enable your iOS Flutter app to contribute to system search results, be automatable with Shortcuts, and be called automatically via Siri or Apple Intelligence, making it the dream solution for every user.\r\n\r\nKey takeaways:\r\n- Understanding of a future-proof, modular architectural patterns for Flutter applications\r\n- Ability to integrate Siri, Apple Intelligence, Spotlight, etc. into a Flutter iOS application with the \"intelligence\" package\r\n- Deepened understanding of Flutter's Navigator for more robust navigation handling",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "11:25 AM",
+  "startsAt": "2025-09-25T11:25:00",
+  "endsAT": "2025-09-25T11:45:00",
+  "room": "Dash’s Domain",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": []
+}

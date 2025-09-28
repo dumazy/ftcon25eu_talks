@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Hossein Yousefi",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Who is a Native Bindings Author and why you should be one",
+  "videoUrl": "",
+  "description": "The traditional Flutter plugin model, with its unified APIs, is powerful for creating consistent cross-platform experiences. However, this approach can present challenges. The process often involves manually implementing method channels, which can be time-consuming and prone to runtime errors. Furthermore, keeping unified abstractions in sync across multiple platforms is complex work, and sometimes we need access to a new feature faster than a manual process allows.\r\n\r\nThis talk introduces a complementary paradigm: the Native Bindings Author. We'll explore a world where focused, single-platform packages (built with powerful and type-safe code generation tools like FFIgen and JNIgen) can accelerate development and unlock new possibilities.\r\n\r\nIn this session, you will discover:\r\n\r\n- A more direct workflow to create and publish packages by focusing on one platform at a time.\r\n\r\n- How to leverage transformation visitor APIs to shape auto-generated bindings into a truly \"Dart-y\" and composable API.\r\n\r\n- The vision for a new ecosystem on pub.dev where packages work together seamlessly, with zero serialization overhead.\r\n\r\n- How plugin authors can leverage these bindings to build unified APIs more quickly, while still providing native \"escape hatches\" for maximum flexibility.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "01:45 PM",
+  "startsAt": "2025-09-24T13:45:00",
+  "endsAT": "2025-09-24T14:25:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Native Platform Integration"
+  ]
+}

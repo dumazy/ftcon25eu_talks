@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Daco Harkes",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Unlocking Native Power: Deep Dive into Dart Build Hooks",
+  "videoUrl": "",
+  "description": "Managing native dependencies and assets can be complex, often requiring manual steps and intricate build configurations. Enter Dart Build Hooks – a powerful, extensible system designed to automate and streamline native asset integration.\r\n\r\nIn this session, we'll dive deep into Dart Build Hooks, a feature currently in preview in the Dart and Flutter SDK.\r\n\r\n* You'll learn how to seamlessly incorporate native code and assets into your Dart packages so that they work on a variety of SDKs and frameworks.\r\n* We'll explore the \"Why\": insights into the core design principles of Dart Build Hooks, including the clear separation of responsibilities between the hooks system, asset types, and the SDKs built on Dart.\r\n* You'll discover how it works under the hood: how build hooks work internally, from their extensible JSON protocol to advanced features such as custom asset types.\r\n\r\nWhether you're a package author looking to simplify native asset inclusion or an SDK or framework owner aiming to support SDK-agnostic assets in packages, this talk will equip you with the knowledge to harness the full power of Dart Build Hooks.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "02:40 PM",
+  "startsAt": "2025-09-24T14:40:00",
+  "endsAT": "2025-09-24T15:20:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Native Platform Integration",
+    "Dart FFI"
+  ]
+}

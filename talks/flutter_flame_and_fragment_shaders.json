@@ -1,0 +1,30 @@
+{
+  "speakers": [
+    {
+      "name": "Renan Araujo",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Flutter, Flame, and Fragment Shaders",
+  "videoUrl": "",
+  "description": "Let's explore how the Shader Pipeline API on Flame transforms the visual appeal of Flutter games. Techniques such as glass and watermorphism, fog, and light reflection, along with post-processing, will be discussed. Through entertaining and clever examples, we’ll unlock shaders for games!",
+  "resources": [],
+  "recommendations": [],
+  "day": "Wednesday",
+  "time": "10:25 AM",
+  "startsAt": "2025-09-24T10:25:00",
+  "endsAT": "2025-09-24T11:05:00",
+  "room": "Pub.dev Plaza",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Custom Painting / Render Objects / Rendering",
+    "Game Development"
+  ]
+}

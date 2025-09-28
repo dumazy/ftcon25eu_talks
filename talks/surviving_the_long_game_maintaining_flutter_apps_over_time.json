@@ -1,0 +1,41 @@
+{
+  "speakers": [
+    {
+      "name": "Dominik Roszkowski",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Simon Lightfoot",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Surviving the Long Game: Maintaining Flutter Apps Over Time",
+  "videoUrl": "",
+  "description": "Building a Flutter app is one thing—keeping it alive, stable, and evolving over multiple years is another. From growing feature sets and refactors to shifting priorities and tech debt, long-lived apps come with a unique set of challenges.\r\n\r\nIn this roundtable, we’ll discuss what it really takes to maintain a healthy Flutter app over time. Bring your war stories, lessons learned, and open questions—whether you’ve just launched or are years into development, this is a space to exchange practical strategies for sustainable mobile development.\r\n\r\nWhat’s the biggest long-term maintenance headache you’ve faced in a Flutter app—and how did you deal with it?\r\n\r\nHow do you balance rapid product iteration with long-term code quality and architectural health?\r\n\r\nHave you found effective ways to refactor incrementally without breaking everything—or do you sometimes just rewrite?\r\n\r\nWhat strategies help you manage dependencies and third-party libraries that don’t age well?\r\n\r\nHow do you ensure the user experience (and store rating) remains stable while making major internal changes behind the scenes?\r\n\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "01:15 PM",
+  "startsAt": "2025-09-26T13:15:00",
+  "endsAT": "2025-09-26T13:55:00",
+  "room": "Flutter Forum ",
+  "format": "Session",
+  "level": "Advanced",
+  "topics": [
+    "Flutter Multiplatform",
+    "Architecture",
+    "Enterprise/Tech Leadership"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "speakers": [
+    {
+      "name": "Renuka Kelkar",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Nested Navigation in flutter web",
+  "videoUrl": "",
+  "description": "In Flutter web, developing Nested navigation is always a critical topic. \r\nEvery project has different needs, Some project needs Bottom navigation some need Sidebar navigation, and some need some sidebar with nested navigation. Too many combinations and complications!!  it’s a hard decision to decide on an approach similar to the packages. Which package should we use and why? In this talk, I am sharing my story about Go Router. How Shell route is a change maker and solved many problems. Let’s learn more about the Shell route. and its different use cases. Make Flutter web navigation simple and easy.\r\n",
+  "resources": [],
+  "recommendations": [],
+  "day": "Friday",
+  "time": "10:30 AM",
+  "startsAt": "2025-09-26T10:30:00",
+  "endsAT": "2025-09-26T11:10:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Flutter Multiplatform (Mobile, Desktop, Web, Embedded)"
+  ]
+}

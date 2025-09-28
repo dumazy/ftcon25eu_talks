@@ -1,0 +1,31 @@
+{
+  "speakers": [
+    {
+      "name": "Jhin Lee",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "Quick Start MCP with Dart: Building LLM Context Servers Now",
+  "videoUrl": "",
+  "description": "The Model Context Protocol (MCP) is revolutionizing how applications interact with Large Language Models (LLMs) by providing a standardized way to exchange contextual information. This talk will begin with a brief overview of MCP and its diverse use cases with LLMs. The core focus, however, will be a practical demonstration of building a robust MCP server using Dart. We'll explore the key components, implementation strategies, and best practices for leveraging Dart's capabilities to create efficient and scalable MCP servers for LLM applications. Whether you're a Dart enthusiast or an LLM practitioner, this session will equip you with the knowledge to integrate MCP into your projects.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "12:00 PM",
+  "startsAt": "2025-09-25T12:00:00",
+  "endsAT": "2025-09-25T12:40:00",
+  "room": "Dart Den",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "AI/ML Integration",
+    "Generative AI + Dart",
+    "Flutter & LLMs"
+  ]
+}

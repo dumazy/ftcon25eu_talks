@@ -1,0 +1,41 @@
+{
+  "speakers": [
+    {
+      "name": "Tim Lehmann",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    },
+    {
+      "name": "Jesper Bellenbaum",
+      "bio": "About",
+      "companyName": "",
+      "companyUrl": "",
+      "githubUrlOrHandle": "",
+      "xUrlOrHandle": "",
+      "linkedinUrlOrHandle": "",
+      "webUrl": ""
+    }
+  ],
+  "title": "It's Not Just Liquid Glass: Building Physics-Driven Flutter Apps That Feel Real",
+  "videoUrl": "",
+  "description": "With recent announcements from Apple, the rise of spatial computing, and expressive Material 3 design guidelines, UI trends are rapidly moving toward interfaces that feel alive and tangible. In a competitive landscape where capturing users' attention hinges on delightfully detailed interactions, this session explores how Flutter can be leveraged today and adapted for the future to deliver best-in-class, physically-responsive user experiences.\r\n\r\n- Understand why physics-based motion can create more engaging interfaces\r\n\r\n- Learn to identify opportunities in your apps for natural, responsive interactions.\r\n\r\n- Implement practical techniques using Flutter's animation and physics systems to create interfaces that feel alive and responsive.\r\n\r\n- Understand where Flutter excels at physical interactions and where the framework has room to grow.",
+  "resources": [],
+  "recommendations": [],
+  "day": "Thursday",
+  "time": "03:45 PM",
+  "startsAt": "2025-09-25T15:45:00",
+  "endsAT": "2025-09-25T16:25:00",
+  "room": "Widget Way",
+  "format": "Session",
+  "level": "Intermediate",
+  "topics": [
+    "Animations",
+    "Custom Painting / Render Objects / Rendering",
+    "Motion Design"
+  ]
+}
