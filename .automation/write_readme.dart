@@ -53,7 +53,7 @@ void writeReadme(List<Talk> talks) async {
   readmeContent.writeln('## Credits\n');
 
   readmeContent.writeln(
-    'This repo has been forked from [Andrea Bizzotto\'s FlutterCon 2024 repo](https://github.com/bizz84/ftcon24eu_talks).\n',
+    'This repo has been forked from [Andrea Bizzotto\'s FlutterCon 2024 repo](https://github.com/bizz84/ftcon24eu_talks). I just vibe-coded a scraper to populate the JSON files.\n',
   );
 
   readmeContent.writeln(
