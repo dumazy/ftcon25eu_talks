@@ -9,12 +9,7 @@ void writeLevels(List<Talk> talks) async {
   levelsContent.writeln('# Levels\n\n');
 
   // Define the levels
-  const levels = [
-    "Introductory and overview",
-    "Intermediate",
-    "Advanced",
-    "Expert"
-  ];
+  const levels = ["Introductory and overview", "Intermediate", "Advanced"];
 
   for (var level in levels) {
     // Add subheadline for each level
