@@ -50,7 +50,7 @@
 | **04:40 PM**<br>*Thursday* | Connect: gRPC that "works everywhere" | [Kirill Bubochkin](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kirill-bubochkin) |  |
 | **10:30 AM**<br>*Friday* | Nested Navigation in flutter web | [Renuka Kelkar](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renuka-kelkar) |  |
 | **11:25 AM**<br>*Friday* | RenderObject layer advantages without writing any RenderObjects | [Albert Wolszon](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#albert-wolszon) |  |
-| **01:15 PM**<br>*Friday* | Add-to-web: Reusing Flutter via multi-view embedding | [Fré Dumazy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#fré-dumazy) |  |
+| **01:15 PM**<br>*Friday* | Add-to-web: Reusing Flutter via multi-view embedding | [Fré Dumazy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#fré-dumazy) | [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0LguEu5TDrLOAJEdHUyKRyrY), [Code sample](https://github.com/skystoneapps/multi-view-talk) |
 | **02:10 PM**<br>*Friday* | Proximity Unlocked: What I wish I knew before working with background location | [Simon Eckerstorfer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-eckerstorfer) |  |
 | **02:45 PM**<br>*Friday* | Successfully reducing Firestore read operations | [Nino Handler](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#nino-handler) |  |
 

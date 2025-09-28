@@ -118,7 +118,7 @@ Speakers: [list](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md
 | Flutter-Powered Robot Butler: Building a Talking, Thinking IoT Device with Embedded AI | Alex Bordei | Friday | 01:15 PM |  |
 | Flutter Performance: No Silver Bullet, Only Smart Engineering | Mikhail Zotyev | Friday | 01:15 PM |  |
 | Beyond the widgets: Evaluating Flutter apps with code assessments | Óscar Martín | Friday | 01:15 PM |  |
-| Add-to-web: Reusing Flutter via multi-view embedding | Fré Dumazy | Friday | 01:15 PM |  |
+| Add-to-web: Reusing Flutter via multi-view embedding | [Fré Dumazy](https://x.com/FresidentDumazy) | Friday | 01:15 PM | [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0LguEu5TDrLOAJEdHUyKRyrY), [Code sample](https://github.com/skystoneapps/multi-view-talk) |
 | Proximity Unlocked: What I wish I knew before working with background location | Simon Eckerstorfer | Friday | 02:10 PM |  |
 | Optimize your productivity with Flutter developer tooling | Elliott Brooks | Friday | 02:10 PM |  |
 | Live-Coding With Simon (Part II) | Simon Lightfoot, Kevin Moore | Friday | 02:10 PM |  |

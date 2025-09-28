@@ -190,10 +190,14 @@
 
 
 ## Fré Dumazy
+@ [Skystone Apps]()
 
+[X](https://x.com/FresidentDumazy) | [LinkedIn](https://www.linkedin.com/in/dumazy/)
 
 
 **Add-to-web: Reusing Flutter via multi-view embedding**
+
+Resources: [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0LguEu5TDrLOAJEdHUyKRyrY), [Code sample](https://github.com/skystoneapps/multi-view-talk)
 
 
 ## Gary Mclellan
