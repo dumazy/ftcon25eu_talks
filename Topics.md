@@ -40,7 +40,7 @@
 
 | Title | Speakers | Resources |
 | ----- | -------- | --------- |
-| Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) | [Slides](https://github.com/renancaraujo/liftoff) |
+| Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) | [Demo](https://github.com/renancaraujo/liftoff) |
 ## Package & Plugin Development
 
 | Title | Speakers | Resources |

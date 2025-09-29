@@ -27,7 +27,7 @@ Speakers: [list](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md
 | Welcome Address | Greg Fawson, Majid Hajian, Simon Lightfoot | Wednesday | 09:00 AM |  |
 | [Let's go far with Flutter](https://youtu.be/lgG3O_sScqU) | Kevin Moore | Wednesday | 09:20 AM |  |
 | Ship > Hype: Rolling Out AI at Scale to 60 Android Engineers | Ilya Savin | Wednesday | 10:25 AM |  |
-| Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://x.com/reNotANumber) | Wednesday | 10:25 AM | [Slides](https://github.com/renancaraujo/liftoff) |
+| Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://x.com/reNotANumber) | Wednesday | 10:25 AM | [Demo](https://github.com/renancaraujo/liftoff) |
 | The IDE Flutter Deserves | Michael McRoskey | Wednesday | 10:25 AM |  |
 | Flutter Plugins - From Method Channels to Native Interop | Dominik Roszkowski | Wednesday | 10:25 AM |  |
 | Mastering Efficiency in 2025: How Are You Building Faster with Flutter? | Mateusz Wojtczak | Wednesday | 10:25 AM |  |

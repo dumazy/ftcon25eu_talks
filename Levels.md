@@ -52,7 +52,7 @@
 | Flutter Performance: No Silver Bullet, Only Smart Engineering | [Mikhail Zotyev](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mikhail-zotyev) |  |
 | Flutter Widgets Probably Haven’t Heard Of | [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian) |  |
 | Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | [Matthew Jones](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#matthew-jones) |  |
-| Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) | [Slides](https://github.com/renancaraujo/liftoff) |
+| Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) | [Demo](https://github.com/renancaraujo/liftoff) |
 | From Flutter to Full-Stack: A Practical Guide to Full-stack Development | [Salih Guler](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#salih-guler) |  |
 | I don't have any technical debt | [Jason Toms](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jason-toms) |  |
 | It's Not Just Liquid Glass: Building Physics-Driven Flutter Apps That Feel Real | [Tim Lehmann](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#tim-lehmann), [Jesper Bellenbaum](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jesper-bellenbaum) |  |

@@ -496,7 +496,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0
 
 **Flutter, Flame, and Fragment Shaders**
 
-Resources: [Slides](https://github.com/renancaraujo/liftoff)
+Resources: [Demo](https://github.com/renancaraujo/liftoff)
 
 
 ## Renuka Kelkar

@@ -59,7 +59,7 @@
 
 | Time | Title | Speakers | Resources |
 | ---- | ----- | -------- | --------- |
-| **10:25 AM**<br>*Wednesday* | Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) | [Slides](https://github.com/renancaraujo/liftoff) |
+| **10:25 AM**<br>*Wednesday* | Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) | [Demo](https://github.com/renancaraujo/liftoff) |
 | **11:20 AM**<br>*Wednesday* | DIY In-App Locale Editor with slang | [Łukasz Wiśniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#łukasz-wiśniewski) |  |
 | **11:55 AM**<br>*Wednesday* | Pub Workspaces | [Lukas Klingsbo 💙](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lukas-klingsbo-💙) |  |
 | **01:45 PM**<br>*Wednesday* | Who is a Native Bindings Author and why you should be one | [Hossein Yousefi](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#hossein-yousefi) |  |
