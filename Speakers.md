@@ -412,10 +412,12 @@ Resources: [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0
 
 
 ## Matthew Jones
-
+[Web](https://www.makerinator.com/) | [GitHub](https://github.com/MatthewJones517) | [X](https://x.com/makerinator) | [LinkedIn](https://www.linkedin.com/in/matthew-jones-86607b19a/)
 
 
 **Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More!**
+
+Resources: [Talk Repo](https://github.com/MatthewJones517/flutter_for_makers), [Dash Crochet Pattern](https://github.com/MatthewJones517/dash_crochet_pattern)
 
 
 ## Michael Lazebny

@@ -493,6 +493,8 @@ In this talk, I’ll showcase underrated Flutter widgets that can simplify layou
 
 Speakers: [Matthew Jones](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#matthew-jones)
 
+Resources: [Talk Repo](https://github.com/MatthewJones517/flutter_for_makers), [Dash Crochet Pattern](https://github.com/MatthewJones517/dash_crochet_pattern)
+
 Unleash your inner maker. In this session learn to push Flutter far beyond the usual boundaries. Discover ways to connect Flutter to the world of DIY electronics, prototyping, 3D printing, and more!
 
 Topics covered include serial communication, running Flutter on a Raspberry Pi, basic Arduino programming, and interacting with electronic devices using GPIO. 

@@ -75,7 +75,7 @@ Speakers: [list](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md
 | Exploring Real-Time 3D in Flutter with Gaussian Splatting – An Early Field Report | Jesper Bellenbaum, Tim Lehmann | Thursday | 11:25 AM |  |
 | I’m the entry point now | Marcin Wróblewski | Thursday | 11:25 AM |  |
 | From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features | Mateusz Rus | Thursday | 12:00 PM |  |
-| Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | Matthew Jones | Thursday | 12:00 PM |  |
+| Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | [Matthew Jones](https://x.com/makerinator) | Thursday | 12:00 PM | [Talk Repo](https://github.com/MatthewJones517/flutter_for_makers), [Dash Crochet Pattern](https://github.com/MatthewJones517/dash_crochet_pattern) |
 | Simpler state management with Dart on the server and synced databases | Simon Binder | Thursday | 12:00 PM |  |
 | Faster, Smarter Releases: Using AI to Accelerate Mobile Deployments in Flutter | Omkar Pimple | Thursday | 12:00 PM |  |
 | Quick Start MCP with Dart: Building LLM Context Servers Now | Jhin Lee | Thursday | 12:00 PM |  |

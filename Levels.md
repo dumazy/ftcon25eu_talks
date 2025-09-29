@@ -51,7 +51,7 @@
 | [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
 | Flutter Performance: No Silver Bullet, Only Smart Engineering | [Mikhail Zotyev](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mikhail-zotyev) |  |
 | Flutter Widgets Probably Haven’t Heard Of | [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian) |  |
-| Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | [Matthew Jones](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#matthew-jones) |  |
+| Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | [Matthew Jones](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#matthew-jones) | [Talk Repo](https://github.com/MatthewJones517/flutter_for_makers), [Dash Crochet Pattern](https://github.com/MatthewJones517/dash_crochet_pattern) |
 | Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) | [Demo](https://github.com/renancaraujo/liftoff) |
 | From Flutter to Full-Stack: A Practical Guide to Full-stack Development | [Salih Guler](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#salih-guler) |  |
 | I don't have any technical debt | [Jason Toms](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jason-toms) |  |

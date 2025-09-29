@@ -36,7 +36,7 @@
 | Flutter Plugins - From Method Channels to Native Interop | [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski) |  |
 | Flutter Vibes Only: Join Us for the Flutter Vibe-Coding Workshop | [Ivanna Kaceviča](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ivanna-kaceviča), [Esra Kadah](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#esra-kadah) |  |
 | Flutter Widgets Probably Haven’t Heard Of | [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian) |  |
-| Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | [Matthew Jones](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#matthew-jones) |  |
+| Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | [Matthew Jones](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#matthew-jones) | [Talk Repo](https://github.com/MatthewJones517/flutter_for_makers), [Dash Crochet Pattern](https://github.com/MatthewJones517/dash_crochet_pattern) |
 | Flutter with WebRTC for real-time screen sharing | [Stanislav Sydorenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#stanislav-sydorenko) |  |
 | Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) | [Demo](https://github.com/renancaraujo/liftoff) |
 | Flutter-Powered Robot Butler: Building a Talking, Thinking IoT Device with Embedded AI | [Alex Bordei](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alex-bordei) |  |
