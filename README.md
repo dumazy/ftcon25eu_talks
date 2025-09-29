@@ -60,7 +60,7 @@ Speakers: [list](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md
 | [Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System](https://youtu.be/8wHduxySF-Q) | Piotr Rogulski | Wednesday | 03:45 PM |  |
 | Faster, Smarter Releases: Accelerating Mobile App Deployments | Omkar Pimple | Wednesday | 04:20 PM |  |
 | Rethinking Flutter Interviews in the AI Era | Vadym Pinchuk, Elaine Dias Batista | Wednesday | 04:20 PM |  |
-| Using Dart FFI for Compute-Heavy Tasks in Flutter Apps | Robert Odrowaz-Sypniewski | Wednesday | 04:20 PM |  |
+| [Using Dart FFI for Compute-Heavy Tasks in Flutter Apps](https://youtu.be/eJR5C0VRCjU) | Robert Odrowaz-Sypniewski | Wednesday | 04:20 PM |  |
 | Mastering CustomPainter: Going Beyond Widgets in Flutter | Sofia Rey | Wednesday | 04:20 PM |  |
 | Under the Hood of ScrollViews | Dominik Šimoník | Wednesday | 04:20 PM |  |
 | Lessons learned after helping more than 2000 Flutter teams build their own design system | Lucas Josefiak | Wednesday | 04:20 PM |  |

@@ -43,7 +43,7 @@
 | **04:20 PM**<br>*Dash’s Domain* | Lessons learned after helping more than 2000 Flutter teams build their own design system | [Lucas Josefiak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lucas-josefiak) |  |
 | **04:20 PM**<br>*techlead summit* | Faster, Smarter Releases: Accelerating Mobile App Deployments | [Omkar Pimple](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#omkar-pimple) |  |
 | **04:20 PM**<br>*Flutter Forum * | Rethinking Flutter Interviews in the AI Era | [Vadym Pinchuk](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#vadym-pinchuk), [Elaine Dias Batista](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#elaine-dias-batista) |  |
-| **04:20 PM**<br>*Widget Way* | Using Dart FFI for Compute-Heavy Tasks in Flutter Apps | [Robert Odrowaz-Sypniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski) |  |
+| **04:20 PM**<br>*Widget Way* | [Using Dart FFI for Compute-Heavy Tasks in Flutter Apps](https://youtu.be/eJR5C0VRCjU) | [Robert Odrowaz-Sypniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski) |  |
 | **04:20 PM**<br>*Dart Den* | Under the Hood of ScrollViews | [Dominik Šimoník](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-šimoník) |  |
 
 

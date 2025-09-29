@@ -13,7 +13,7 @@
 | **01:45 PM**<br>*Wednesday* | No More Anxiety: How to Use iOS Extensions in Your Flutter App | [Lucas Goldner](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lucas-goldner) |  |
 | **02:40 PM**<br>*Wednesday* | [Unlocking Native Power: Deep Dive into Dart Build Hooks](https://youtu.be/lFbVi_IeGB8) | [Daco Harkes](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daco-harkes) |  |
 | **03:45 PM**<br>*Wednesday* | [Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System](https://youtu.be/8wHduxySF-Q) | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
-| **04:20 PM**<br>*Wednesday* | Using Dart FFI for Compute-Heavy Tasks in Flutter Apps | [Robert Odrowaz-Sypniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski) |  |
+| **04:20 PM**<br>*Wednesday* | [Using Dart FFI for Compute-Heavy Tasks in Flutter Apps](https://youtu.be/eJR5C0VRCjU) | [Robert Odrowaz-Sypniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski) |  |
 | **09:20 AM**<br>*Thursday* | [The Future is Written in Dart](https://youtu.be/aphP_Hc7KiI) | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
 | **10:30 AM**<br>*Thursday* | [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
 | **11:25 AM**<br>*Thursday* | Behind the @ – Dart Annotations in Depth | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |

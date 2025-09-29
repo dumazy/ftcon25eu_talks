@@ -80,7 +80,7 @@
 | To SQL or NoSQL? Firebase is the Answer | [Daria Orlova](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daria-orlova) |  |
 | Under the Hood of ScrollViews | [Dominik Šimoník](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-šimoník) |  |
 | [Unlocking Native Power: Deep Dive into Dart Build Hooks](https://youtu.be/lFbVi_IeGB8) | [Daco Harkes](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daco-harkes) |  |
-| Using Dart FFI for Compute-Heavy Tasks in Flutter Apps | [Robert Odrowaz-Sypniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski) |  |
+| [Using Dart FFI for Compute-Heavy Tasks in Flutter Apps](https://youtu.be/eJR5C0VRCjU) | [Robert Odrowaz-Sypniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski) |  |
 | Vibe Coding Full-Stack Dart – Build with Joy Beyond the UI | [Viktor Lidholt](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#viktor-lidholt) |  |
 | Who is a Native Bindings Author and why you should be one | [Hossein Yousefi](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#hossein-yousefi) |  |
 | Why "Where" Matters: Exploring the Power of Location-Aware Apps | [Jen Merritt](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jen-merritt) |  |

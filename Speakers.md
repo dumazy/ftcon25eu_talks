@@ -510,7 +510,7 @@ Resources: [Demo](https://github.com/renancaraujo/liftoff)
 
 
 
-**Using Dart FFI for Compute-Heavy Tasks in Flutter Apps**
+**[Using Dart FFI for Compute-Heavy Tasks in Flutter Apps](https://youtu.be/eJR5C0VRCjU)**
 
 
 ## Salih Guler
