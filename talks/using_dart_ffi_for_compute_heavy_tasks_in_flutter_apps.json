@@ -12,7 +12,7 @@
     }
   ],
   "title": "Using Dart FFI for Compute-Heavy Tasks in Flutter Apps",
-  "videoUrl": "",
+  "videoUrl": "https://youtu.be/eJR5C0VRCjU",
   "description": "Dart is a great programming language for most apps. It's modern, strongly-typed, null-safe, and memory-safe. However, it is not particularly fast compared to other compiled languages. The solution for Flutter apps that require better performance for compute-heavy tasks is Dart Foreign Function Interface (FFI).\r\n\r\nFFI allows functions written in different languages to be called from Dart code. This means that most of the app can be written in Dart, but specific compute-intensive tasks can be implemented in a lower-level language like C, which can be up to 5x faster.\r\n\r\nWe will cover the following topics:\r\n- What is Dart FFI?\r\n- What are the limitations of Dart FFI?\r\n- How to use Dart FFI in a Flutter app\r\n- What is the difference in performance between Dart and C in real-life examples?",
   "resources": [],
   "recommendations": [],
