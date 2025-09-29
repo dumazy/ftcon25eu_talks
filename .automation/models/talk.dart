@@ -34,42 +34,47 @@ class Talk {
   });
 
   factory Talk.fromJson(Map<String, dynamic> json) => Talk(
-        speakers: List<Speaker>.from(
-            json['speakers'].map((model) => Speaker.fromJson(model))),
-        title: json['title'],
-        description: json['description'],
-        resources: (json['resources'] as List<dynamic>?)
-            ?.map((r) => Hyperlink.fromJson(r))
-            .toList(),
-        recommendations: (json['recommendations'] as List<dynamic>?)
-            ?.map((r) => Recommendation.fromJson(r))
-            .toList(),
-        day: json['day'],
-        time: json['time'],
-        startsAt: json['startsAt'] != null
-            ? DateTime.parse(json['startsAt']).toLocal()
-            : DateTime.now(),
-        endsAt: json['endsAt'] != null
-            ? DateTime.parse(json['endsAt']).toLocal()
-            : DateTime.now(),
-        room: json['room'],
-        format: json['format'],
-        level: json['level'],
-        videoUrl: json['videoUrl'],
-        topics: List<String>.from(json['topics']),
-      );
+    speakers: List<Speaker>.from(
+      json['speakers'].map((model) => Speaker.fromJson(model)),
+    ),
+    title: json['title'],
+    description: json['description'],
+    resources: (json['resources'] as List<dynamic>?)
+        ?.map((r) => Hyperlink.fromJson(r))
+        .toList(),
+    recommendations: (json['recommendations'] as List<dynamic>?)
+        ?.map((r) => Recommendation.fromJson(r))
+        .toList(),
+    day: json['day'],
+    time: json['time'],
+    startsAt: json['startsAt'] != null
+        ? DateTime.parse(json['startsAt']).toLocal()
+        : DateTime.now(),
+    endsAt: json['endsAt'] != null
+        ? DateTime.parse(json['endsAt']).toLocal()
+        : DateTime.now(),
+    room: json['room'],
+    format: json['format'],
+    level: json['level'],
+    videoUrl: json['videoUrl'],
+    topics: List<String>.from(json['topics']),
+  );
+
+  String get linkedTitle {
+    if (videoUrl != null && videoUrl!.isNotEmpty) {
+      return '[${this.title}](${this.videoUrl})';
+    } else {
+      return this.title;
+    }
+  }
 
   String get tableRow {
-    final titleColumn = this.videoUrl?.isNotEmpty == true
-        ? '[${this.title}](${this.videoUrl})'
-        : this.title;
     final speakersColumn = this.speakers.map((s) => s.mdLink).join(', ');
-    final resourcesColumn = this
-        .resources
+    final resourcesColumn = this.resources
         ?.where((r) => r.label != 'Slides/Blog/...')
         .map((r) => '[${r.label}](${r.url})')
         .join(', ');
 
-    return '| $titleColumn | $speakersColumn | $resourcesColumn |';
+    return '| $linkedTitle | $speakersColumn | $resourcesColumn |';
   }
 }

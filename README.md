@@ -25,7 +25,7 @@ Speakers: [list](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md
 | Talk Title | Speakers  | Day       | Time     | Slides & Resources  |
 | ---------- | --------- | --------- | -------- | ------------------- |
 | Welcome Address | Greg Fawson, Majid Hajian, Simon Lightfoot | Wednesday | 09:00 AM |  |
-| Let's go far with Flutter | Kevin Moore | Wednesday | 09:20 AM |  |
+| [Let's go far with Flutter](https://youtu.be/lgG3O_sScqU) | Kevin Moore | Wednesday | 09:20 AM |  |
 | Ship > Hype: Rolling Out AI at Scale to 60 Android Engineers | Ilya Savin | Wednesday | 10:25 AM |  |
 | Flutter, Flame, and Fragment Shaders | Renan Araujo | Wednesday | 10:25 AM |  |
 | The IDE Flutter Deserves | Michael McRoskey | Wednesday | 10:25 AM |  |
@@ -53,19 +53,19 @@ Speakers: [list](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md
 | To SQL or NoSQL? Firebase is the Answer | Daria Orlova | Wednesday | 02:40 PM |  |
 | AI in Flutter Development: What’s Actually Useful? | Esra Kadah, Ivanna Kaceviča | Wednesday | 02:40 PM |  |
 | Taming Legacy: Refactoring Patterns for Large Flutter Codebases | Marcin Chudy | Wednesday | 02:40 PM |  |
-| Unlocking Native Power: Deep Dive into Dart Build Hooks | Daco Harkes | Wednesday | 02:40 PM |  |
+| [Unlocking Native Power: Deep Dive into Dart Build Hooks](https://youtu.be/lFbVi_IeGB8) | Daco Harkes | Wednesday | 02:40 PM |  |
 | Ensuring quality throughout the application lifecycle | Jonas Uekötter | Wednesday | 03:45 PM |  |
 | Flutter with WebRTC for real-time screen sharing | Stanislav Sydorenko | Wednesday | 03:45 PM |  |
 | Test Semantics with Golden Tests | Sandra Lundh | Wednesday | 03:45 PM |  |
-| Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System | Piotr Rogulski | Wednesday | 03:45 PM |  |
+| [Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System](https://youtu.be/8wHduxySF-Q) | Piotr Rogulski | Wednesday | 03:45 PM |  |
 | Faster, Smarter Releases: Accelerating Mobile App Deployments | Omkar Pimple | Wednesday | 04:20 PM |  |
 | Rethinking Flutter Interviews in the AI Era | Vadym Pinchuk, Elaine Dias Batista | Wednesday | 04:20 PM |  |
 | Using Dart FFI for Compute-Heavy Tasks in Flutter Apps | Robert Odrowaz-Sypniewski | Wednesday | 04:20 PM |  |
 | Mastering CustomPainter: Going Beyond Widgets in Flutter | Sofia Rey | Wednesday | 04:20 PM |  |
 | Under the Hood of ScrollViews | Dominik Šimoník | Wednesday | 04:20 PM |  |
 | Lessons learned after helping more than 2000 Flutter teams build their own design system | Lucas Josefiak | Wednesday | 04:20 PM |  |
-| The Future is Written in Dart | Eric Seidel | Thursday | 09:20 AM |  |
-| Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots | Pascal Welsch | Thursday | 10:30 AM |  |
+| [The Future is Written in Dart](https://youtu.be/aphP_Hc7KiI) | Eric Seidel | Thursday | 09:20 AM |  |
+| [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | Pascal Welsch | Thursday | 10:30 AM |  |
 | Polish Before Pitch: Making Your Flutter App Feel “Alive” Before Fundraising | Enzo Conty | Thursday | 10:30 AM |  |
 | No More ‘Someone Else’s Problem’: Tackling Tech Debt at Scale | Florian Mierzejewski | Thursday | 10:30 AM |  |
 | Crash-Proof Flutter: Building Apps That Refuse to Die | Pawan Kumar | Thursday | 10:30 AM |  |

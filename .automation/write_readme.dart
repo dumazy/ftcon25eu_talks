@@ -46,7 +46,7 @@ void writeReadme(List<Talk> talks) async {
 
   for (var talk in sortedTalks) {
     readmeContent.writeln(
-      '| ${talk.title} | ${talk.speakers.map((s) => s.xLink != null ? '[${s.name}](${s.xLink})' : s?.name)?.join(', ') ?? ''} | ${talk.day} | ${talk.time} | ${talk.resources?.where((r) => r.label != 'Slides/Blog/...').map((r) => '[${r.label}](${r.url})').join(', ')} |',
+      '| ${talk.linkedTitle} | ${talk.speakers.map((s) => s.xLink != null ? '[${s.name}](${s.xLink})' : s?.name)?.join(', ') ?? ''} | ${talk.day} | ${talk.time} | ${talk.resources?.where((r) => r.label != 'Slides/Blog/...').map((r) => '[${r.label}](${r.url})').join(', ')} |',
     );
   }
 
