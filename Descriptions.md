@@ -520,6 +520,8 @@ Whether you want to build a screen-sharing app, add live collaboration features,
 
 Speakers: [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo)
 
+Resources: [Slides](https://github.com/renancaraujo/liftoff)
+
 Let's explore how the Shader Pipeline API on Flame transforms the visual appeal of Flutter games. Techniques such as glass and watermorphism, fog, and light reflection, along with post-processing, will be discussed. Through entertaining and clever examples, we’ll unlock shaders for games!
 
 
