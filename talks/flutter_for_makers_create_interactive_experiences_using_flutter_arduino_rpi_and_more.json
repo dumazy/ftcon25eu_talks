@@ -5,16 +5,25 @@
       "bio": "About",
       "companyName": "",
       "companyUrl": "",
-      "githubUrlOrHandle": "",
-      "xUrlOrHandle": "",
-      "linkedinUrlOrHandle": "",
-      "webUrl": ""
+      "githubUrlOrHandle": "https://github.com/MatthewJones517",
+      "xUrlOrHandle": "https://x.com/makerinator",
+      "linkedinUrlOrHandle": "https://www.linkedin.com/in/matthew-jones-86607b19a/",
+      "webUrl": "https://www.makerinator.com/"
     }
   ],
   "title": "Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More!",
   "videoUrl": "",
   "description": "Unleash your inner maker. In this session learn to push Flutter far beyond the usual boundaries. Discover ways to connect Flutter to the world of DIY electronics, prototyping, 3D printing, and more!\r\n\r\nTopics covered include serial communication, running Flutter on a Raspberry Pi, basic Arduino programming, and interacting with electronic devices using GPIO. \r\n\r\nSeasoned engineers and new developers alike will benefit from practical demos and real-life tips to spark ideas. Don’t miss this unexpected mashup of hardware and software design. ",
-  "resources": [],
+  "resources": [
+    {
+      "label": "Talk Repo",
+      "url": "https://github.com/MatthewJones517/flutter_for_makers"
+    },
+    {
+      "label": "Dash Crochet Pattern",
+      "url": "https://github.com/MatthewJones517/dash_crochet_pattern"
+    }
+  ],
   "recommendations": [],
   "day": "Thursday",
   "time": "12:00 PM",
