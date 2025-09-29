@@ -6,7 +6,7 @@
       "companyName": "",
       "companyUrl": "",
       "githubUrlOrHandle": "",
-      "xUrlOrHandle": "",
+      "xUrlOrHandle": "https://x.com/reNotANumber",
       "linkedinUrlOrHandle": "",
       "webUrl": ""
     }
@@ -14,7 +14,12 @@
   "title": "Flutter, Flame, and Fragment Shaders",
   "videoUrl": "",
   "description": "Let's explore how the Shader Pipeline API on Flame transforms the visual appeal of Flutter games. Techniques such as glass and watermorphism, fog, and light reflection, along with post-processing, will be discussed. Through entertaining and clever examples, we’ll unlock shaders for games!",
-  "resources": [],
+  "resources": [
+    {
+      "label": "Slides",
+      "url": "https://github.com/renancaraujo/liftoff"
+    }
+  ],
   "recommendations": [],
   "day": "Wednesday",
   "time": "10:25 AM",
