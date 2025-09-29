@@ -31,7 +31,7 @@
 | Faster, Smarter Releases: Accelerating Mobile App Deployments | [Omkar Pimple](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#omkar-pimple) |  |
 | Faster, Smarter Releases: Using AI to Accelerate Mobile Deployments in Flutter | [Omkar Pimple](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#omkar-pimple) |  |
 | Fearless Flutter Debugging: When All Else Fails, Hack the Tools! | [Mateusz Wojtczak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-wojtczak) |  |
-| Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
+| [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
 | Flutter Performance: No Silver Bullet, Only Smart Engineering | [Mikhail Zotyev](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mikhail-zotyev) |  |
 | Flutter Plugins - From Method Channels to Native Interop | [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski) |  |
 | Flutter Vibes Only: Join Us for the Flutter Vibe-Coding Workshop | [Ivanna Kaceviča](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ivanna-kaceviča), [Esra Kadah](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#esra-kadah) |  |
@@ -52,9 +52,9 @@
 | Joining at Staff+: Thriving in a Senior Role Without a Map | [Xavier F. Gouchet](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#xavier-f.-gouchet) |  |
 | Kalender: A Calendar package in the spirit of Flutter | [Werner Scholtz](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#werner-scholtz) |  |
 | Lessons learned after helping more than 2000 Flutter teams build their own design system | [Lucas Josefiak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lucas-josefiak) |  |
-| Let's go far with Flutter | [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore) |  |
+| [Let's go far with Flutter](https://youtu.be/lgG3O_sScqU) | [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore) |  |
 | Let’s Talk About Memory Leaks In Dart And Flutter | [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian) |  |
-| Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
+| [Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System](https://youtu.be/8wHduxySF-Q) | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
 | Live-Coding Custom Widgets with Simon | [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot) |  |
 | Live-Coding With Simon (Part II) | [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot), [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore) |  |
 | Mastering CustomPainter: Going Beyond Widgets in Flutter | [Sofia Rey](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#sofia-rey) |  |
@@ -92,7 +92,7 @@
 | The Art of Feature Delivery: Practical Tactics for Tech Leads and EMs | [Zoe Farooq](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#zoe-farooq) |  |
 | The DX Factor: From Developer Experience to Business Value | [Alessandro Mautone](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alessandro-mautone) |  |
 | The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning | [Yugo Sugiyama](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#yugo-sugiyama) |  |
-| The Future is Written in Dart | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
+| [The Future is Written in Dart](https://youtu.be/aphP_Hc7KiI) | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
 | The IDE Flutter Deserves | [Michael McRoskey](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#michael-mcroskey) |  |
 | The Indie Flutter Journey: Wins, Woes, and What We’d Do Differently | [Daria Orlova](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daria-orlova), [Cagatay Ulusoy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#cagatay-ulusoy) |  |
 | The Unspoken Shift from Leading a Team to Leading Leaders | [Taso Dane](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#taso-dane) |  |
@@ -100,7 +100,7 @@
 | Time for Flutter on the Apple Watch | [Anton Borries](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anton-borries) |  |
 | To SQL or NoSQL? Firebase is the Answer | [Daria Orlova](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daria-orlova) |  |
 | Under the Hood of ScrollViews | [Dominik Šimoník](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-šimoník) |  |
-| Unlocking Native Power: Deep Dive into Dart Build Hooks | [Daco Harkes](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daco-harkes) |  |
+| [Unlocking Native Power: Deep Dive into Dart Build Hooks](https://youtu.be/lFbVi_IeGB8) | [Daco Harkes](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daco-harkes) |  |
 | Using Dart FFI for Compute-Heavy Tasks in Flutter Apps | [Robert Odrowaz-Sypniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski) |  |
 | Vibe Coding Full-Stack Dart – Build with Joy Beyond the UI | [Viktor Lidholt](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#viktor-lidholt) |  |
 | Welcome Address | [Greg Fawson](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#greg-fawson), [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian), [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot) |  |

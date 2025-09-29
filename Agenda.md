@@ -6,7 +6,7 @@
 | Time & Room | Title | Speakers | Resources |
 | ----------- | ----- | -------- | --------- |
 | **09:00 AM**<br>*Widget Way* | Welcome Address | [Greg Fawson](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#greg-fawson), [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian), [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot) |  |
-| **09:20 AM**<br>*Widget Way* | Let's go far with Flutter | [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore) |  |
+| **09:20 AM**<br>*Widget Way* | [Let's go far with Flutter](https://youtu.be/lgG3O_sScqU) | [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore) |  |
 | **10:25 AM**<br>*techlead summit* | Ship > Hype: Rolling Out AI at Scale to 60 Android Engineers | [Ilya Savin](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ilya-savin) |  |
 | **10:25 AM**<br>*Pub.dev Plaza* | Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) |  |
 | **10:25 AM**<br>*Flutter Forum * | Mastering Efficiency in 2025: How Are You Building Faster with Flutter? | [Mateusz Wojtczak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-wojtczak) |  |
@@ -33,11 +33,11 @@
 | **02:40 PM**<br>*Pub.dev Plaza* | Clean Code Push: Integrating Shorebird CodePush into Scalable Flutter Architectures | [Ümit Duran](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ümit-duran) |  |
 | **02:40 PM**<br>*Dash’s Domain* | Taming Legacy: Refactoring Patterns for Large Flutter Codebases | [Marcin Chudy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcin-chudy) |  |
 | **02:40 PM**<br>*Flutter Forum * | AI in Flutter Development: What’s Actually Useful? | [Esra Kadah](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#esra-kadah), [Ivanna Kaceviča](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ivanna-kaceviča) |  |
-| **02:40 PM**<br>*Widget Way* | Unlocking Native Power: Deep Dive into Dart Build Hooks | [Daco Harkes](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daco-harkes) |  |
+| **02:40 PM**<br>*Widget Way* | [Unlocking Native Power: Deep Dive into Dart Build Hooks](https://youtu.be/lFbVi_IeGB8) | [Daco Harkes](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daco-harkes) |  |
 | **02:40 PM**<br>*Dart Den* | To SQL or NoSQL? Firebase is the Answer | [Daria Orlova](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daria-orlova) |  |
 | **03:45 PM**<br>*Dash’s Domain* | Test Semantics with Golden Tests | [Sandra Lundh](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#sandra-lundh) |  |
 | **03:45 PM**<br>*Pub.dev Plaza* | Ensuring quality throughout the application lifecycle | [Jonas Uekötter](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jonas-uekötter) |  |
-| **03:45 PM**<br>*Widget Way* | Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
+| **03:45 PM**<br>*Widget Way* | [Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System](https://youtu.be/8wHduxySF-Q) | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
 | **03:45 PM**<br>*Dart Den* | Flutter with WebRTC for real-time screen sharing | [Stanislav Sydorenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#stanislav-sydorenko) |  |
 | **04:20 PM**<br>*Pub.dev Plaza* | Mastering CustomPainter: Going Beyond Widgets in Flutter | [Sofia Rey](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#sofia-rey) |  |
 | **04:20 PM**<br>*Dash’s Domain* | Lessons learned after helping more than 2000 Flutter teams build their own design system | [Lucas Josefiak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lucas-josefiak) |  |
@@ -51,11 +51,11 @@
 
 | Time & Room | Title | Speakers | Resources |
 | ----------- | ----- | -------- | --------- |
-| **09:20 AM**<br>*Widget Way* | The Future is Written in Dart | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
+| **09:20 AM**<br>*Widget Way* | [The Future is Written in Dart](https://youtu.be/aphP_Hc7KiI) | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
 | **10:30 AM**<br>*Flutter Forum * | Polish Before Pitch: Making Your Flutter App Feel “Alive” Before Fundraising | [Enzo Conty](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#enzo-conty) |  |
 | **10:30 AM**<br>*Pub.dev Plaza* | Crash-Proof Flutter: Building Apps That Refuse to Die | [Pawan Kumar](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pawan-kumar) |  |
 | **10:30 AM**<br>*techlead summit* | No More ‘Someone Else’s Problem’: Tackling Tech Debt at Scale | [Florian Mierzejewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#florian-mierzejewski) |  |
-| **10:30 AM**<br>*Widget Way* | Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
+| **10:30 AM**<br>*Widget Way* | [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
 | **10:30 AM**<br>*Dart Den* | Adding Google Maps Turn-by-Turn Navigation to Your Flutter App | [Joonas Kerttula](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#joonas-kerttula) |  |
 | **11:25 AM**<br>*Pub.dev Plaza* | Exploring Real-Time 3D in Flutter with Gaussian Splatting – An Early Field Report | [Jesper Bellenbaum](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jesper-bellenbaum), [Tim Lehmann](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#tim-lehmann) |  |
 | **11:25 AM**<br>*Dash’s Domain* | I’m the entry point now | [Marcin Wróblewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcin-wróblewski) |  |

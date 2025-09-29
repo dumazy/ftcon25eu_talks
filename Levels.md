@@ -14,14 +14,14 @@
 | How to design a Dart package with hooks | [Moritz Sümmermann](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#moritz-sümmermann) |  |
 | Jaspr - Dart, but for Websites | [Kilian Schulte](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kilian-schulte) |  |
 | Joining at Staff+: Thriving in a Senior Role Without a Map | [Xavier F. Gouchet](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#xavier-f.-gouchet) |  |
-| Let's go far with Flutter | [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore) |  |
+| [Let's go far with Flutter](https://youtu.be/lgG3O_sScqU) | [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore) |  |
 | Mastering Efficiency in 2025: How Are You Building Faster with Flutter? | [Mateusz Wojtczak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-wojtczak) |  |
 | Optimize your productivity with Flutter developer tooling | [Elliott Brooks](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#elliott-brooks) |  |
 | Rethinking Flutter Interviews in the AI Era | [Vadym Pinchuk](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#vadym-pinchuk), [Elaine Dias Batista](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#elaine-dias-batista) |  |
 | Streamlining Development with the Monorepo Ecosystem | [Adam Eba](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#adam-eba) |  |
 | The "fastest" application of Flutter of all time! | [David DeRemer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#david-deremer), [Kyle Crouse](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kyle-crouse) |  |
 | The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning | [Yugo Sugiyama](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#yugo-sugiyama) |  |
-| The Future is Written in Dart | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
+| [The Future is Written in Dart](https://youtu.be/aphP_Hc7KiI) | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
 | The IDE Flutter Deserves | [Michael McRoskey](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#michael-mcroskey) |  |
 | The Indie Flutter Journey: Wins, Woes, and What We’d Do Differently | [Daria Orlova](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daria-orlova), [Cagatay Ulusoy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#cagatay-ulusoy) |  |
 | Welcome Address | [Greg Fawson](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#greg-fawson), [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian), [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot) |  |
@@ -48,7 +48,7 @@
 | Design Systems in Practice: How Flutter Teams Save Time and Align with Design | [Anton Borries](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anton-borries), [Lucas Josefiak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lucas-josefiak) |  |
 | Faster, Smarter Releases: Using AI to Accelerate Mobile Deployments in Flutter | [Omkar Pimple](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#omkar-pimple) |  |
 | Fearless Flutter Debugging: When All Else Fails, Hack the Tools! | [Mateusz Wojtczak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-wojtczak) |  |
-| Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
+| [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
 | Flutter Performance: No Silver Bullet, Only Smart Engineering | [Mikhail Zotyev](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mikhail-zotyev) |  |
 | Flutter Widgets Probably Haven’t Heard Of | [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian) |  |
 | Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | [Matthew Jones](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#matthew-jones) |  |
@@ -79,7 +79,7 @@
 | The DX Factor: From Developer Experience to Business Value | [Alessandro Mautone](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alessandro-mautone) |  |
 | To SQL or NoSQL? Firebase is the Answer | [Daria Orlova](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daria-orlova) |  |
 | Under the Hood of ScrollViews | [Dominik Šimoník](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-šimoník) |  |
-| Unlocking Native Power: Deep Dive into Dart Build Hooks | [Daco Harkes](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daco-harkes) |  |
+| [Unlocking Native Power: Deep Dive into Dart Build Hooks](https://youtu.be/lFbVi_IeGB8) | [Daco Harkes](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daco-harkes) |  |
 | Using Dart FFI for Compute-Heavy Tasks in Flutter Apps | [Robert Odrowaz-Sypniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski) |  |
 | Vibe Coding Full-Stack Dart – Build with Joy Beyond the UI | [Viktor Lidholt](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#viktor-lidholt) |  |
 | Who is a Native Bindings Author and why you should be one | [Hossein Yousefi](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#hossein-yousefi) |  |
@@ -103,7 +103,7 @@
 | From fear to air: embracing over-the-air app updates | [Mangirdas Kazlauskas](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mangirdas-kazlauskas) |  |
 | I’m the entry point now | [Marcin Wróblewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcin-wróblewski) |  |
 | Let’s Talk About Memory Leaks In Dart And Flutter | [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian) |  |
-| Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
+| [Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System](https://youtu.be/8wHduxySF-Q) | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
 | Live-Coding Custom Widgets with Simon | [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot) |  |
 | Live-Coding With Simon (Part II) | [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot), [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore) |  |
 | Mastering CustomPainter: Going Beyond Widgets in Flutter | [Sofia Rey](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#sofia-rey) |  |

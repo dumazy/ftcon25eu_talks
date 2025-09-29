@@ -6,16 +6,16 @@
 | Time | Title | Speakers | Resources |
 | ---- | ----- | -------- | --------- |
 | **09:00 AM**<br>*Wednesday* | Welcome Address | [Greg Fawson](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#greg-fawson), [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian), [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot) |  |
-| **09:20 AM**<br>*Wednesday* | Let's go far with Flutter | [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore) |  |
+| **09:20 AM**<br>*Wednesday* | [Let's go far with Flutter](https://youtu.be/lgG3O_sScqU) | [Kevin Moore](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kevin-moore) |  |
 | **10:25 AM**<br>*Wednesday* | Flutter Plugins - From Method Channels to Native Interop | [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski) |  |
 | **11:20 AM**<br>*Wednesday* | Flutter Widgets Probably Haven’t Heard Of | [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian) |  |
 | **11:55 AM**<br>*Wednesday* | Automation for Enterprise-Scale Flutter Development | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |
 | **01:45 PM**<br>*Wednesday* | No More Anxiety: How to Use iOS Extensions in Your Flutter App | [Lucas Goldner](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lucas-goldner) |  |
-| **02:40 PM**<br>*Wednesday* | Unlocking Native Power: Deep Dive into Dart Build Hooks | [Daco Harkes](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daco-harkes) |  |
-| **03:45 PM**<br>*Wednesday* | Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
+| **02:40 PM**<br>*Wednesday* | [Unlocking Native Power: Deep Dive into Dart Build Hooks](https://youtu.be/lFbVi_IeGB8) | [Daco Harkes](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daco-harkes) |  |
+| **03:45 PM**<br>*Wednesday* | [Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System](https://youtu.be/8wHduxySF-Q) | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
 | **04:20 PM**<br>*Wednesday* | Using Dart FFI for Compute-Heavy Tasks in Flutter Apps | [Robert Odrowaz-Sypniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski) |  |
-| **09:20 AM**<br>*Thursday* | The Future is Written in Dart | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
-| **10:30 AM**<br>*Thursday* | Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
+| **09:20 AM**<br>*Thursday* | [The Future is Written in Dart](https://youtu.be/aphP_Hc7KiI) | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
+| **10:30 AM**<br>*Thursday* | [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
 | **11:25 AM**<br>*Thursday* | Behind the @ – Dart Annotations in Depth | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |
 | **12:00 PM**<br>*Thursday* | From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features | [Mateusz Rus](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-rus) |  |
 | **01:50 PM**<br>*Thursday* | The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning | [Yugo Sugiyama](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#yugo-sugiyama) |  |

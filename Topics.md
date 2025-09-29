@@ -50,7 +50,7 @@
 | Fearless Flutter Debugging: When All Else Fails, Hack the Tools! | [Mateusz Wojtczak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-wojtczak) |  |
 | Flutter Plugins - From Method Channels to Native Interop | [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski) |  |
 | Kalender: A Calendar package in the spirit of Flutter | [Werner Scholtz](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#werner-scholtz) |  |
-| Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
+| [Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System](https://youtu.be/8wHduxySF-Q) | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
 ## Security
 
 | Title | Speakers | Resources |
@@ -61,7 +61,7 @@
 | Title | Speakers | Resources |
 | ----- | -------- | --------- |
 | Building Design Tools with Flutter: Challenges and Lessons Learned | [Bogdan Hobeanu](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#bogdan-hobeanu) |  |
-| Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
+| [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
 | From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features | [Mateusz Rus](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-rus) |  |
 | Taming Legacy: Refactoring Patterns for Large Flutter Codebases | [Marcin Chudy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcin-chudy) |  |
 | This App is Built Different: Advanced Memory Management in Flutter | [Maher Jaafar](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#maher-jaafar) |  |
@@ -72,7 +72,7 @@
 | DIY In-App Locale Editor with slang | [Łukasz Wiśniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#łukasz-wiśniewski) |  |
 | Ensuring quality throughout the application lifecycle | [Jonas Uekötter](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jonas-uekötter) |  |
 | Faster, Smarter Releases: Using AI to Accelerate Mobile Deployments in Flutter | [Omkar Pimple](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#omkar-pimple) |  |
-| Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
+| [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
 | Lessons learned after helping more than 2000 Flutter teams build their own design system | [Lucas Josefiak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#lucas-josefiak) |  |
 | Test Semantics with Golden Tests | [Sandra Lundh](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#sandra-lundh) |  |
 ## Third Party Libraries

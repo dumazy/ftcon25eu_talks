@@ -108,7 +108,7 @@
 
 
 
-**Unlocking Native Power: Deep Dive into Dart Build Hooks**
+**[Unlocking Native Power: Deep Dive into Dart Build Hooks](https://youtu.be/lFbVi_IeGB8)**
 
 
 ## Daria Orlova
@@ -170,7 +170,7 @@
 
 
 
-**The Future is Written in Dart**
+**[The Future is Written in Dart](https://youtu.be/aphP_Hc7KiI)**
 
 
 ## Esra Kadah
@@ -291,7 +291,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0
 
 
 
-**Let's go far with Flutter**
+**[Let's go far with Flutter](https://youtu.be/lgG3O_sScqU)**
 
 **Live-Coding With Simon (Part II)**
 
@@ -473,7 +473,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0
 
 
 
-**Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots**
+**[Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk)**
 
 
 ## Pawan Kumar
@@ -487,7 +487,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0
 
 
 
-**Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System**
+**[Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System](https://youtu.be/8wHduxySF-Q)**
 
 
 ## Renan Araujo
