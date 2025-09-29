@@ -9,7 +9,7 @@
 [Fré Dumazy](https://www.linkedin.com/in/dumazy/)
 ## X
 
-[Fré Dumazy](https://x.com/FresidentDumazy)
+[Fré Dumazy](https://x.com/FresidentDumazy), [Renan Araujo](https://x.com/reNotANumber)
 ## Personal Web
 
 

@@ -136,15 +136,6 @@
 **Surviving the Long Game: Maintaining Flutter Apps Over Time**
 
 
-## Dominik Roszkowski
-
-
-
-**Flutter Plugins - From Method Channels to Native Interop**
-
-**Surviving the Long Game: Maintaining Flutter Apps Over Time**
-
-
 ## Dominik Šimoník
 
 
@@ -500,10 +491,12 @@ Resources: [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0
 
 
 ## Renan Araujo
-
+[X](https://x.com/reNotANumber)
 
 
 **Flutter, Flame, and Fragment Shaders**
+
+Resources: [Slides](https://github.com/renancaraujo/liftoff)
 
 
 ## Renuka Kelkar

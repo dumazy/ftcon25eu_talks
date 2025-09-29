@@ -38,7 +38,7 @@
 | Flutter Widgets Probably Haven’t Heard Of | [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian) |  |
 | Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | [Matthew Jones](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#matthew-jones) |  |
 | Flutter with WebRTC for real-time screen sharing | [Stanislav Sydorenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#stanislav-sydorenko) |  |
-| Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) |  |
+| Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) | [Slides](https://github.com/renancaraujo/liftoff) |
 | Flutter-Powered Robot Butler: Building a Talking, Thinking IoT Device with Embedded AI | [Alex Bordei](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alex-bordei) |  |
 | From Flutter to Full-Stack: A Practical Guide to Full-stack Development | [Salih Guler](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#salih-guler) |  |
 | From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features | [Mateusz Rus](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-rus) |  |
