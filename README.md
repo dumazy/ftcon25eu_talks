@@ -71,7 +71,7 @@ Speakers: [list](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md
 | Crash-Proof Flutter: Building Apps That Refuse to Die | Pawan Kumar | Thursday | 10:30 AM |  |
 | Adding Google Maps Turn-by-Turn Navigation to Your Flutter App | Joonas Kerttula | Thursday | 10:30 AM |  |
 | Time for Flutter on the Apple Watch | Anton Borries | Thursday | 11:25 AM |  |
-| Behind the @ – Dart Annotations in Depth | Anna Leushchenko | Thursday | 11:25 AM |  |
+| [Behind the @ – Dart Annotations in Depth](https://youtu.be/3cx0tNxAmyc) | Anna Leushchenko | Thursday | 11:25 AM |  |
 | Exploring Real-Time 3D in Flutter with Gaussian Splatting – An Early Field Report | Jesper Bellenbaum, Tim Lehmann | Thursday | 11:25 AM |  |
 | I’m the entry point now | Marcin Wróblewski | Thursday | 11:25 AM |  |
 | From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features | Mateusz Rus | Thursday | 12:00 PM |  |

@@ -57,7 +57,7 @@
 
 **Automation for Enterprise-Scale Flutter Development**
 
-**Behind the @ – Dart Annotations in Depth**
+**[Behind the @ – Dart Annotations in Depth](https://youtu.be/3cx0tNxAmyc)**
 
 
 ## Anton Borries

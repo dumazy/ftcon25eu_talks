@@ -13,7 +13,7 @@
 | App Audit — Acing Your WCAG Accessibility Audit | [Enzo Conty](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#enzo-conty) |  |
 | Automation for Enterprise-Scale Flutter Development | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |
 | Banking on Flutter – The Virgin Money Journey | [Łukasz Kosman](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#łukasz-kosman), [Gary Mclellan](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#gary-mclellan) |  |
-| Behind the @ – Dart Annotations in Depth | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |
+| [Behind the @ – Dart Annotations in Depth](https://youtu.be/3cx0tNxAmyc) | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |
 | Beyond the widgets: Evaluating Flutter apps with code assessments | [Óscar Martín](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#óscar-martín) |  |
 | Breaking Career Plateaus: What’s Really Holding You Back in Tech? | [Sandra-Lorena Bahlmann](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#sandra-lorena-bahlmann) |  |
 | Build Your Own AI Sidekick with Flutter | [Moritz Theis](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#moritz-theis), [Alexander Thiele](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alexander-thiele) |  |

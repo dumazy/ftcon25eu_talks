@@ -16,7 +16,7 @@
 | **04:20 PM**<br>*Wednesday* | [Using Dart FFI for Compute-Heavy Tasks in Flutter Apps](https://youtu.be/eJR5C0VRCjU) | [Robert Odrowaz-Sypniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#robert-odrowaz-sypniewski) |  |
 | **09:20 AM**<br>*Thursday* | [The Future is Written in Dart](https://youtu.be/aphP_Hc7KiI) | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
 | **10:30 AM**<br>*Thursday* | [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
-| **11:25 AM**<br>*Thursday* | Behind the @ – Dart Annotations in Depth | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |
+| **11:25 AM**<br>*Thursday* | [Behind the @ – Dart Annotations in Depth](https://youtu.be/3cx0tNxAmyc) | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |
 | **12:00 PM**<br>*Thursday* | From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features | [Mateusz Rus](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-rus) |  |
 | **01:50 PM**<br>*Thursday* | The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning | [Yugo Sugiyama](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#yugo-sugiyama) |  |
 | **02:45 PM**<br>*Thursday* | Server-Side Rendering for Flutter Web: Promising Paths or Dead End? | [Simon Auer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-auer) |  |

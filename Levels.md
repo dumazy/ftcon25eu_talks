@@ -37,7 +37,7 @@
 | Adding Google Maps Turn-by-Turn Navigation to Your Flutter App | [Joonas Kerttula](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#joonas-kerttula) |  |
 | AnimatedTo: A Game Changer for Your Moving Animations | [Tsuyoshi Chujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#tsuyoshi-chujo) |  |
 | Automation for Enterprise-Scale Flutter Development | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |
-| Behind the @ – Dart Annotations in Depth | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |
+| [Behind the @ – Dart Annotations in Depth](https://youtu.be/3cx0tNxAmyc) | [Anna Leushchenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#anna-leushchenko) |  |
 | Beyond the widgets: Evaluating Flutter apps with code assessments | [Óscar Martín](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#óscar-martín) |  |
 | Build Your Own AI Sidekick with Flutter | [Moritz Theis](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#moritz-theis), [Alexander Thiele](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alexander-thiele) |  |
 | Building Design Tools with Flutter: Challenges and Lessons Learned | [Bogdan Hobeanu](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#bogdan-hobeanu) |  |
