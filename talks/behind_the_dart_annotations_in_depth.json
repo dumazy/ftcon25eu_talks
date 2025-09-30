@@ -12,7 +12,7 @@
     }
   ],
   "title": "Behind the @ – Dart Annotations in Depth",
-  "videoUrl": "",
+  "videoUrl": "https://youtu.be/3cx0tNxAmyc",
   "description": "As Flutter developers, you’ve almost certainly encountered annotations like `@override` and `@deprecated`. But Dart’s annotation system offers much more than just these built-in cases, yet this feature remains underused in the majority of projects.\r\n\r\nIn this talk, we’ll explore what annotations are, how to create custom ones, and how they can serve as code documentation, drive analyzer warnings, and power code generators. You’ll learn to apply Dart annotations in ways that improve developer experience and code maintainability.",
   "resources": [],
   "recommendations": [],
