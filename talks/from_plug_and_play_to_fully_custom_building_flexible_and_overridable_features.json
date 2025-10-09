@@ -12,7 +12,7 @@
     }
   ],
   "title": "From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features",
-  "videoUrl": "",
+  "videoUrl": "https://www.youtube.com/watch?v=Ic9Avt58b_4",
   "description": "This session is a deep dive into solving problems with flexible and overridable architecture. We will go through a real-world journey of refactoring a complex, shareable Flutter and Dart code, moving from common pitfalls to an architecture that is both powerful for the creator and a delight for the consumer. We will explore the nuanced decisions behind dependency injection, API design, and state management, demonstrating how to provide maximum flexibility without sacrificing ease of use. This is not a theoretical talk; it's a practical guide full of code, patterns, and hard-won lessons for anyone building reusable modules, packages, or large-scale Flutter applications.\r\n\r\n- Dual-API design: \"appliance\" widgets for instant integration alongside \"toolbox\" components for advanced composition\r\n\r\n- Multi-layer customization strategy: theme overrides, widget composition, builder patterns, dependency injection and more\r\n\r\n- Facade patterns and other design patterns that hide complexity while exposing every extension point\r\n\r\n- Type-safe parameter systems that users can extend without losing IDE support\r\n\r\n- State management integration that works with Provider, Riverpod, BLoC, or pure ValueNotifier/ChangeNotifier\r\n\r\nExamples: from simple theme changes to replacing entire data sources.",
   "resources": [],
   "recommendations": [],

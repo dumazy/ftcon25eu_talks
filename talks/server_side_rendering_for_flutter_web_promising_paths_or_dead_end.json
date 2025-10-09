@@ -6,13 +6,13 @@
       "companyName": "",
       "companyUrl": "",
       "githubUrlOrHandle": "",
-      "xUrlOrHandle": "",
+      "xUrlOrHandle": "https://x.com/SimonEritsch",
       "linkedinUrlOrHandle": "",
       "webUrl": ""
     }
   ],
   "title": "Server-Side Rendering for Flutter Web: Promising Paths or Dead End?",
-  "videoUrl": "",
+  "videoUrl": "https://www.youtube.com/watch?v=mxWCh2Y5RVo",
   "description": "You've built an amazing app for Android, iOS, or desktop—so why not take advantage of Flutter’s cross-platform power and bring it to the web?\r\n\r\nThe problem? SEO struggles, slow FMP & LCP, and poor indexing make it hard for Flutter Web to compete with React and other frameworks when search engine traffic matters.\r\n\r\nBut what if we could change that? We’ve been experimenting with server-side rendering, pre-rendering techniques, and performance optimizations to push Flutter Web beyond its limits. In this talk, we’ll share our findings—what worked, what didn’t, and whether Flutter Web can finally become a true contender.\r\n\r\nJoin us as we break down different approaches, weigh their pros and cons, and answer the big question: Is Flutter Web ready for prime time?",
   "resources": [],
   "recommendations": [],
