@@ -48,7 +48,7 @@
 | AnimatedTo: A Game Changer for Your Moving Animations | [Tsuyoshi Chujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#tsuyoshi-chujo) |  |
 | Building a Full-Stack App for Apple Wallet Passes | [Marcos Sevilla](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcos-sevilla) |  |
 | Fearless Flutter Debugging: When All Else Fails, Hack the Tools! | [Mateusz Wojtczak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-wojtczak) |  |
-| Flutter Plugins - From Method Channels to Native Interop | [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski) |  |
+| [Flutter Plugins - From Method Channels to Native Interop](https://www.youtube.com/watch?v=uFjF3OXSWNo) | [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski) |  |
 | Kalender: A Calendar package in the spirit of Flutter | [Werner Scholtz](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#werner-scholtz) |  |
 | [Lint Smarter, Not Harder: Migrating `leancode_lint` to the New Dart Analyzer Plugin System](https://youtu.be/8wHduxySF-Q) | [Piotr Rogulski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#piotr-rogulski) |  |
 ## Security
@@ -62,7 +62,7 @@
 | ----- | -------- | --------- |
 | Building Design Tools with Flutter: Challenges and Lessons Learned | [Bogdan Hobeanu](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#bogdan-hobeanu) |  |
 | [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
-| From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features | [Mateusz Rus](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-rus) |  |
+| [From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features](https://www.youtube.com/watch?v=Ic9Avt58b_4) | [Mateusz Rus](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-rus) |  |
 | Taming Legacy: Refactoring Patterns for Large Flutter Codebases | [Marcin Chudy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcin-chudy) |  |
 | This App is Built Different: Advanced Memory Management in Flutter | [Maher Jaafar](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#maher-jaafar) |  |
 ## Testing

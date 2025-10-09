@@ -33,7 +33,7 @@
 | Fearless Flutter Debugging: When All Else Fails, Hack the Tools! | [Mateusz Wojtczak](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-wojtczak) |  |
 | [Flipping the Testing Pyramid - Smarter Widget Testing with Spot & Robots](https://youtu.be/53NL68ZAfUk) | [Pascal Welsch](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#pascal-welsch) |  |
 | Flutter Performance: No Silver Bullet, Only Smart Engineering | [Mikhail Zotyev](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mikhail-zotyev) |  |
-| Flutter Plugins - From Method Channels to Native Interop | [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski) |  |
+| [Flutter Plugins - From Method Channels to Native Interop](https://www.youtube.com/watch?v=uFjF3OXSWNo) | [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski) |  |
 | Flutter Vibes Only: Join Us for the Flutter Vibe-Coding Workshop | [Ivanna Kaceviča](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ivanna-kaceviča), [Esra Kadah](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#esra-kadah) |  |
 | Flutter Widgets Probably Haven’t Heard Of | [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian) |  |
 | Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | [Matthew Jones](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#matthew-jones) | [Talk Repo](https://github.com/MatthewJones517/flutter_for_makers), [Dash Crochet Pattern](https://github.com/MatthewJones517/dash_crochet_pattern) |
@@ -41,7 +41,7 @@
 | Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#renan-araujo) | [Demo](https://github.com/renancaraujo/liftoff) |
 | Flutter-Powered Robot Butler: Building a Talking, Thinking IoT Device with Embedded AI | [Alex Bordei](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alex-bordei) |  |
 | From Flutter to Full-Stack: A Practical Guide to Full-stack Development | [Salih Guler](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#salih-guler) |  |
-| From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features | [Mateusz Rus](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-rus) |  |
+| [From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features](https://www.youtube.com/watch?v=Ic9Avt58b_4) | [Mateusz Rus](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-rus) |  |
 | From Zero to Flutter Favorite: What Makes a Great Dart & Flutter Package? | [Jonas Uekötter](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jonas-uekötter), [Christoph Schlüter](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#christoph-schlüter) |  |
 | From fear to air: embracing over-the-air app updates | [Mangirdas Kazlauskas](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mangirdas-kazlauskas) |  |
 | How to design a Dart package with hooks | [Moritz Sümmermann](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#moritz-sümmermann) |  |
@@ -78,7 +78,7 @@
 | Rethinking Flutter Interviews in the AI Era | [Vadym Pinchuk](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#vadym-pinchuk), [Elaine Dias Batista](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#elaine-dias-batista) |  |
 | Rolling Out AI at Scale in Mobile Engineering Teams | [Ilya Savin](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ilya-savin), [Maia Grotepass](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#maia-grotepass) |  |
 | Roundtable Topic: Escaping Chaos: Should Your Flutter Team Move to a Monorepo? | [Marcin Chudy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcin-chudy) |  |
-| Server-Side Rendering for Flutter Web: Promising Paths or Dead End? | [Simon Auer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-auer) |  |
+| [Server-Side Rendering for Flutter Web: Promising Paths or Dead End?](https://www.youtube.com/watch?v=mxWCh2Y5RVo) | [Simon Auer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-auer) |  |
 | Ship > Hype: Rolling Out AI at Scale to 60 Android Engineers | [Ilya Savin](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ilya-savin) |  |
 | Simpler state management with Dart on the server and synced databases | [Simon Binder](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-binder) |  |
 | Streamlining Development with the Monorepo Ecosystem | [Adam Eba](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#adam-eba) |  |
@@ -91,7 +91,7 @@
 | The "fastest" application of Flutter of all time! | [David DeRemer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#david-deremer), [Kyle Crouse](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kyle-crouse) |  |
 | The Art of Feature Delivery: Practical Tactics for Tech Leads and EMs | [Zoe Farooq](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#zoe-farooq) |  |
 | The DX Factor: From Developer Experience to Business Value | [Alessandro Mautone](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alessandro-mautone) |  |
-| The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning | [Yugo Sugiyama](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#yugo-sugiyama) |  |
+| [The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning](https://www.youtube.com/watch?v=TeQoJU-XHAk) | [Yugo Sugiyama](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#yugo-sugiyama) |  |
 | [The Future is Written in Dart](https://youtu.be/aphP_Hc7KiI) | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
 | The IDE Flutter Deserves | [Michael McRoskey](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#michael-mcroskey) |  |
 | The Indie Flutter Journey: Wins, Woes, and What We’d Do Differently | [Daria Orlova](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daria-orlova), [Cagatay Ulusoy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#cagatay-ulusoy) |  |

@@ -29,7 +29,7 @@ Speakers: [list](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md
 | Ship > Hype: Rolling Out AI at Scale to 60 Android Engineers | Ilya Savin | Wednesday | 10:25 AM |  |
 | Flutter, Flame, and Fragment Shaders | [Renan Araujo](https://x.com/reNotANumber) | Wednesday | 10:25 AM | [Demo](https://github.com/renancaraujo/liftoff) |
 | The IDE Flutter Deserves | Michael McRoskey | Wednesday | 10:25 AM |  |
-| Flutter Plugins - From Method Channels to Native Interop | Dominik Roszkowski | Wednesday | 10:25 AM |  |
+| [Flutter Plugins - From Method Channels to Native Interop](https://www.youtube.com/watch?v=uFjF3OXSWNo) | [Dominik Roszkowski](https://x.com/OrestesGaolin) | Wednesday | 10:25 AM |  |
 | Mastering Efficiency in 2025: How Are You Building Faster with Flutter? | Mateusz Wojtczak | Wednesday | 10:25 AM |  |
 | Why Your Context Doesn’t Work (And How to Fix It) | Bettina Carrizo | Wednesday | 10:25 AM |  |
 | DIY In-App Locale Editor with slang | Łukasz Wiśniewski | Wednesday | 11:20 AM |  |
@@ -74,19 +74,19 @@ Speakers: [list](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md
 | [Behind the @ – Dart Annotations in Depth](https://youtu.be/3cx0tNxAmyc) | Anna Leushchenko | Thursday | 11:25 AM |  |
 | Exploring Real-Time 3D in Flutter with Gaussian Splatting – An Early Field Report | Jesper Bellenbaum, Tim Lehmann | Thursday | 11:25 AM |  |
 | I’m the entry point now | Marcin Wróblewski | Thursday | 11:25 AM |  |
-| From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features | Mateusz Rus | Thursday | 12:00 PM |  |
+| [From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features](https://www.youtube.com/watch?v=Ic9Avt58b_4) | Mateusz Rus | Thursday | 12:00 PM |  |
 | Flutter for Makers: Create Interactive Experiences Using Flutter, Arduino, RPi, and More! | [Matthew Jones](https://x.com/makerinator) | Thursday | 12:00 PM | [Talk Repo](https://github.com/MatthewJones517/flutter_for_makers), [Dash Crochet Pattern](https://github.com/MatthewJones517/dash_crochet_pattern) |
 | Simpler state management with Dart on the server and synced databases | Simon Binder | Thursday | 12:00 PM |  |
 | Faster, Smarter Releases: Using AI to Accelerate Mobile Deployments in Flutter | Omkar Pimple | Thursday | 12:00 PM |  |
 | Quick Start MCP with Dart: Building LLM Context Servers Now | Jhin Lee | Thursday | 12:00 PM |  |
 | Rolling Out AI at Scale in Mobile Engineering Teams | Ilya Savin, Maia Grotepass | Thursday | 12:00 PM |  |
 | Joining at Staff+: Thriving in a Senior Role Without a Map | Xavier F. Gouchet | Thursday | 01:50 PM |  |
-| The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning | Yugo Sugiyama | Thursday | 01:50 PM |  |
+| [The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning](https://www.youtube.com/watch?v=TeQoJU-XHAk) | Yugo Sugiyama | Thursday | 01:50 PM |  |
 | No More Jank: How to Keep Your Flutter App Smooth and Snappy | Shree Bhagwat | Thursday | 01:50 PM |  |
 | Vibe Coding Full-Stack Dart – Build with Joy Beyond the UI | Viktor Lidholt | Thursday | 01:50 PM |  |
 | Design Systems in Practice: How Flutter Teams Save Time and Align with Design | Anton Borries, Lucas Josefiak | Thursday | 01:50 PM |  |
 | Kalender: A Calendar package in the spirit of Flutter | Werner Scholtz | Thursday | 01:50 PM |  |
-| Server-Side Rendering for Flutter Web: Promising Paths or Dead End? | Simon Auer | Thursday | 02:45 PM |  |
+| [Server-Side Rendering for Flutter Web: Promising Paths or Dead End?](https://www.youtube.com/watch?v=mxWCh2Y5RVo) | [Simon Auer](https://x.com/SimonEritsch) | Thursday | 02:45 PM |  |
 | The DX Factor: From Developer Experience to Business Value | Alessandro Mautone | Thursday | 02:45 PM |  |
 | Multi-Radio Flutter: Architecting Apps with UWB, BLE, and Beyond | Ahmed Hamdan | Thursday | 02:45 PM |  |
 | Building Offline AI Agent in your Flutter app | Sasha Denisov | Thursday | 02:45 PM |  |

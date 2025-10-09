@@ -128,10 +128,10 @@
 
 
 ## Dominik Roszkowski
+[X](https://x.com/OrestesGaolin)
 
 
-
-**Flutter Plugins - From Method Channels to Native Interop**
+**[Flutter Plugins - From Method Channels to Native Interop](https://www.youtube.com/watch?v=uFjF3OXSWNo)**
 
 **Surviving the Long Game: Maintaining Flutter Apps Over Time**
 
@@ -399,7 +399,7 @@ Resources: [Slides](https://docs.google.com/presentation/d/1Vz4V7kPEruyaz0w3ytZ0
 
 
 
-**From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features**
+**[From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features](https://www.youtube.com/watch?v=Ic9Avt58b_4)**
 
 
 ## Mateusz Wojtczak
@@ -553,10 +553,10 @@ Resources: [Demo](https://github.com/renancaraujo/liftoff)
 
 
 ## Simon Auer
+[X](https://x.com/SimonEritsch)
 
 
-
-**Server-Side Rendering for Flutter Web: Promising Paths or Dead End?**
+**[Server-Side Rendering for Flutter Web: Promising Paths or Dead End?](https://www.youtube.com/watch?v=mxWCh2Y5RVo)**
 
 
 ## Simon Binder
@@ -671,7 +671,7 @@ Resources: [Demo](https://github.com/renancaraujo/liftoff)
 
 
 
-**The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning**
+**[The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning](https://www.youtube.com/watch?v=TeQoJU-XHAk)**
 
 
 ## Zoe Farooq

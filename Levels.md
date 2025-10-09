@@ -20,7 +20,7 @@
 | Rethinking Flutter Interviews in the AI Era | [Vadym Pinchuk](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#vadym-pinchuk), [Elaine Dias Batista](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#elaine-dias-batista) |  |
 | Streamlining Development with the Monorepo Ecosystem | [Adam Eba](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#adam-eba) |  |
 | The "fastest" application of Flutter of all time! | [David DeRemer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#david-deremer), [Kyle Crouse](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#kyle-crouse) |  |
-| The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning | [Yugo Sugiyama](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#yugo-sugiyama) |  |
+| [The Flutter Journey of Building a Live Streaming App — With a Side of Performance Tuning](https://www.youtube.com/watch?v=TeQoJU-XHAk) | [Yugo Sugiyama](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#yugo-sugiyama) |  |
 | [The Future is Written in Dart](https://youtu.be/aphP_Hc7KiI) | [Eric Seidel](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#eric-seidel) |  |
 | The IDE Flutter Deserves | [Michael McRoskey](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#michael-mcroskey) |  |
 | The Indie Flutter Journey: Wins, Woes, and What We’d Do Differently | [Daria Orlova](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#daria-orlova), [Cagatay Ulusoy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#cagatay-ulusoy) |  |
@@ -96,10 +96,10 @@
 | DIY In-App Locale Editor with slang | [Łukasz Wiśniewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#łukasz-wiśniewski) |  |
 | Exploring Real-Time 3D in Flutter with Gaussian Splatting – An Early Field Report | [Jesper Bellenbaum](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#jesper-bellenbaum), [Tim Lehmann](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#tim-lehmann) |  |
 | Faster, Smarter Releases: Accelerating Mobile App Deployments | [Omkar Pimple](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#omkar-pimple) |  |
-| Flutter Plugins - From Method Channels to Native Interop | [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski) |  |
+| [Flutter Plugins - From Method Channels to Native Interop](https://www.youtube.com/watch?v=uFjF3OXSWNo) | [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski) |  |
 | Flutter with WebRTC for real-time screen sharing | [Stanislav Sydorenko](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#stanislav-sydorenko) |  |
 | Flutter-Powered Robot Butler: Building a Talking, Thinking IoT Device with Embedded AI | [Alex Bordei](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alex-bordei) |  |
-| From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features | [Mateusz Rus](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-rus) |  |
+| [From Plug-and-Play to Fully Custom: Building Flexible and Overridable Features](https://www.youtube.com/watch?v=Ic9Avt58b_4) | [Mateusz Rus](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mateusz-rus) |  |
 | From fear to air: embracing over-the-air app updates | [Mangirdas Kazlauskas](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#mangirdas-kazlauskas) |  |
 | I’m the entry point now | [Marcin Wróblewski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcin-wróblewski) |  |
 | Let’s Talk About Memory Leaks In Dart And Flutter | [Majid Hajian](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#majid-hajian) |  |
@@ -110,7 +110,7 @@
 | No touch. No gestures. Can you still build a Great UX? | [Vadym Pinchuk](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#vadym-pinchuk) |  |
 | Rolling Out AI at Scale in Mobile Engineering Teams | [Ilya Savin](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ilya-savin), [Maia Grotepass](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#maia-grotepass) |  |
 | Roundtable Topic: Escaping Chaos: Should Your Flutter Team Move to a Monorepo? | [Marcin Chudy](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#marcin-chudy) |  |
-| Server-Side Rendering for Flutter Web: Promising Paths or Dead End? | [Simon Auer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-auer) |  |
+| [Server-Side Rendering for Flutter Web: Promising Paths or Dead End?](https://www.youtube.com/watch?v=mxWCh2Y5RVo) | [Simon Auer](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-auer) |  |
 | Ship > Hype: Rolling Out AI at Scale to 60 Android Engineers | [Ilya Savin](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#ilya-savin) |  |
 | Streamlining Flutter Releases: What’s Your Process? | [Alba Torres Rodríguez](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#alba-torres-rodríguez) |  |
 | Surviving the Long Game: Maintaining Flutter Apps Over Time | [Dominik Roszkowski](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#dominik-roszkowski), [Simon Lightfoot](https://github.com/dumazy/ftcon25eu_talks/blob/main/Speakers.md#simon-lightfoot) |  |
